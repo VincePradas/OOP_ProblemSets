@@ -1,14 +1,20 @@
 public class Vehicle {
     public double load;
+    public double maxLoad;
 
-    public Vehicle(double load) {
-        if(load <= 10000)
-            this.load = load;
+    public Vehicle (double maxLoad) {
+        this.maxLoad = 10000;
+        if(maxLoad<this.maxLoad) 
+            this.load = maxLoad;
         else
-            System.out.println("Invalid load");
+            return;
     }
-
+    
     public double getLoad() {
         return this.load;
+    }
+
+    public double getMaxLoad() {
+        return this.maxLoad;
     }
 }
