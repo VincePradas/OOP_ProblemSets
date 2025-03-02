@@ -1,0 +1,501 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.openTournament{
+    height: auto;
+    width: 100%;
+    background: black;
+    position: relative;
+}
+
+
+
+
+.mcotModalContainer{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 997;
+    padding-top: 4vw;
+}
+.mcotModalContent{
+    height: auto;
+    width: 70%;
+    border-radius: 1vw;
+    box-shadow: 0 0 10px gray;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    position: relative;
+    padding: 2% 3%;
+    margin-top: 5%;
+}
+.mcotModalContent button#mcotmcClose{
+    display: flex;
+    position: absolute;
+    right: 2vw;
+    top: 2vw;
+    justify-content: right;
+    align-items: center;
+    background: none;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 1.3vw;
+    cursor: pointer;
+}
+.mcotModalContent h6{
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+}
+.mcotmcTeams{
+    height: auto;
+    width: 100%;
+    margin-top: 2%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.mcotmcTeam{
+    height: auto;
+    width: 100%;
+    padding: 2%;
+    border-radius: 0.5vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-bottom: 1%;
+}
+.mcotmcTeam:nth-child(odd) {
+    background: rgba(80, 80, 80, 0.5);
+}
+.mcotmcTeam:nth-child(even) {
+    background: rgba(80, 80, 80, 0.3);
+}
+.mcormctTeamname{
+    height: auto;
+    width: 40%;
+    overflow: hidden;
+}
+.mcormctTeamname h5{
+    font-size: 0.9vw;
+    font-family: "Mulish", sans-serif;
+    margin-bottom: 3%;
+}
+.mcormctTeamname p{
+    font-size: 0.7vw;
+}
+.mcormctTeamname p#mcormctStatus{
+    color: gray;
+}
+.mcormctTeamcaptain{
+    height: auto;
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
+    opacity: 30%;
+    text-decoration: none;
+}
+.mcormctTeamcaptain.active{
+    opacity: 100%;
+}
+.mcormctTeamcaptain div{
+    height: 4vw;
+    width: 4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: black;
+    overflow: hidden;
+    margin-bottom: 15%;
+}
+
+.mcormctTeamcaptain img{
+    height: 100%;
+}
+.mcormctTeamcaptain img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.mcormctTeamcaptain img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.mcormctTeamcaptain img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.mcormctTeamcaptain p{
+    font-size: 0.7vw;
+    line-height: 0.7vw;
+}
+.mcormctTeamcaptain p span{
+    font-size: 0.5vw;
+    color: gray;
+}
+.mcormctTeamplayer{
+    height: auto;
+    width: 10%;
+    text-align: center;
+    cursor: pointer;
+    opacity: 30%;
+    text-decoration: none;
+}
+.mcormctTeamplayer.active{
+    opacity: 100%;
+}
+.mcormctTeamplayer div{
+    height: 4vw;
+    width: 4vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: black;
+    overflow: hidden;
+    margin-bottom: 15%;
+}
+.mcormctTeamplayer img{
+    height: 100%;
+}
+.mcormctTeamplayer img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.mcormctTeamplayer img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.mcormctTeamplayer img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.mcormctTeamplayer p{
+    font-size: 0.7vw;
+    line-height: 0.7vw;
+}
+.mcormctTeamplayer p span{
+    font-size: 0.5vw;
+    color: gray;
+}
+
+
+
+
+
+section.opentPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 15vw;
+    position: relative;
+    overflow: hidden;
+    /* background: 
+        linear-gradient(#000 5%, transparent),
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/mlbbOpenTournament.jpg') no-repeat top center;
+    background-size: cover; */
+}
+.opentPageContent.top{
+    height: auto;
+    width: 100%;
+}
+.opentPageContent.top img#otpct1Img{
+    height: 15vw;
+    display: flex;
+    margin: 1% auto;
+}
+.otptopDetails{
+    height: auto;
+    width: 100%;
+}
+.otptpddTitle{
+    height: auto;
+    width: 100%;
+    padding: 0 10%;
+    text-align: center;
+}
+
+
+
+.otptpddListedContainer{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.otptpddForm{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    margin: 2% 0;
+}
+.otptpddfContent{
+    background: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px black;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 5% 15%;
+    padding-bottom: 8%;
+    border-radius: 1vw;
+    position: relative;
+}
+.otptpddfContent button#otptpddfcList{
+    position: absolute;
+    top: 1vw;
+    right: 1vw;
+    margin: 0;
+    padding: 5px 15px;
+    cursor: pointer;
+    transition: 400ms ease;
+    display: none;
+}
+.otptpddfContent button#otptpddfcList:hover{
+    color: black;
+    background: white;
+    box-shadow: 0 0 10px white;
+    transition: 400ms ease;
+    opacity: 100%;
+}
+.otptpddfContent h6{
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 600;
+    height: 5vw;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+.otptpddfc{
+    height: auto;
+    width: 100%;
+    padding: 0 10%;
+}
+.otptpddfc div{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+.otptpddfc div ul{
+    height: 10vw;
+    width: 100%;
+    position: absolute;
+    top: 3vw;
+    left: 0;
+    background: white;
+    border-radius: 1vw;
+    list-style: none;
+    padding: 1% 3%;
+    z-index: 2;
+    overflow: scroll;
+}
+.otptpddfc div ul li p{
+    color: black;
+    margin: 2% 0;
+}
+.otptpddfc p#formResponse{
+    text-align: center;
+    height: 2vw;
+    color: gray;
+    font-style: italic;
+}
+.otptpddfc p#checkListedTeams{
+    text-align: center;
+    height: 2vw;
+}
+.otptpddfc p#checkListedTeams span{
+    color: gold;
+    cursor: pointer;
+}
+.otptpddfContent input{
+    width: 100%;
+    font-size: 0.9vw;
+    padding: 5px 15px;
+    border: solid 2px white;
+    background: none;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    margin: 2% 0;
+}
+.otptpddfContent label p{
+    font-size: 0.7vw;
+    margin-top: 3%;
+    color: gray;
+}
+.otptpddfContent button{
+    padding: 10px 10%;
+    font-size: 0.7vw;
+    display: flex;
+    margin: 5% auto;
+    background: none;
+    color: white;
+    border: solid 2px white;
+    border-radius: 50px;
+    cursor: not-allowed;
+    opacity: 50%;
+    transition: 400ms ease;
+}
+.otptpddfContent button.active{
+    opacity: 100%;
+    transition: 400ms ease;
+    cursor: pointer;
+}
+.otptpddfContent button.active:hover{
+    opacity: 100%;
+    background: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+    transition: 400ms ease;
+}
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.openTournament{
+        padding-top: 13vh;
+    }
+    section.opentPageContainer.top{
+        padding-bottom: 20vw;
+        background: 
+            linear-gradient(#000 -50%, transparent),
+            linear-gradient(transparent, #000 90%), 
+            url('../assets/imgs/mlbbOpenTournamentMobile.png') no-repeat top center;
+        background-size: cover;
+    }
+    .otptpddfContent{
+        background: rgba(0, 0, 0, 0.4);
+        box-shadow: 0 0 10px black;
+    }
+    .opentPageContent.top img{
+        height: 30vw;
+        display: flex;
+        margin: 0 auto;
+    }
+    .otptpddTitle{
+        padding: 0;
+    }
+    .otptpddTitle p{
+        font-size: 2.5vw;
+    }
+    .otptpddForm{
+        padding: 0;
+        margin: 10% 0;
+    }
+    .otptpddfContent{
+        padding: 5% 10%;
+        padding-bottom: 8%;
+        border-radius: 2vw;
+    }
+    .otptpddfContent button#otptpddfcList{
+        display: none;
+    }
+    .otptpddfContent h6{
+        font-size: 3.5vw;
+        height: 10vw;
+        margin-bottom: 3%;
+    }
+    .otptpddfc{
+        padding: 0;
+    }
+    .otptpddfc div ul{
+        height: 30vw;
+        top: 10vw;
+        border-radius: 2vw;
+        padding: 1% 5%;
+        z-index: 2;
+        overflow: scroll;
+    }
+    .otptpddfc div ul li p{
+        font-size: 2.5vw;
+        margin: 3% 0;
+    }
+    .otptpddfc p#formResponse{
+        height: 3vw;
+        font-size: 2.5vw;
+    }
+    .otptpddfc p#checkListedTeams{
+        display: none;
+    }
+    .otptpddfContent input{
+        font-size: 3vw;
+    }
+    .otptpddfContent label p{
+        font-size: 2.3vw;
+        color: white;
+    }
+    .otptpddfContent button{
+        font-size: 2.5vw;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+

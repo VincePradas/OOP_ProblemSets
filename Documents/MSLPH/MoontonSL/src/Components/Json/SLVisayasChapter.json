@@ -1,0 +1,2041 @@
+[
+    {
+     "Region": "Visayas",
+     "name": "Bago City College",
+     "location": "Bago, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Vicente A. Javier Memorial Community College",
+     "location": "Culasi, Antique"
+    },
+    {
+     "Region": "Visayas",
+     "name": "La Carlota City College",
+     "location": "La Carlota City, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Batan Integrated College of Technology",
+     "location": "Batan, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bacolod City College",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Libacao College of Science and Technology",
+     "location": "Libacao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Altavas College",
+     "location": "Altavas"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Balete Community College",
+     "location": "Balete, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Passi City College",
+     "location": "Passi City, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo City Community College",
+     "location": "Molo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Malay College",
+     "location": "Malay, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan State University- Banga Campus",
+     "location": "Banga, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Main",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carlos Hilado Memorial State University-Main",
+     "location": "Talisay, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Guimaras State College- Main",
+     "location": "Buenavista, Guimaras"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo State College of Fisheries-Main",
+     "location": "Barotac Nuevo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Negros State College of Science and Technology",
+     "location": "Sagay City, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Main Campus",
+     "location": "Kabankalan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Estancia Iloilo",
+     "location": "Estancia, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Antique - Main",
+     "location": "Sibalom, Antique"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Main",
+     "location": "La Paz, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Science and Technology University- Main",
+     "location": "La Paz, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan State University- New Washington",
+     "location": "New Washington, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Antique - Hamtic",
+     "location": "Hamtic, Antique"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Batad Campus",
+     "location": "Batad, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Calinog Campus",
+     "location": "Calinog, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carlos Hilado Memorial State University-Bacolod Campus",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Concepcion Campus",
+     "location": "Concepcion, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo State College of Fisheries-Dingle Campus",
+     "location": "Dingle, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo State college of Fisheries-Dumangas Campus",
+     "location": "Dumangas"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Guimaras State College- Mosqueda",
+     "location": "Jordan, Guimaras"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Negros State College of Science and Technology-Escalante",
+     "location": "Escalante City, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Negros State College of Science and Technology-Calatrava",
+     "location": "Calatrava, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Lambunao Campus",
+     "location": "Lambunao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Science and Technology University- Leon Campus",
+     "location": "Leon, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carlos Hilado Memorial State University -College of Fisheries-Binalbagan",
+     "location": "Binalbagan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Barotac Viejo Campus",
+     "location": "Barotac Viejo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Burias Campus",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Philippine Normal University-Cadiz",
+     "location": "Cadiz, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Pototan Campus",
+     "location": "Pototan, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Pontevedra Campus",
+     "location": "Pontevedra, Capiz"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan State University- Kalibo Campus",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo State College of Fisheries-San Enrique Campus",
+     "location": "San Enrique, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Science and Technology University- Miagao Campus",
+     "location": "Miagao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Antique - Tario Lim Antique School of Fisheries",
+     "location": "Tibiao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Technological University of the Philippines-Visayas",
+     "location": "Talisay, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Philippines Visayas",
+     "location": "Miagao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Sara Campus",
+     "location": "Sara, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Janiuay Campus",
+     "location": "Janiuay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Lemery Campus",
+     "location": "Lemery, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo State College of Fisheries-Barotac Nuevo Campus",
+     "location": "Barotac Nuevo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Iloilo State University-Ajuy Campus",
+     "location": "Ajuy, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Sigma Campus",
+     "location": "Sigma, Capiz"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan State University- Ibajay Campus",
+     "location": "Ibajay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan State University- Makato",
+     "location": "Makato"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carlos Hilado Memorial State University-Alijis",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Science and Technology University- Dumangas Campus",
+     "location": "Dumangas"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Science and Technology University- Barotac Nuevo Campus",
+     "location": "Barotac Nuevo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Cauayan Campus",
+     "location": "Cauayan, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Sipalay Campus",
+     "location": "Sipalay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Pilar Campus",
+     "location": "Pilar, Capiz"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Tapaz Campus",
+     "location": "Tapaz"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Dumarao Campus",
+     "location": "Dumarao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Ilog Campus",
+     "location": "Ilog, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Poblacion Mambusao",
+     "location": "Mambusao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Capiz State University- Dayao",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Moises Padilla Campus",
+     "location": "Moises Padilla"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Hinoba-an Campus",
+     "location": "Hinoba-an"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Candoni",
+     "location": "Candoni"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-College of Agriculture and Forestry Lambunao",
+     "location": "Lambunao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "West Visayas State University-Himamaylan Campus Extension",
+     "location": "Himamaylan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University-Hinigaran Campus",
+     "location": "Hinigaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University - Victorias City Campus",
+     "location": "Victorias"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippines State University - San Carlos Campus",
+     "location": "San Carlos, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Guimaras State College- Baterna Campus",
+     "location": "San Lorenzo, Guimaras"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan Catholic College",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Aklan Polytechnic College",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACSI College Iloilo",
+     "location": "La Paz, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Binalbagan Catholic College",
+     "location": "Binalbagan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cabalum Western College",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cabarrus Catholic College",
+     "location": "Sipalay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippine Adventist College",
+     "location": "Murcia, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippine University",
+     "location": "Jaro, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de la Purisima Concepcion",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio San Agustin-Bacolod",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de San Jose-Jaro",
+     "location": "Jaro, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio De Santa Rita De San Carlos",
+     "location": "San Carlos, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio del Sagrado Corazon de Jesus",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Fellowship Baptist College of Kabankalan",
+     "location": "Kabankalan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Filamer Christian University",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Garcia College of Technology",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Doctors' College",
+     "location": "Molo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Doctors' College of Medicine",
+     "location": "Molo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "John B. Lacson Colleges Foundation-Bacolod",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "John B. Lacson Foundation Maritime University-Molo",
+     "location": "Molo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "John B. Lacson Foundation Maritime University-Arevalo",
+     "location": "Arevalo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Kabankalan Catholic College",
+     "location": "Kabankalan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "La Consolacion College-Bacolod",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "La Consolacion College-Isabela",
+     "location": "Isabela, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mount Carmel College",
+     "location": "Escalante City, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Therese-MTC Colleges- Tigbauan",
+     "location": "Tigbauan, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "North Negros College",
+     "location": "Cadiz, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northwestern Visayan Colleges",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Riverside College",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Anthony College of Roxas City",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Anthony's College-Antique",
+     "location": "San Jose de Buenavista"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Gabriel College",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Paul University of Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Vincent Ferrer Seminary",
+     "location": "Jaro, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sancta Maria Mater et Regina Seminarium",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Silay Institute",
+     "location": "Silay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Santo Niño Seminary",
+     "location": "Numancia, Aklan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Negros Occidental- Recoletos",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Saint La Salle",
+     "location": "La Salle Avenue, Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of San Agustin",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "VMA Global College",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI West Negros University",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Western Institute of Technology",
+     "location": "La Paz, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Pandan Bay Institute",
+     "location": "Pandan, Antique"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Tañon College",
+     "location": "San Carlos, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "AMA Computer College-Bacolod",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "AMA Computer College-Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Interface Computer College-Iloilo",
+     "location": "Mandurriao, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "College of St. John-Roxas",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mater Dei College-Silay City",
+     "location": "Silay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Therese-MTC Colleges-La Fiesta",
+     "location": "Molo, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ABE International Business College-Bacolod City",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Integrated Midwives Association of the Philippines Foundation School of Midwifery",
+     "location": "Jaro, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Therese-MTC Colleges- Magdalo",
+     "location": "La Paz, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ABE International Business College-Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI College-Kalibo",
+     "location": "Kalibo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Convention Baptist Bible College",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Hercor College",
+     "location": "Roxas City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sacred Heart Seminary (Bacolod) School",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint John Mary Vianney Seminary College",
+     "location": "San Carlos, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Vincent College of Science and Technology",
+     "location": "Leganes, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southland College of Kabankalan City",
+     "location": "Kabankalan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "CEDAR College",
+     "location": "Cadiz, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Advance Central College",
+     "location": "San Jose de Buenavista"
+    },
+    {
+     "Region": "Visayas",
+     "name": "GSEF College",
+     "location": "Cabatuan, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACLC College of Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de Sta. Ana de Victorias",
+     "location": "Victorias"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Santa Isabel College of Iloilo City",
+     "location": "Mandurriao, Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Hua Siong College of Iloilo",
+     "location": "Iloilo City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Catholic Ming Yuan College",
+     "location": "Murcia, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "College of Arts and Sciences of Asia and the Pacific-Bacolod City",
+     "location": "Bacolod"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Philippine College of Business and Accountancy",
+     "location": "Nueva Valencia"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Vincent College of Business and Accountancy",
+     "location": "Ivisan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "I-Tech College-Bago City",
+     "location": "Bago, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Iloilo Merchant Marine School",
+     "location": "Pavia, Iloilo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Perpetual Help System Laguna Pueblo de Panay Campus",
+     "location": "Roxas, Capiz"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Baptist Missionary Association Bible College",
+     "location": "Talisay, Negros Occidental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Trinidad Municipal College",
+     "location": "Trinidad, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Buenavista Community College",
+     "location": "Buenavista, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Talisay City College",
+     "location": "Talisay, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cordova Public College",
+     "location": "Cordova, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Madridejos Community College",
+     "location": "Madridejos, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mandaue City College",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Consolacion Community College",
+     "location": "Consolacion"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sibonga Community College",
+     "location": "Sibonga"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Lapu-lapu City College",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carcar City College",
+     "location": "Carcar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Tagbilaran City College",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Talibon Polytechnic College",
+     "location": "Talibon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de Getafe",
+     "location": "Getafe, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Normal University",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University - Main",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Main Campus",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Siquijor State College",
+     "location": "Larena, Siquijor"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University - Bilar",
+     "location": "Bilar, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University - Tagbilaran",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University - Candijay",
+     "location": "Candijay, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University - Calape",
+     "location": "Calape, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Polytechnic College"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Normal University\n- Balamban",
+     "location": "Balamban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Normal University\n- Medellin",
+     "location": "Medellin, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Mabinay Institute of Technology",
+     "location": "Mabinay, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-Argao Campus",
+     "location": "Argao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University- Daanbantayan Campus",
+     "location": "Daanbantayan, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-Danao City Campus",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-Barili Campus",
+     "location": "Barili, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-Moalboal Campus",
+     "location": "Moalboal"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-San Francisco Campus",
+     "location": "San Francisco, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University-Tuburan Campus",
+     "location": "Tuburan, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Bais 1",
+     "location": "Bais, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Guihulngan",
+     "location": "Guihulngan City, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University -Bais II",
+     "location": "Bais, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Bayawan",
+     "location": "Bayawan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Philippine State College of Aeronautics-Mactan Air Base",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Oriental State University-Siaton Community College",
+     "location": "Siaton"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Philippines Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Technological University - College of",
+     "location": "Carmen, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Fisheries Technology - Carmen"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University - Clarin",
+     "location": "Clarin, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Island State University-Balilihan Campus",
+     "location": "Balilihan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "AMA Computer College-Cebu City",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Asian College of Technology",
+     "location": "Talisay, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "BIT International College - Siquijor",
+     "location": "Siquijor, Siquijor"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Baptist Theological College",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Blessed Trinity College",
+     "location": "Talibon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "BIT International College- Tagbilaran",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Institute of Technology- Jagna",
+     "location": "Jagna, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "BIT International College- Talibon",
+     "location": "Talibon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "CATS Aero College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Doctor's University",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Doctor's University College of Medicine",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Eastern College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Institute of Medicine",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Institute of Technology- University",
+     "location": "Natalio Bacalso Avenue, Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Roosevelt Memorial College",
+     "location": "Bogo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Paul College Foundation",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu School of Midwifery",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "College of Technological Sciences-Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio De Santa Catalina De Alejandria",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Concord Technical Institute",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Name University",
+     "location": "Cor. Gallegas and Lessage Sts.,Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Diaz College",
+     "location": "Tanjay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Felipe R. Verallo Memorial Foundation-Bogo",
+     "location": "Bogo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Foundation University",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas- Gullas College of Medicine",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Trinity College",
+     "location": "Ginatilan, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Immaculate Heart of Mary Seminary",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Indiana School of Aeronautics",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas- Mandaue Campus",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mater Dei College-Bohol",
+     "location": "Tubigon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Cebu College",
+     "location": "Bogo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "PMI Colleges-Bohol",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Francis College- Guihulngan",
+     "location": "Guihulngan City, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Joseph College of Canlaon",
+     "location": "Canlaon City, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Joseph Seminary College",
+     "location": "Sibulan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Paul University Dumaguete",
+     "location": "L. Rovira Rd, Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Theresa's College of Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Salazar Colleges of Science and Institute of Technology",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "San Carlos Seminary College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Silliman University",
+     "location": "Hibbard Avenue, Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southwestern University",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Catherine's College",
+     "location": "Carcar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southwestern University- Matias H. Aznar Memorial College of Medicine",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas- Toledo City Campus",
+     "location": "Toledo City, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Bohol",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of San Carlos",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of San Jose- Recoletos",
+     "location": "Cor. Magallanes and P. Lopez Sts., Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Southern Philippines Foundation",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas",
+     "location": "Colon, Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Quezon Memorial Institute of Siquijor",
+     "location": "Siquijor, Siquijor"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Velez College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Villaflores College",
+     "location": "Tanjay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Batuan Colleges",
+     "location": "Batuan, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Don Bosco Technology Center",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros Maritime College Foundation",
+     "location": "Sibulan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Royal Christian College",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Cebu-Lapulapu and Mandaue",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Asian College of Science and Technology-Dumaguete",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "De La Salle Andres Soriano Memorial College",
+     "location": "Toledo City, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bantayan Southern Institute",
+     "location": "Bantayan, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mount Moriah College",
+     "location": "Poro, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Presbyterian Theological College",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI College-Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayan Nazarene Bible College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Northern Star College",
+     "location": "Ubay, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "CBD College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Consolatrix College of Toledo City",
+     "location": "Toledo City, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Evangelical Theological College of the Philippines",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Louise de Marillac College-Bogo",
+     "location": "Bogo"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Seminaryo Mayor de San Carlos",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Advanced Institute of Technology",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Collegium Societatis Angeli Pacis",
+     "location": "Talisay, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Centre for International Education Global Colleges",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "BIT International College- Carmen",
+     "location": "Carmen, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "AMA Computer College- Dumaguete City",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas - Gullas College Danao City Branch",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Negros College",
+     "location": "Ayungon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Benedicto College",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northeastern Cebu Colleges",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Paul College Foundation- Mandaue",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Cebu-Banilad",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Northwestern Colleges",
+     "location": "Catigbian"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Sacred Heart College",
+     "location": "Talisay, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Larmen De Guia Memorial College",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Interface Computer College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mary's Children Formation College",
+     "location": "Minglanilla"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Rogationist Seminary College-Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de San Antonio de Padua",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cristal e-College-Tagbilaran",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI College-Bohol",
+     "location": "Dauis, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Visayas- Gullas College Minglanilla Campus",
+     "location": "Minglanilla"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol Wisdom School",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Central Philippine Bible College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cebu Mary Immaculate College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACLC College of Mandaue",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Immanuel Bible College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Trade-Tech International Science Institute",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Cristal e-College (Panglao Campus)",
+     "location": "Panglao"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Professional Academy of the Philippines",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "La Consolacion College- Liloan",
+     "location": "Liloan, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sto. Tomas College-Danao City",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Microsystem International Institute of Technology",
+     "location": "Naga City, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Metro Dumaguete College",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of The Visayas- Dalaguete Campus",
+     "location": "Dalaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Maxino College-Dumaguete",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "La Consolacion College-Bais",
+     "location": "Bais, Negros Oriental"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Lyceum of Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Golden Success College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACLC-Tagbilaran",
+     "location": "Tagbilaran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Cecilia's College - Cebu",
+     "location": "Minglanilla"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Louis College -Cebu",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mary Our Help Technical Institute for Women",
+     "location": "Minglanilla"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Carmelite College - Siquijor",
+     "location": "Siquijor, Siquijor"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Rosemont Hills Montessori College",
+     "location": "Danao, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Salazar Colleges of Science and Institute of Technology- Madredijos",
+     "location": "Madridejos, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Tabor Hills College",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Rizwoods Colleges",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Informatics College Cebu",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bohol International Learning College",
+     "location": "Cortes, Bohol"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI College - Dumaguete",
+     "location": "Dumaguete"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Cebu College of Medicine Foundation",
+     "location": "Mandaue"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Benthel Asia School of Technology",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Salazar Colleges of Science and Institute of Technology- Talisay City",
+     "location": "Talisay, Cebu"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Rizwoods College-Lapulapu",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sto. Niño Mactan College",
+     "location": "Lapu-Lapu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Asian College of Technology International Educational Foundation",
+     "location": "Cebu City"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Abuyog Community College",
+     "location": "Abuyog"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio De Las Navas",
+     "location": "Las Navas"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Burauen Community College",
+     "location": "Burauen"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Samar State University",
+     "location": "Borongan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas State University",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Leyte Normal University",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Biliran Province State University-Main",
+     "location": "Naval, Biliran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Palompon Institute of Technology",
+     "location": "Palompon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Samar State University",
+     "location": "Catbalogan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University",
+     "location": "Sogod, Southern Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northwest Samar State University",
+     "location": "Calbayog"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Eastern Philippines",
+     "location": "Catarman, Northern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayas State University",
+     "location": "Baybay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Biliran Province State University-Biliran Campus",
+     "location": "Biliran, Biliran"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Samar State University-Can-Avid Campus",
+     "location": "Can-Avid"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas State University-Carigara Campus",
+     "location": "Carigara"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Samar State University-Guiuan Campus",
+     "location": "Guiuan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayas State University-Isabel Campus",
+     "location": "Isabel, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Eastern Philippines-Laoang Campus",
+     "location": "Laoang"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayas State University-Villaba Campus",
+     "location": "Villaba"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas State University-Tanauan Campus",
+     "location": "Tanauan, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayas State University-Alang- Alang Campus",
+     "location": "Alangalang"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Visayas State University-Tolosa Campus",
+     "location": "Tolosa, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of Eastern Philippines-Catubig Campus",
+     "location": "Catubig"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University-Bontoc Campus",
+     "location": "Bontoc, Southern Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northwest Samar State University-San Jorge Campus",
+     "location": "San Jorge, Western Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Samar State University-Mercedes Campus",
+     "location": "Catbalogan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Samar State University-Basey Campus",
+     "location": "Basey"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University-San Juan Campus",
+     "location": "San Juan, Southern Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University-Hinunangan Campus",
+     "location": "Hinungangan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Samar State University-Salcedo Campus",
+     "location": "Salcedo, Eastern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University-Tomas Oppus Campus",
+     "location": "Tomas Oppus"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Philippines Tacloban College",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas State University-Burauen Campus",
+     "location": "Burauen"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Palompon Institute of Technology-Tabango Campus",
+     "location": "Tabango"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas State University-Ormoc Campus",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Samar State University-Maydolong Campus",
+     "location": "Maydolong"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Samar State University-Paranas Campus",
+     "location": "Paranas"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Southern Leyte State University-Maasin Campus",
+     "location": "Maasin"
+    },
+    {
+     "Region": "Visayas",
+     "name": "University of the Philippines Manila - School of Health Sciences",
+     "location": "Palo, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Asian Development Foundation College",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Christ the King College-Calbayog City",
+     "location": "Calbayog"
+    },
+    {
+     "Region": "Visayas",
+     "name": "The College of Maasin",
+     "location": "Maasin"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Dr. V. Orestes Romualdez Educational Foundation",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Doña Remedios Trinidad- Romualdez Medical Foundation",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Franciscan College of the Immaculate Conception",
+     "location": "Baybay"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Infant College",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Leyte Colleges",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Mary's College of Catbalogan",
+     "location": "Catbalogan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sacred Heart Seminary",
+     "location": "Palo, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Joseph College",
+     "location": "Maasin"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Mary's College of Borongan",
+     "location": "Borongan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. Peter's College of Ormoc",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Vincent De Paul College Seminary",
+     "location": "Calbayog"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Samar Colleges",
+     "location": "Catbalogan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de San Lorenzo Ruiz de Manila of Northern Samar",
+     "location": "Catarman, Northern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Paul School of Professional Studies",
+     "location": "Palo, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Thomas Aquinas College",
+     "location": "Sogod, Southern Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Sto. Niño College of Ormoc",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Western Leyte College of Ormoc City",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "JE Mondejar Computer College",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Mater Divinae Gratiae College",
+     "location": "Dolores, Eastern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Our Lady of Mercy College",
+     "location": "Borongan"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Bato Institute of Science and Technology",
+     "location": "Bato, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Cross College of Carigara",
+     "location": "Carigara"
+    },
+    {
+     "Region": "Visayas",
+     "name": "STI College-Ormoc",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Eastern Visayas Central Colleges",
+     "location": "Catarman, Northern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "AMA Computer College-Tacloban City",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Scholastica's College- Tacloban",
+     "location": "Palo, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ABE International College of Business and Economics-Tacloban City",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Saint Michael College of Hindang",
+     "location": "Hindang"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Spirit College Foundation of Leyte",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Montano Lamberte Go College of Learning",
+     "location": "Hilongos"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Northern Samar Colleges",
+     "location": "Catarman, Northern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Asia College of Advance Studies In Arts Sciences and Technology",
+     "location": "Bobon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "St. John the Evangelist School of Theology",
+     "location": "Palo, Leyte"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de San Juan Samar",
+     "location": "Lavezares"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio De Sta. Lourdes of Leyte Foundation",
+     "location": "Tabontabon"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Colegio de la Salle Fondation de Tacloban",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Holy Virgin of Salvacion Foundation College",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "San Lorenzo Ruiz College of Ormoc",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACLC College-Tacloban City",
+     "location": "Tacloban"
+    },
+    {
+     "Region": "Visayas",
+     "name": "ACLC College-Ormoc",
+     "location": "Ormoc"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Tan Ting Bing Memorial Colleges Foundation",
+     "location": "San Isidro, Northern Samar"
+    },
+    {
+     "Region": "Visayas",
+     "name": "Global School for Technological Studies",
+     "location": "Catarman, Northern Samar"
+    }
+   ]
+   

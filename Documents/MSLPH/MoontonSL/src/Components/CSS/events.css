@@ -1,0 +1,336 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.events{
+    height: auto;
+    width: 100%;
+    background: black;
+    padding-bottom: 10vw;
+}
+
+
+
+
+section.eventsPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/LandingBG.png') no-repeat top center;
+    background-size: cover;
+}
+.eventsPageContent.top1{
+    height: auto;
+    width: 100%;
+}
+.eventsPageContent.top1 h4{
+    font-size: 3vw;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.eventsPageContent.top1 h6{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.evntpcHighlights{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.36) url('../assets/imgs/PLainBG.png') no-repeat center;
+    background-size: cover;
+    box-shadow: 0 0 10px rgb(75, 75, 75);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    border-radius: 1vw;
+    padding: 2% 5%;
+    margin: 2% 0;
+    overflow: hidden;
+}
+.evntshlght.left{
+    height: auto;
+    width: 50%;
+}
+.evntshlght.left h4{
+    font-size: 2vw;
+    line-height: 3vw;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-bottom: 5%;
+}
+.evntshlght.left h6{
+    text-align: left;
+}
+.evntshlght.left p{
+    margin: 3% 0;
+}
+.evntshlghtl{
+    height: auto;
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: right;
+}
+.evntshlghtl a{
+    text-decoration: none;
+    font-size: 0.9vw;
+    padding: 1% 7%;
+    border: solid 2px white;
+    border-radius: 50px;
+    color: white;
+}
+.evntshlghtl a:hover{
+    background: white;
+    color: black;
+    transition: 400ms ease;
+    box-shadow: 0 0 10px white;
+}
+.evntshlght.right.mobile{
+    display: none;
+}
+.evntshlght.right{
+    height: 30vw;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fade-in-up 1.5s ease;
+}
+.evntshlght.right img{
+    height: 100%;
+    width: auto;
+    animation: spin 20s infinite linear;
+    transform-style: preserve-3d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+section.eventsPageContainer.mid{
+    height: auto;
+    width: 100%;
+    padding: 1% 10%;
+    position: relative;
+    overflow: hidden;
+}
+.eventsPageContent.mid1{
+    height: auto;
+    width: 100%;
+}
+.eventsPageContent.mid1 h4{
+    font-size: 2.5vw;
+    font-family: 'Poppins', sans-serif;
+}
+.evntpcOthers{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: top;
+    margin: 2% 0;
+}
+.evntpcoRecent{
+    height: auto;
+    width: 32%;
+    margin-bottom: 1.5%;
+    box-shadow: 0 0 10px rgb(75, 75, 75);
+    border-radius: 1vw;
+    margin: 0.65%;
+    padding: 2%;
+    text-decoration: none;
+    overflow: hidden;
+    position: relative;
+}
+.evntpcoRecent img{
+    width: 100%;
+}
+.evntpcoRecent h5{
+    font-size: 1.2vw;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    margin: 2% 0;
+}
+.evntpcoRecent p{
+    text-align: center;
+}
+.evntpcoRecent div{
+    height: auto;
+    position: absolute;
+    top: 2vw;
+    left: 0;
+    padding: 2% 5%;
+    background: red;
+    border-top-right-radius: 1vw;
+    border-bottom-right-radius: 1vw;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.events{
+        padding-top: 13vh;
+        padding-bottom: 30vw;
+    }
+
+
+
+
+    section.eventsPageContainer.top{
+        padding: 5vw 5%;
+        padding-bottom: 0;
+        background: black;
+    }
+    .eventsPageContent.top1 h4{
+        font-size: 5vw;
+    }
+    .eventsPageContent.top1 h6{
+        font-size: 3vw;
+    }
+    .evntpcHighlights{
+        height: auto;
+        width: 100%;
+        display: block;
+        margin: 5% 0;
+        padding: 5%;
+        border-radius: 2vw;
+    }
+    .evntshlght.right.mobile{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .evntshlght.right.website{
+        display: none;
+    }
+    .evntshlght.right{
+        height: 80vw;
+        width: 100%;
+        margin-bottom: 10%;
+    }
+    .evntshlght.left{
+        height: auto;
+        width: 100%;
+    }
+    .evntshlght.left h6{
+        font-size: 3.5vw;
+    }
+    .evntshlght.left p{
+        font-size: 2.5vw;
+    }
+    .evntshlghtl a{
+        font-size: 2.5vw;
+    }
+
+
+
+    section.eventsPageContainer.mid{
+        padding: 1% 5%;
+    }
+    .eventsPageContent.mid1 h4{
+        font-size: 5vw;
+    }
+    .evntpcOthers{
+        justify-content: space-between;
+    }
+    .evntpcoRecent{
+        height: auto;
+        width: 48%;
+        margin-bottom: 2%;
+        padding: 5% 3%;
+        border-radius: 2vw;
+    }
+    .evntpcoRecent h5{
+        height: 8vw;
+        font-size: 3.5vw;
+        line-height: 4vw;
+        margin-bottom: 5%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .evntpcoRecent p{
+        font-size: 2.5vw;
+    }
+    .evntpcoRecent div{
+        top: 3vw;
+        left: 0;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

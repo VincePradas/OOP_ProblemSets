@@ -1,0 +1,171 @@
+[
+    
+    {
+        "island": "Luzon",
+        "region": "04 - CALABARZON",
+        "name": "National University - Laguna",
+        "municipality": "Calamba",
+        "provice": "Laguna",
+        "type": "Private"
+    },
+    {
+        "island": "Luzon",
+        "region": "04 - CALABARZON",
+        "name": "Batangas State University-Alangilan",
+        "municipality city": "Batangas City",
+        "province": "Batangas",
+        "type": "SUC Satellite"
+    },
+    {
+        "island": "Luzon",
+        "region": "04 - CALABARZON",
+        "name": "Laguna State Polytechnic University-Los Baños",
+        "municipality city": "Los Baños",
+        "province": "Laguna",
+        "type": "SUC Satellite"
+    },
+    {
+        "island": "Luzon",
+        "region": "04 - CALABARZON",
+        "name": "Laguna University",
+        "municipality city": "Sta. Cruz",
+        "province": "Laguna",
+        "type": "LUC"
+    },
+    {
+        "island": "Luzon",
+        "region": "04 - CALABARZON",
+        "name": "Colegio de Los Baños",
+        "municipality city": "Los Baños",
+        "province": "Laguna",
+        "type": "Private"
+    },
+    {
+     "island": "Luzon",
+     "region": "03 - Central Luzon",
+     "name": "Asia Pacific College",
+     "municipality city": "Balanga City",
+     "province": "Bataan",
+     "type": "Private"
+    },
+    {
+     "island": "Mindanao",
+     "region": "11 - Davao Region",
+     "name": "Ateneo de Davao University",
+     "municipality city": "Davao City",
+     "province": "Davao Del Sur",
+     "type": "Private"
+    },
+    {
+     "island": "Luzon",
+     "region": "04 - CALABARZON",
+     "name": "Batangas State University-Malvar",
+     "municipality city": "Malvar",
+     "province": "Batangas",
+     "type": "SUC Satellite"
+    },
+    {
+     "island": "Mindanao",
+     "region": "16 - Caraga",
+     "name": "Caraga State University-Main Campus",
+     "municipality city": "Butuan City",
+     "province": "Agusan Del Norte",
+     "type": "SUC Main"
+    },
+    {
+     "island": "Visayas",
+     "region": "07 - Central Visayas",
+     "name": "Cebu Institute of Technology-University",
+     "municipality city": "Cebu City",
+     "province": "Cebu",
+     "type": "Private"
+    },
+    {
+     "island": "Visayas",
+     "region": "06 - Western Visayas",
+     "name": "Central Philippine University",
+     "municipality city": "Iloilo City",
+     "province": "Iloilo",
+     "type": "Private"
+    },
+    {
+     "island": "Mindanao",
+     "region": "09 - Zamboanga Peninsula",
+     "name": "Josefina H. Cerilles State College - Main",
+     "municipality city": "San Miguel",
+     "province": "Zamboanga del Sur",
+     "type": "SUC Main"
+    },
+    {
+     "island": "Luzon",
+     "region": "03 - Central Luzon",
+     "name": "Lyceum of Subic Bay",
+     "municipality city": "Olongapo City",
+     "province": "Zambales",
+     "type": "Private"
+    },
+    {
+     "island": "Mindanao",
+     "region": "10 - Northern Mindanao",
+     "name": "Mindanao State University - Iligan Institute of Technology",
+     "municipality city": "Iligan City",
+     "province": "Lanao Del Norte",
+     "type": "SUC Satellite"
+    },
+    {
+     "island": "Luzon",
+     "region": "13 - Nat. Capital Region",
+     "name": "Our Lady of Fatima University-Quezon City",
+     "municipality city": "Quezon City",
+     "province": "Second District",
+     "type": "Private"
+    },
+    {
+     "island": "Luzon",
+     "region": "13 - Nat. Capital Region",
+     "name": "Philippine Normal University-Main",
+     "municipality city": "Ermita",
+     "province": "City of Manila First District",
+     "type": "SUC Main"
+    },
+    {
+     "island": "Visayas",
+     "region": "07 - Central Visayas",
+     "name": "PHINMA Southwestern University",
+     "municipality city": "Cebu City",
+     "province": "Cebu",
+     "type": "Private"
+    },
+    {
+     "island": "Luzon",
+     "region": "03 - Central Luzon",
+     "name": "Tarlac State University",
+     "municipality city": "Tarlac City",
+     "province": "Tarlac",
+     "type": "SUC Main"
+    },
+    {
+     "island": "Luzon",
+     "region": "13 - Nat. Capital Region",
+     "name": "University of Makati",
+     "municipality city": "Makati City",
+     "province": "Fourth District",
+     "type": "LUC"
+    },
+    {
+     "island": "Visayas",
+     "region": "06 - Western Visayas",
+     "name": "University of Saint La Salle",
+     "municipality city": "Bacolod City",
+     "province": "Negros Occidental",
+     "type": "Private"
+    },
+    {
+     "island": "Luzon",
+     "region": "13 - Nat. Capital Region",
+     "name": "University of the Philippines-Diliman",
+     "municipality city": "Quezon City",
+     "province": "Second District",
+     "type": "SUC Main"
+    }
+]

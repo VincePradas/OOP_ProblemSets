@@ -1,0 +1,332 @@
+{
+    "Luzon": [
+        {
+            "id": "PH-ABR",
+            "location" : "Abra"
+        },
+        {
+            "id": "PH-ALB",
+            "location" : "Albay"
+        },
+        {
+            "id": "PH-APA",
+            "location" : "Apayao"
+        },
+        {
+            "id": "PH-AUR",
+            "location" : "Aurora"
+        },
+        {
+            "id": "PH-BAN",
+            "location" : "Bataan"
+        },
+        {
+            "id": "PH-BTN",
+            "location" : "Batanes"
+        },
+        {
+            "id": "PH-BTG",
+            "location" : "Batangas"
+        },
+        {
+            "id": "PH-BEN",
+            "location" : "Benguet"
+        },
+        {
+            "id": "PH-BUL",
+            "location" : "Bulacan"
+        },
+        {
+            "id": "PH-CAN",
+            "location" : "Camarines Norte"
+        },
+        {
+            "id": "PH-CAS",
+            "location" : "Camarines Sur"
+        },
+        {
+            "id": "PH-CAT",
+            "location" : "Catanduanes"
+        },
+        {
+            "id": "PH-CAV",
+            "location" : "Cavite"
+        },
+        {
+            "id": "PH-IFU",
+            "location" : "Ifugao"
+        },
+        {
+            "id": "PH-ILN",
+            "location" : "Ilocos Norte"
+        },
+        {
+            "id": "PH-ILS",
+            "location" : "Ilocos Sur"
+        },
+        {
+            "id": "PH-ISA",
+            "location" : "Isabela"
+        },
+        {
+            "id": "PH-KAL",
+            "location" : "Kalinga"
+        },
+        {
+            "id": "PH-LAG",
+            "location" : "Laguna"
+        },
+        {
+            "id": "PH-LUN",
+            "location" : "La Union"
+        },
+        {
+            "id": "PH-MAD",
+            "location" : "Marinduque"
+        },
+        {
+            "id": "PH-MAS",
+            "location" : "Masbate"
+        },
+        {
+            "id": "PH-MOU",
+            "location" : "Mountain Province"
+        },
+        {
+            "id": "PH-MNL",
+            "location" : "Metropolitan Manila"
+        },
+        {
+            "id": "PH-NUE",
+            "location" : "Nueva Ecija"
+        },
+        {
+            "id": "PH-NUV",
+            "location" : "Nueva Vizcaya"
+        },
+        {
+            "id": "PH-MDC",
+            "location" : "Mindoro Occidental"
+        },
+        {
+            "id": "PH-MDR",
+            "location" : "Mindoro Oriental"
+        },
+        {
+            "id": "PH-PLW",
+            "location" : "Palawan"
+        },
+        {
+            "id": "PH-PAM",
+            "location" : "Pampanga"
+        },
+        {
+            "id": "PH-PAN",
+            "location" : "Pangasinan"
+        },
+        {
+            "id": "PH-QUE",
+            "location" : "Quezon"
+        },
+        {
+            "id": "PH-QUI",
+            "location" : "Quirino"
+        },
+        {
+            "id": "PH-RIZ",
+            "location" : "Rizal"
+        },
+        {
+            "id": "PH-ROM",
+            "location" : "Romblon"
+        },
+        {
+            "id": "PH-SOR",
+            "location" : "Sorsogon"
+        },
+        {
+            "id": "PH-TAR",
+            "location" : "Tarlac"
+        },
+        {
+            "id": "PH-ZMB",
+            "location" : "Zambales"
+        },
+        {
+            "id": "PH-CAG",
+            "location" : "Cagayan"
+        }
+    ],
+    "Visayas": [
+        {
+            "id": "PH-AKL",
+            "location" : "Aklan"
+        },
+        {
+            "id": "PH-ANT",
+            "location" : "Antique"
+        },
+        {
+            "id": "PH-BIL",
+            "location" : "Biliran"
+        },
+        {
+            "id": "PH-BOH",
+            "location" : "Bohol"
+        },
+        {
+            "id": "PH-CAP",
+            "location" : "Capiz"
+        },
+        {
+            "id": "PH-CEB",
+            "location" : "Cebu"
+        },
+        {
+            "id": "PH-EAS",
+            "location" : "Eastern Samar"
+        },
+        {
+            "id": "PH-GUI",
+            "location" : "Guimaras"
+        },
+        {
+            "id": "PH-ILI",
+            "location" : "Iloilo"
+        },
+        {
+            "id": "PH-LEY",
+            "location" : "Leyte"
+        },
+        {
+            "id": "PH-NEC",
+            "location" : "Negros Occidental"
+        },
+        {
+            "id": "PH-NER",
+            "location" : "Negros Oriental"
+        },
+        {
+            "id": "PH-NSA",
+            "location" : "Northern Samar"
+        },
+        {
+            "id": "PH-WSA",
+            "location" : "Samar"
+        },
+        {
+            "id": "PH-SIG",
+            "location" : "Siquijor"
+        },
+        {
+            "id": "PH-SLE",
+            "location" : "Southern Leyte"
+        }
+    ],
+    "Mindanao": [
+        {
+            "id": "PH-AGN",
+            "location" : "Agusan del Norte"
+        },
+        {
+            "id": "PH-AGS",
+            "location" : "Agusan del Sur"
+        },
+        {
+            "id": "PH-BAS",
+            "location" : "Basilan"
+        },
+        {
+            "id": "PH-BUK",
+            "location" : "Bukidnon"
+        },
+        {
+            "id": "PH-CAM",
+            "location" : "Camiguin"
+        },
+        {
+            "id": "PH-NCO",
+            "location" : "Cotabato"
+        },
+        {
+            "id": "PH-DAV",
+            "location" : "Davao del Norte"
+        },
+        {
+            "id": "PH-DAS",
+            "location" : "Davao del Sur"
+        },
+        {
+            "id": "PH-DAO",
+            "location" : "Davao Oriental"
+        },
+        {
+            "id": "PH-DIN",
+            "location" : "Dinagat Islands"
+        },
+        {
+            "id": "PH-LAN",
+            "location" : "Lanao del Norte"
+        },
+        {
+            "id": "PH-LAS",
+            "location" : "Lanao del Sur"
+        },
+        {
+            "id": "PH_MG",
+            "location" : "Maguindanao"
+        },
+        {
+            "id": "PH-MSC",
+            "location" : "Misamis Occidental"
+        },
+        {
+            "id": "PH-MSR",
+            "location" : "Misamis Oriental"
+        },
+        {
+            "id": "PH-SAR",
+            "location" : "Sarangani"
+        },
+        {
+            "id": "PH-SCO",
+            "location" : "South Cotabato"
+        },
+        {
+            "id": "PH-SUK",
+            "location" : "Sultan Kudarat"
+        },
+        {
+            "id": "PH-SLU",
+            "location" : "Sulu"
+        },
+        {
+            "id": "PH-SUR",
+            "location" : "Surigao del Sur"
+        },
+        {
+            "id": "PH-SUN",
+            "location" : "Surigao del Norte"
+        },
+        {
+            "id": "PH-TAW",
+            "location" : "Tawi-Tawi"
+        },
+        {
+            "id": "PH-ZAN",
+            "location" : "Zamboanga del Norte"
+        },
+        {
+            "id": "PH-ZSI",
+            "location" : "Zamboanga Sibugay"
+        },
+        {
+            "id": "PH-ZAS",
+            "location" : "Zamboanga del Sur"
+        },
+        {
+            "id": "PH-COM",
+            "location" : "Compostela Valley"
+        }
+    ]
+}

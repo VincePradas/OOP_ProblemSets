@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
+
+
+/* font-family: 'Kanit', sans-serif; */
+/* font-family: 'Edu SA Beginner', cursive; */
+
+
+
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Bruno Ace SC', cursive;
+}
+p{
+    font-size: 1vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.tac{
+    height: auto;
+    width: 100%;
+    background: black;
+    position: relative;
+    overflow-x: hidden;
+}
+
+
+section.tacPageMLBB.top{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+.tacContentTop{
+    height: auto;
+    width: 100%;
+    padding: 7vw 15%;
+    padding-bottom: 10vw;
+}
+.tacContentTop h4{
+    text-align: center;
+    margin-bottom: 3%;
+    font-family: "Michroma", sans-serif;
+}
+.tacContentTop h5{
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-family: "Michroma", sans-serif;
+}
+.tacContentTop p ul{
+    padding-left: 5%;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    .tacContentTop{
+        padding: 15vh 8%;
+    }
+    .tacContentTop h4{
+        font-size: 5vw;
+    }
+    .tacContentTop h5{
+        font-size: 4vw;
+    }
+    .tacContentTop p {
+        font-size: 3vw;
+        margin: 3% 0;
+    }
+}

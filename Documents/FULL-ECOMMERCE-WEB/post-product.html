@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Product</title>
+</head>
+<body>
+<h1>Add a New Product</h1>
+
+<form id="productForm">
+    <!-- Product Name -->
+    <label for="name">Product Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+
+    <!-- Product Description -->
+    <label for="description">Description:</label>
+    <textarea id="description" name="description"></textarea><br><br>
+
+    <!-- Product Category -->
+    <label for="category">Category:</label>
+    <input type="text" id="category" name="category"><br><br>
+
+    <!-- Discount Percentage -->
+    <label for="discountPercentage">Discount Percentage:</label>
+    <input type="number" id="discountPercentage" name="discountPercentage" step="0.01"><br><br>
+
+    <!-- Tags -->
+    <label for="tags">Tags (comma-separated):</label>
+    <input type="text" id="tags" name="tags"><br><br>
+
+    <!-- Weight -->
+    <label for="weight">Weight:</label>
+    <input type="number" id="weight" name="weight" step="0.01"><br><br>
+
+    <!-- Price -->
+    <label for="price">Price:</label>
+    <input type="number" id="price" name="price" required><br><br>
+
+    <!-- Stock -->
+    <label for="stock">Stock:</label>
+    <input type="number" id="stock" name="stock" value="0"><br><br>
+
+    <!-- Rating -->
+    <label for="rating">Rating:</label>
+    <input type="number" id="rating" name="rating" min="1" max="5" value="0"><br><br>
+
+    <!-- Reviews -->
+    <label for="reviews">Reviews:</label>
+    <textarea id="reviews" name="reviews" placeholder="Add review as JSON array"></textarea><br><br>
+
+    <!-- Media (Images, Videos) -->
+    <label for="media">Media Files (Images/Videos):</label>
+    <input type="file" id="media" name="media" multiple accept="image/*,video/*"><br><br>
+
+    <!-- Thumbnail -->
+    <label for="thumbnail">Thumbnail (Image):</label>
+    <input type="file" id="thumbnail" name="thumbnail" accept="image/*"><br><br>
+
+    <button type="submit">Submit Product</button>
+</form>
+
+<script>
+    // Add event listener to the form for submit action
+    document.getElementById('productForm').addEventListener('submit', async function (e) {
+        e.preventDefault();  // Prevent the default form submission
+
+        // Create a FormData object to handle the form data
+        const formData = new FormData(this);
+
+        // Prepare the product object
+        const productData = {
+            name: formData.get('name'),
+            description: formData.get('description'),
+            category: formData.get('category'),
+            discountPercentage: formData.get('discountPercentage'),
+            tags: formData.get('tags').split(',').map(tag => tag.trim()),
+            weight: formData.get('weight'),
+            price: formData.get('price'),
+            stock: formData.get('stock'),
+            rating: formData.get('rating'),
+            reviews: formData.get('reviews') ? JSON.parse(formData.get('reviews')) : [],
+            media: [], // For storing media files as objects
+            thumbnail: null // For storing thumbnail file
+        };
+
+        // Handle media files (images/videos)
+        formData.getAll('media').forEach(file => {
+            productData.media.push({ url: URL.createObjectURL(file), key: file.name });
+        });
+
+        // Handle the thumbnail
+        const thumbnailFile = formData.get('thumbnail');
+        if (thumbnailFile) {
+            productData.thumbnail = { url: URL.createObjectURL(thumbnailFile), key: thumbnailFile.name };
+        }
+
+        try {
+            // Send the data to the API using the Fetch API
+            const response = await fetch('https://ecomwebapi-gsbbgmgbfubhc8hk.canadacentral-01.azurewebsites.net/api/products', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzQ1Y2RhZjlhNzBhODMyMTExZGVlZjQiLCJpYXQiOjE3MzI4ODc5MTIsImV4cCI6MTczMjg5MTUxMn0.27idZkTsnz2-HqriefvNBJ_m6FkKayDGOqOPf1u70dE'
+                },
+                body: JSON.stringify(productData), // Send the product data as JSON
+            });
+
+            // Check if the response is successful
+            if (response.ok) {
+                const result = await response.json();
+                alert('Product added successfully!');
+                console.log(result);
+            } else {
+                alert('Failed to add product!');
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('There was an error submitting the product.');
+        }
+    });
+</script>
+</body>
+</html>

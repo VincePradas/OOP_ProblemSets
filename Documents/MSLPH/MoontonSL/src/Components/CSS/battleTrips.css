@@ -1,0 +1,254 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+/* For Chrome, Safari, Edge, and Opera */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* For Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.mainContainer.battleTrips{
+    height: auto;
+    width: 100%;
+    background: black;
+}
+section.btPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 15vw;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(#000 5%, transparent),
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/MPLBattleTrip2k2301.jpg') no-repeat top center;
+    background-size: cover;
+}
+.btPageContent.top{
+    height: auto;
+    width: 100%;
+}
+.btPageContent.top img{
+    height: 15vw;
+    display: flex;
+    margin: 1% auto;
+}
+.btptopDetails{
+    height: auto;
+    width: 100%;
+}
+.btptpddTitle{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    text-align: center;
+}
+.btptpddForm{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    margin: 2% 0;
+}
+.btptpddfContent{
+    background: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 20px black;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    padding: 10% 15%;
+    padding-bottom: 8%;
+    border-radius: 1vw;
+}
+.btptpddfContent h6{
+    text-align: center;
+    font-size: 1.5vw;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+.btptpddfContent p{
+    text-align: center;
+}
+.btptpddfContent img#guessQuestion{
+    height: auto;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    border-radius: 1vw;
+    box-shadow: 0 0 10px black;
+}
+.btptpddfc{
+    height: auto;
+    width: 100%;
+    padding: 0 10%;
+}
+.btptpddfContent input{
+    width: 100%;
+    font-size: 0.9vw;
+    padding: 5px 15px;
+    border: solid 2px white;
+    background: none;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    margin: 2% 0;
+    text-align: center;
+}
+.btptpddfContent select{
+    width: 100%;
+    font-size: 0.9vw;
+    padding: 5px 15px;
+    border: solid 2px white;
+    background: none;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    margin: 2% 0;
+    text-align: center;
+}
+.btptpddfContent select option{
+    height: auto;
+    width: 100%;
+    color: black;
+}
+.btptpddfc button{
+    padding: 10px 10%;
+    font-size: 0.7vw;
+    display: flex;
+    margin: 2% auto;
+    margin-bottom: 5%;
+    background: none;
+    color: white;
+    border: solid 2px white;
+    border-radius: 50px;
+    cursor: not-allowed;
+    opacity: 50%;
+    transition: 400ms ease;
+}
+.btptpddfc button.active{
+    opacity: 100%;
+    transition: 400ms ease;
+    cursor: pointer;
+}
+.btptpddfc button.active:hover{
+    opacity: 100%;
+    background: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+    transition: 400ms ease;
+}
+.btptpddfc p#formResponse{
+    text-align: center;
+    height: 2vw;
+    color: gray;
+    font-style: italic;
+}
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.battleTrips{
+        padding-top: 13vh;
+    }
+    section.btPageContainer.top{
+        padding-bottom: 20vw;
+        background: 
+            linear-gradient(#000 -50%, transparent),
+            linear-gradient(transparent, #000 90%), 
+            url('../assets/imgs/MPLBattleTrip2k2301.jpg') no-repeat top center;
+        background-size: cover;
+    }
+    .btptpddfContent{
+        background: rgba(0, 0, 0, 0.4);
+        box-shadow: 0 0 10px black;
+    }
+    .btPageContent.top img{
+        height: 30vw;
+        display: flex;
+        margin: 0 auto;
+    }
+    .btptpddTitle{
+        padding: 0;
+    }
+    .btptpddTitle p{
+        font-size: 2.5vw;
+    }
+    .btptpddForm{
+        padding: 0;
+        margin: 10% 0;
+    }
+    .btptpddfContent{
+        padding: 10%;
+        border-radius: 2vw;
+    }
+    .btptpddfContent h6{
+        font-size: 3.5vw;
+        height: 10vw;
+        margin-bottom: 3%;
+    }
+    .btptpddfc{
+        padding: 0;
+    }
+    .btptpddfc p#formResponse{
+        height: 3vw;
+        font-size: 2.5vw;
+    }
+    .btptpddfContent input{
+        font-size: 3vw;
+    }
+    .btptpddfContent select{
+        font-size: 3vw;
+    }
+    .btptpddfContent p{
+        font-size: 2.5vw;
+        color: white;
+    }
+    .btptpddfContent button{
+        font-size: 2.5vw;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

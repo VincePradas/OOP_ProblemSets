@@ -1,0 +1,188 @@
+.campusMain{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 15vw;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(#000 5%, transparent),
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/MPLBattleTrip2k2301.jpg') no-repeat top center;
+    background-size: cover;
+}
+.campusMain .campusRow {
+    padding-top: 100px;
+}
+.campusMain .campusCol {
+    float: left;
+    width: 50%;
+}
+.campusMain .campusMap svg{
+    transform: scale(0.5);
+    z-index: 2;
+    position: absolute;
+    top: -350px;
+    right: -600px;
+    height: 100vw;
+    width: 100vw;
+}
+.campusMain .mapParts{
+  fill: rgb(243, 243, 243);
+  transition: 500ms ease-in-out;
+}
+.campusMain .mapParts:hover{
+    fill: #F1C119 !important;
+}
+.mapActive{
+    fill: #F1C119 !important;
+    transition: ease-in-out 0s !important;
+}
+.campusMain .numTitle {
+    font-family: 'Bruno Ace SC', cursive;
+    font-style: italic;
+    color: white;
+    font-size: 8vw;
+    font-weight: 900;
+    margin-top: -40px;
+}
+.campusMain .numTitle p{
+    margin-top: -40px;
+}
+.campusMain .numTitle2 {
+    font-family: 'Bruno Ace SC', cursive;
+    font-style: italic;
+    font-weight: 900;
+    color: white;
+    font-size: 3vw;
+    line-height: 1;
+    margin-left: -120px;
+}
+.campusMain .campusNav button{
+    background: none;
+    border: none;
+    margin-right: 30px;
+    padding: 0.5vw;
+    cursor: pointer;
+    opacity: 30%;
+    color: white;
+}
+.campusMain .campusNav {
+    float: left;
+    width: 100%;
+}
+.campusMain .campusNav button:hover{
+    opacity: 100%;
+    transition: 400ms ease;
+}
+.campusMain .campusNav button.active{
+    border-bottom: solid 1px white;
+    opacity: 100%;
+}
+.campusMain .campusOverView {
+    float: left;
+    width: 100%;
+}
+.campusMain .campusOverView{
+  margin-top: 20px;
+}
+.campusMain .campusOverView h4{
+    margin-bottom: 20px;
+}
+.campusMain .campusAll{
+    padding-top: 20px;
+    height: 20vw;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: #ffffff00 1px solid ;
+}
+.campusMain .campusAll ul{
+    padding-top: 10px;
+ 
+}
+.campusMain li{
+    color: #ffffff;
+    margin-left: 5%;
+    list-style-type: none;
+    transition: 100ms ease-in-out;
+
+}
+.campusMain li a{
+    color: #ffffff;
+    text-decoration: none;
+}
+.campusMain li:hover{
+    transform: scale(1.02) !important;
+    text-shadow: 2px 2px 5px #F4C251;
+}
+.campusMain .headTitle {
+    display: block;
+}
+.campusMain .headTitleMobile {
+    display: none;
+}
+@media screen and (max-width: 500px){
+    .campusMain .campusRow {
+        padding-top: 180px;
+    }
+    .campusMain .campusRight{
+        display: none;
+    }
+    .campusMain .campusCol {
+        float: left;
+        width: 100%;
+    }
+    .campusMain .numTitle {
+  
+        font-size: 10vw;
+  
+    }
+    .campusMain .campusOverView h4{
+        font-size: 8vw;
+    }
+    .campusMain .campusOverView p{
+        font-size: 3vw;
+    }
+    .campusMain .campusAll h4{
+        font-size: 8vw;
+    }
+    .campusMain .campusAll{
+        height:70vw;
+    }
+    .campusMain .campusNav button{
+        margin-right: 7px;
+    }
+    .campusMain .campusNav{
+        justify-content: center;
+        text-align: center;
+        display: flex;
+    }
+    .campusMain .headTitleMobileCol1 {
+        float: left;
+        width: 50%;
+    }
+    .campusMain .headTitleMobileCol2 {
+        float: left;
+        width: 50%;
+    }
+    .campusMain .headTitleMobileCol1 span{
+        font-size: 80px;
+    }
+    .campusMain .headTitleMobileCol1 p{
+        font-size: 20px;
+        margin-top: -25px;
+    }
+    .campusMain .headTitleMobileCol2 span{
+        font-size: 20px;
+       
+    }
+    .campusMain .headTitleMobileCol2{
+        line-height: 1 !important;
+    }
+    .campusMain .headTitle {
+        display: none;
+    }
+    .campusMain .headTitleMobile {
+        display: block;
+    }
+}

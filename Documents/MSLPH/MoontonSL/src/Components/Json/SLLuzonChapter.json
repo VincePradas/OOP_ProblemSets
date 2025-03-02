@@ -1,0 +1,7143 @@
+[
+    {
+     "Region": "Luzon",
+     "name": "Far Eastern University - Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quezon City University",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Community College",
+     "location": "Bantay, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Urdaneta City University",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Eastern Pangasinan",
+     "location": "Binalonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Binalatongan Community College",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Mariano Marcos Memorial State University-North La Union-Main Campus",
+     "location": "Bacnotan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College",
+     "location": "Sta. Maria, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariano Marcos State University-Main",
+     "location": "Batac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University",
+     "location": "Lingayen"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Northern Philippines",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "North Luzon Philippines State College",
+     "location": "Candon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Mariano Marcos Memorial State University-South La Union",
+     "location": "Agoo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Mariano Marcos Memorial State University-Mid La Union",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Mariano Marcos Memorial State University-Open University",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariano Marcos State University-College of Aquatic Sciences and Applied Technology",
+     "location": "Currimao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariano Marcos State University-College of Agriculture and Forestry- Dingras",
+     "location": "Dingras"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariano Marcos State University-College of Teacher Education-Laoag City",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariano Marcos State University-College of Industrial Technology-Laoag City",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Open University",
+     "location": "Lingayen"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Alaminos City",
+     "location": "Alaminos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Asingan",
+     "location": "Asingan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Bayambang",
+     "location": "Bayambang"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Binmaley",
+     "location": "Binmaley"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Infanta",
+     "location": "Infanta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- San Carlos City",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Sta. Maria",
+     "location": "Sta. Maria, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan State University- Urdaneta City",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College-College of Engineering and Technology-Santiago",
+     "location": "Santiago, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College-College of Arts and Sciences-Tagudin",
+     "location": "Tagudin"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College-College of Fisheries and Marine Sciences- Narvacan",
+     "location": "Narvacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College-Cervantes",
+     "location": "Cervantes, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ilocos Sur Polytechnic State College-Candon",
+     "location": "Candon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Adelphi College",
+     "location": "Lingayen"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Malasiqui Agno Valley College",
+     "location": "Malasiqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asbury College",
+     "location": "Anda, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asiacareer College Foundation",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CICOSAT Colleges",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Universidad de Dagupan",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dagupan Colleges Foundation",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Data Center College of the Philippines of Laoag City",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Laoag",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Urdaneta",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Vigan",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Great Plebeian College",
+     "location": "Alaminos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lorma Colleges",
+     "location": "San Fernando City , La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Luna Colleges",
+     "location": "Tayug"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Luzon",
+     "location": "Perez Blvd., Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum Northern Luzon",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary Help of Christians College Seminary",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Christian College",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Luzon Adventist College",
+     "location": "Sison, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Philippines College for Maritime Science and Technology",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northwestern University",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Osias Educational Foundation",
+     "location": "Balaoan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palaris College",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Panpacific University",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pangasinan Merchant Marine Academy",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Perpetual Help College of Pangasinan",
+     "location": "Malasiqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic College of La Union",
+     "location": "Agoo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine College of Science and Technology",
+     "location": "Calasiao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PIMSAT Colleges-Dagupan",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Columban's College",
+     "location": "Lingayen"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Louis College-City of San Fernando",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Mary's College Sta. Maria Ilocos Sur",
+     "location": "Sta. Maria, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Paul College of Ilocos Sur",
+     "location": "Bantay, Ilocos Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Carlos College",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sea and Sky College",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Union Christian College",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Pangasinan",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NJ Valdez Colleges Foundation",
+     "location": "Villasis, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Virgen Milagrosa University Foundation",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metro-Dagupan Colleges",
+     "location": "Mangaldan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pass College",
+     "location": "Alaminos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Pangasinan",
+     "location": "Calasiao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Laoag City",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum Northwestern University",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Macro Colleges",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Dagupan",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-La Union",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Golden West Colleges",
+     "location": "Alaminos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum Northwestern University- Urdaneta Campus",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Data Center College of the Philippines-Vigan City",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio San Jose De Alaminos",
+     "location": "Alaminos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De San Juan De Letran- Manaoag",
+     "location": "Manaoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "South Ilocandia College of Arts and Technology",
+     "location": "Aringay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Union College of Science and Technology",
+     "location": "Bauang"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mystical Rose College of Science and Technology",
+     "location": "Mangatarem"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Therese College Foundation",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International College of Business and Accountancy- Urdaneta City",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Panpacific University North Philippines-Tayug",
+     "location": "Tayug"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kingfisher School of Business & Finance",
+     "location": "Dagupan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NICOSAT Colleges",
+     "location": "Candon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Camillus College of Manaoag Foundation",
+     "location": "Manaoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International College for Excellence",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine College of Northwestern Luzon",
+     "location": "Agoo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Darakbang Theological College",
+     "location": "Binalonan, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint John Bosco College of Northern Luzon",
+     "location": "San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rosales-Wesleyan Bible College",
+     "location": "Rosales, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Union Christian Comprehensive College",
+     "location": "Rosario, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Conception School of Theology",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "WCC Aeronautical & Technological College",
+     "location": "Binalonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PIMSAT Colleges-San Carlos City",
+     "location": "San Carlos, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary Help of Christians Theology Seminary",
+     "location": "San Fabian, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Vigan",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Laoag",
+     "location": "Laoag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Señor Tesoro College",
+     "location": "Calasiao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PHINMA-Upang College Urdaneta",
+     "location": "Urdaneta, Pangasinan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary Cause of Our Joy College Seminary",
+     "location": "Bacarra"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Benedict College of Northern Luzon",
+     "location": "Vigan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI San Jose Del Monte",
+     "location": "City of San Fernando, La Union"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batanes State College",
+     "location": "Basco, Batanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Main (Echague)",
+     "location": "Echague"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Vizcaya State University - Main Bayombong",
+     "location": "Bayombong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quirino State University",
+     "location": "Diffun"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Andrews",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Angadanan Campus",
+     "location": "Angadanan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Tuguegarao (Carig)",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Cauayan Campus",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Aparri",
+     "location": "Aparri"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Gonzaga",
+     "location": "Gonzaga, Cagayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Lallo",
+     "location": "Lal-Lo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Lasam",
+     "location": "Lasam"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Piat",
+     "location": "Piat, Cagayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan State University-Sanchez Mira",
+     "location": "Sanchez Mira"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- San Mariano Campus",
+     "location": "San Mariano, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Cabagan",
+     "location": "Cabagan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Ilagan Campus",
+     "location": "Ilagan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Jones Campus",
+     "location": "Jones, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Roxas Campus",
+     "location": "Roxas, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- San Mateo Campus",
+     "location": "San Mateo, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Vizcaya State University-Bambang",
+     "location": "Bambang, Nueva Vizcaya"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Normal University-North Luzon Campus",
+     "location": "Alicia, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quirino State University - Cabarroguis",
+     "location": "Cabarroguis"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quirino State University - Maddela",
+     "location": "Maddela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela State University- Palanan Campus",
+     "location": "Palanan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aldersgate College",
+     "location": "Solano, Nueva Vizcaya"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Cagayan Valley",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eveland Christian College",
+     "location": "San Mateo, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela Colleges",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of La Salette",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Aparri",
+     "location": "Aparri"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Tuao",
+     "location": "Tuao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Medical Colleges of Northern Philippines",
+     "location": "Peñablanca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northeastern College",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Cagayan Colleges Foundation",
+     "location": "Ballesteros, Cagayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of the Pillar College- Cauayan",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Patria Sable Corpus College",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PLT College",
+     "location": "Bayombong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quezon Colleges of the North",
+     "location": "Ballesteros, Cagayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Anthony's College",
+     "location": "Sta. Ana, Cagayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Dominic College of Batanes",
+     "location": "Basco, Batanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Ferdinand College-Ilagan",
+     "location": "Ilagan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Joseph's College of Baggao",
+     "location": "Baggao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Saint Louis- Tuguegarao",
+     "location": "Mabini Street, Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Mary's University of Bayombong",
+     "location": "Bayombong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Paul University Philippines",
+     "location": "Mabini Street, Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mallig Plains Colleges",
+     "location": "Mallig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FL Vargas College-Tuguegarao",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Law Enforcement College",
+     "location": "Tuguegarao City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International School of Asia and the Pacific",
+     "location": "Peñablanca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Isabela College of Arts and Technology",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Santiago City",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cagayan Valley Computer and Information Technology College",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "John Wesley College",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Tuguegarao City",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "SISTECH College of Santiago City",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Santiago City Colleges",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Ferdinand College- Cabagan Campus",
+     "location": "Cabagan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "F.L. Vargas College-Abulug Campus",
+     "location": "Abulug"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metropolitan School of Science and Technology",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "King's College of the Philippines- Bambang",
+     "location": "Bambang, Nueva Vizcaya"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Global Academy of Technology and Entrepreneurship",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "HGBaquiran College",
+     "location": "Tumauini"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Infant Jesus Montessori School (College Department)",
+     "location": "Santiago City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Maila Rosario Colleges",
+     "location": "Tuguegarao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of the Pillar College- Cauayan San Manuel Branch",
+     "location": "San Manuel, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northeast Luzon Adventist College",
+     "location": "Alicia, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Salette of Roxas College",
+     "location": "Roxas, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Cauayan",
+     "location": "Cauayan City, Isabela"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Gordon College",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Limay Polytechnic College",
+     "location": "Limay, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kolehiyo ng Subic",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eduardo L. Joson Memorial College",
+     "location": "Palayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mabalacat City College",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Norzagaray College",
+     "location": "Norzagaray"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic College of the City of Meycauayan",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of San Fernando",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baliwag Polytechnic College",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic College of Botolan",
+     "location": "Botolan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pambayang Dalubhasaan ng Marilao",
+     "location": "Marilao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guagua Community College",
+     "location": "Guagua"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of Angeles",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan Polytechnic College",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of San Jose del Monte",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Gapan City College",
+     "location": "Gapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan Agricultural State College",
+     "location": "San Ildefonso, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan State University- Main",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Main",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Luzon State University",
+     "location": "Muñoz, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Main",
+     "location": "Bacolor, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pampanga State Agricultural University",
+     "location": "Magalang, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University",
+     "location": "Iba, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tarlac Agricultural University",
+     "location": "Camiling"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tarlac State University",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aurora State College of Technology",
+     "location": "Baler, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Merchant Marine Academy",
+     "location": "San Narciso, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University-Dinalupihan",
+     "location": "Dinalupihan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University-Abucay",
+     "location": "Abucay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University-Bagac",
+     "location": "Bagac, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan State University- Bustos",
+     "location": "Bustos, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan State University- San Jose Del Monte",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan State University- Meneses",
+     "location": "Bulacan, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan State University- Hagonoy",
+     "location": "Hagonoy, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Mexico",
+     "location": "Mexico, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Porac",
+     "location": "Porac, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Sto.Thomas",
+     "location": "Sto. Tomas, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine State College of Aeronautics-Pampanga Extension",
+     "location": "Floridablanca, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Mariveles",
+     "location": "Mariveles, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-Botolan",
+     "location": "Botolan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-Candelaria",
+     "location": "Candelaria, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-Castillejos",
+     "location": "Castillejos, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-Masinloc",
+     "location": "Masinloc, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-Sta. Cruz",
+     "location": "Sta. Cruz, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Sebani Estate Agricultural College",
+     "location": "Gabaldon, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Atate",
+     "location": "Palayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Fort Magsaysay",
+     "location": "Palayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- San Isidro Campus",
+     "location": "San Isidro, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Sumacab Campus",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Peñaranda",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Gapan City Campus",
+     "location": "Gapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Talavera",
+     "location": "Talavera, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- San Leonardo",
+     "location": "San Leonardo, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Carranglan",
+     "location": "Carranglan, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- San Antonio Campus",
+     "location": "San Antonio, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "President Ramon Magsaysay State University-San Marcelino",
+     "location": "San Marcelino, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University-Orani",
+     "location": "Orani, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Peninsula State University-Balanga",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bulacan Agricultural State College-Doña Remedios Trinidad",
+     "location": "Doña Remedios Trinidad, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura State University-Lubao",
+     "location": "Lubao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Papaya",
+     "location": "General Tinio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija University of Science and Technology- Sto. Domingo",
+     "location": "Sto. Domingo, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aurora State College of Technology-Bazal",
+     "location": "Maria Aurora, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aurora State College of Technology-Casiguran",
+     "location": "Casiguran, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of The Philippines-Pulilan",
+     "location": "Pulilan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Sta. Maria Bulacan",
+     "location": "Santa Maria, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Cabiao",
+     "location": "Cabiao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines-Diliman (Pampanga)",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines-Diliman (Olongapo City)",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Apalit",
+     "location": "Apalit"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Honorio Ventura Technological State University-Candaba",
+     "location": "Candaba, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines- Manila School of Health Sciences Extension Campus-Baler",
+     "location": "Baler, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines- Manila School of Health Sciences Extension Campus-Tarlac",
+     "location": "San Isidro , Tarlac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Angeles University Foundation",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sto. Rosario Sapang Palay College",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baliuag University",
+     "location": "Gil Carlos Street, Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baliwag Maritime Foundation",
+     "location": "San Rafael, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bataan Heroes Memorial College",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camiling Colleges",
+     "location": "Camiling"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CIT Colleges of Paniqui Foundation",
+     "location": "Paniqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Luzon Doctors' Hospital Educational Institution",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Luzon College of Science and Technology-Olongapo City",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Centro Escolar University-Malolos City",
+     "location": "Km. 44, Mac Arthur, Malolos, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De San Pascual Baylon",
+     "location": "Obando, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of the Holy Spirit of Tarlac",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of the Immaculate Conception",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CORE Gateway College",
+     "location": "San Jose, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Columban College-Olongapo City",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College for Research and Technology-Cabanatuan City",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "World Citi Colleges Guimba Campus",
+     "location": "Guimba"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divina Pastora College",
+     "location": "Gapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dominican College of Tarlac",
+     "location": "Capas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Gloria D. Lacson Foundation Colleges - Nueva Ecija",
+     "location": "San Leonardo, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Yanga's Colleges",
+     "location": "Bocaue"
+    },
+    {
+     "Region": "Luzon",
+     "name": "General De Jesus College",
+     "location": "San Isidro, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Good Samaritan Colleges",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guagua National Colleges",
+     "location": "Guagua"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Angel University",
+     "location": "Sto. Rosario Street, Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Cross College-Nueva Ecija",
+     "location": "Santa Rosa, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Cross College-Pampanga",
+     "location": "Sta. Ana, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Conception Major Seminary",
+     "location": "Guiguinto"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Interworld College of Technology Foundation-Tarlac",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jesus Is Lord Colleges Foundation",
+     "location": "Bocaue"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jose C. Feliciano College Foundation",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lourdes College of Bulacan",
+     "location": "Angat, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Magsaysay Memorial College of Zambales",
+     "location": "San Narciso, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel V. Gallego Foundation Colleges",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Maria Assumpta Seminary",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metro Subic Colleges",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Meycauayan College",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Microcity College of Business and Technology",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "MIDWAY COLLEGES Inc.",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mondriaan Aura College",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mother of Good Counsel Seminary",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mt.Carmel College of Bocaue Bulacan",
+     "location": "Bocaue"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nazarenus College and Hospital Foundation",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Nueva Ecija Doctors' Colleges",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Carthel Science Educational Foundation",
+     "location": "San Manuel, Tarlac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Osias Colleges",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Peace College Seminary",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Araullo University",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pampanga Colleges",
+     "location": "Macabebe, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion University Philippines",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Republic Central Colleges",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Anthony College of Technology",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Mary's College of Meycauayan",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Paul University at San Miguel",
+     "location": "San Miguel, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Jose Christian Colleges",
+     "location": "San Jose, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-City of Tarlac",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Systems Plus College Foundation",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tomas Del Rosario College",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Assumption",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Wesleyan University-Philippines (Cabanatuan)",
+     "location": "Mabini Extension, Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Interworld Colleges Foundation - Paniqui",
+     "location": "Paniqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Fortuna College",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-City of San Fernando",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Angeles City",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Meycauayan",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Malolos",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "United School of Science and Technology Colleges",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Concepcion Holy Cross College",
+     "location": "Concepcion, Tarlac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Zambales College",
+     "location": "Masinloc, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Columban College-Sta. Cruz Zambales",
+     "location": "Sta. Cruz, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Saint Lawrence",
+     "location": "Balagtas, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sact Mutien College",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Fernandez College of Arts and Technology",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Micro Asia College of Science and Technology",
+     "location": "Iba, Zambales"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sienna College of San Jose",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Cabanatuan City",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Comteq Computer and Business College",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eastwoods Professional College of Science and Technology",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Malolos",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-San Fernando Pampanga",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Maritime Academy of Asia and the Pacific",
+     "location": "Mariveles, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Tarlac City",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Fundamental Baptist College For Asians",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Paul Colleges Foundation- Paniqui Tarlac",
+     "location": "Paniqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International College of Business and Economics- Cabanatuan",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Angeles City",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia Pacific College of Advanced Studies",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Mary Immaculate of Pandi Bulacan",
+     "location": "Pandi, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Mary's College of Baliuag",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Augustine Colleges Foundation",
+     "location": "Paniqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Rose College Educational Foundation",
+     "location": "Paniqui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International College of Business and Accountancy",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Olongapo City",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Concepcion College",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De San Gabriel Arcangel",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary the Queen College- Pampanga",
+     "location": "Guagua"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mount Carmel College of Casiguran",
+     "location": "Casiguran, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Sta. Maria",
+     "location": "Santa Maria, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Balagtas",
+     "location": "Balagtas, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Subic Bay",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "First City Providential College",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of the Most Holy Trinity",
+     "location": "Hermosa, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Academia de San Lorenzo Dema Ala",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Manila Times College of Subic",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Joseph College-Olongapo",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Mary's Angels College of Pampanga",
+     "location": "Sta. Ana, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Nicolas College of Business and Technology",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Gloria D. Lacson Foundation Colleges-Cabanatuan City",
+     "location": "Cabanatuan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Our Lady of Mt. Carmel (Pampanga)",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Luzon College of Science and Technology-City of San Fernando (Pampanga)",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de San Juan de Letran- Abucay",
+     "location": "Abucay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Subic Montessori- Subic Bay",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Baliuag",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Meycauayan",
+     "location": "Meycauayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De Calumpit",
+     "location": "Calumpit"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Gerona Junior College",
+     "location": "Gerona, Tarlac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Rosary Colleges Foundation",
+     "location": "San Isidro, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Manaoag Montessori College",
+     "location": "Balagtas, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Rehabilitation Institute Foundation-Guagua",
+     "location": "Guagua"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Joseph's College of Balanga City",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Subic Bay Colleges",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mater Redemptoris College of San Jose City",
+     "location": "San Jose, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Megabyte College of Science and Technology-Florida",
+     "location": "Floridablanca, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Women`s University Career Development and Continuing Education Center- Bataan",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Centro Colegio De Tarlac",
+     "location": "Bamban, Tarlac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Women`s University Career Development and Continuing Education Center - Tarlac",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Verdad Christian College",
+     "location": "Apalit"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Benilde Center for Global Competence",
+     "location": "Olongapo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marian College of Baliuag",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Balanga",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College-Baliuag",
+     "location": "Baliwag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Liceo de Pulilan Colleges",
+     "location": "Pulilan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Sacred Heart College of Guimba",
+     "location": "Guimba"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Apalit",
+     "location": "Apalit"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tarlac Christian Colleges",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New Era University-Pampanga",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Santa Rita College of Pampanga",
+     "location": "Santa Rita, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Western Luzon - Zambales",
+     "location": "Botolan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aurora Polytechnic College",
+     "location": "Baler, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "SJDM Cornerstone College",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College San Jose",
+     "location": "San Jose, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "RCC Colegio de San Rafael",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Sebastian-Pampanga",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Clark College of Science and Technology",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer Learning Center College of Mabalacat",
+     "location": "Mabalacat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of the Our Lady of Mercy of Pulilan Foundation",
+     "location": "Pulilan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Conception I-College of Arts and Technology",
+     "location": "Santa Maria, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jocson College",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Sta. Maria",
+     "location": "Santa Maria, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the East-Aurora",
+     "location": "Maria Aurora, Aurora"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bestlink College of the Philippines-Bulacan",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Erhard Science College-Bulacan",
+     "location": "San Rafael, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Golden Valley Colleges",
+     "location": "San Jose del Monte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Fatima University- Pampanga",
+     "location": "San Fernando, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colleges of Advance Technology and Management of the Philippines",
+     "location": "Guimba"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Exact Colleges of Asia",
+     "location": "Arayat, Pampanga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Elizabeth Global Skills Institute",
+     "location": "Talavera, Nueva Ecija"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Thomas More College-Clark",
+     "location": "Angeles City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Emmanuel System College of Bulacan",
+     "location": "Pulilan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Richwell Colleges",
+     "location": "Plaridel, Bulacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Subic Montesorri- Dinalupihan",
+     "location": "Dinalupihan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Malolos",
+     "location": "Malolos"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Nueva Caceres- Bataan",
+     "location": "Dinalupihan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Golden Olympus College",
+     "location": "Tarlac City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Virgen Milagrosa Del Rosario",
+     "location": "Balanga, Bataan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Balian Community College",
+     "location": "Pangil"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kolehiyo ng Lungsod ng Lipa",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dalubhasaan ng Lungsod ng San Pablo",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dalubhasaan ng Lungsod ng Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Cabuyao",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Montalban",
+     "location": "Rodriguez, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pambayang Kolehiyo ng Mauban",
+     "location": "Mauban"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of Calamba",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna University",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio ng Lungsod ng Batangas",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of Tagaytay",
+     "location": "Tagaytay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Mateo Municipal College",
+     "location": "San Mateo, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Trece Martires City College",
+     "location": "Trece Martires"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Antipolo Institute of Technology",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tanauan City College",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "One Cainta College",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kolehiyo ng Lungsod ng Dasmariñas",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de La Ciudad de Tayabas",
+     "location": "Tayabas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine National Police Academy",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Main",
+     "location": "Indang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna State Polytechnic University-Main",
+     "location": "Siniloan, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Main",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Tanay",
+     "location": "Tanay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University",
+     "location": "Lucban"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Nasugbu",
+     "location": "Nasugbu"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Rosario Campus",
+     "location": "Rosario, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Naic Campus",
+     "location": "Naic"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna State Polytechnic University-Sta. Cruz",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna State Polytechnic University-Los Baños",
+     "location": "Los Baños, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Balayan",
+     "location": "Balayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Lipa City",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Lobo",
+     "location": "Lobo, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Rosario",
+     "location": "Rosario, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-San Juan",
+     "location": "San Juan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Normal University-Lopez",
+     "location": "Lopez, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine State College of Aeronautics-Fernando Air Base",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Lopez",
+     "location": "Lopez, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines- Maragondon",
+     "location": "Maragondon, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Unisan",
+     "location": "Unisan, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Morong",
+     "location": "Morong, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna State Polytechnic University-San Pablo City",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Technological University of the Philippines-Cavite",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines Los Baños",
+     "location": "Los Baños, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines Open University",
+     "location": "Los Baños, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Malvar",
+     "location": "Malvar, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Sto. Tomas",
+     "location": "Sto. Tomas, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Mulanay",
+     "location": "Mulanay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University- Tagkawayan",
+     "location": "Tagkawayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Angono",
+     "location": "Angono"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Pililia",
+     "location": "Pililia"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Rodriguez",
+     "location": "Rodriguez, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Infanta",
+     "location": "Infanta, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Alabat",
+     "location": "Alabat, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Polilio",
+     "location": "Polillo, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Binangonan",
+     "location": "Binangonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Cavite City Camous",
+     "location": "Cavite City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Cainta",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Cardona",
+     "location": "Cardona, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Antipolo",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Lemery",
+     "location": "Lemery, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Carmona Campus",
+     "location": "Carmona, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Imus Campus",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Trece Martires City Campus",
+     "location": "Trece Martires"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Silang Campus",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Alangilan",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Rizal System-Taytay",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Tiaong Campus",
+     "location": "Tiaong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Tanza Campus",
+     "location": "Tanza, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-Bacoor City Campus",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite State University-General Trias Campus",
+     "location": "General Trias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Gumaca Campus",
+     "location": "Gumaca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Catanauan",
+     "location": "Catanauan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas State University-Mabini",
+     "location": "Mabini, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon State University-Tayabas",
+     "location": "Tayabas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eulogio \"Amang\" Rodriguez Institute of Science and Technology-Cavite",
+     "location": "General Mariano Alvarez"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-San Pedro",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Sta. Rosa",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Calauan",
+     "location": "Calauan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Biñan",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-General Luna Quezon",
+     "location": "General Luna, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Alfonso",
+     "location": "Alfonso, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACTS Computer College",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia-Pacific Nazarene Theological Seminary",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Calauag Central College",
+     "location": "Calauag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Canossa College",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Los Baños",
+     "location": "Los Baños, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de San Juan de Letran- Calamba",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle - Lipa",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Deaf Evangelistic Alliance Foundation",
+     "location": "Cavinti"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word Seminary-Tagaytay",
+     "location": "Tagaytay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle University-Dasmariñas",
+     "location": "Bagong Bayan, Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle Health Sciences Institute",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Bosco College-Canlubang",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Paete Science and Business College",
+     "location": "Paete, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eastern Quezon College",
+     "location": "Gumaca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eastern Tayabas College",
+     "location": "Lopez, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Golden Gate Colleges",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Harris Memorial College",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Conception College- Balayan",
+     "location": "Balayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Imus Institute of Science and Technology",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICCT Colleges Foundation",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Francisco L. Calingasan Memorial Colleges Foundation",
+     "location": "Nasugbu"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna College",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna College of Business and Arts",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna Northwestern College",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Leon Guinto Memorial College",
+     "location": "Atimonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lipa City Colleges",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the Philippines University- Batangas",
+     "location": "Capitol Site, Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel S. Enverga University Foundation-Lucena",
+     "location": "University Site, Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marcelino Fule Memorial College",
+     "location": "Alaminos, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Calayan Educational Foundation",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel S. Enverga University Foundation-Candelaria",
+     "location": "Candelaria, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel S. Enverga University Foundation-Catanauan",
+     "location": "Catanauan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National College of Business and Arts-Taytay",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northern Quezon College",
+     "location": "Infanta, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Lourdes Seminary",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System- Laguna",
+     "location": "Sto. Niño, Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System- Dr. Jose G. Tamayo Medical University",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Adventist University of the Philippines",
+     "location": "Puting Kahoy, Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PTS College and Advanced Studies",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quezonian Educational College",
+     "location": "Atimonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rizal College of Taal",
+     "location": "Taal, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rizal College of Laguna",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEU Roosevelt",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sacred Heart College",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Anne College Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Bridget College",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Francis de Sales Major Seminary",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Joseph College of Cavite",
+     "location": "Cavite City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Louis Anne Colleges of San Pedro Laguna",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Michael's College of Laguna",
+     "location": "Platero, Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Paul Seminary",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Peter's College Seminary",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Antonio de Padua College",
+     "location": "Pila, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Ildefonso College",
+     "location": "Tanay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Pablo Colleges",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Pedro College of Business Administration",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Sebastian College-Recoletos de Cavite",
+     "location": "Cavite City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Siena College of Taytay",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southeast Asia Interdisciplinary Development Institute",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tanauan Institute",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tayabas Western Academy",
+     "location": "Candelaria, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tomas Claudio Colleges",
+     "location": "Morong, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Unciano Colleges",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Union College of Laguna",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Colleges",
+     "location": "Naic"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Batangas",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System Dalta-Molino Campus",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-San Pablo",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Calamba Campus",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dominican College of Sta. Rosa",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saints John and Paul Educational Foundation",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sta. Teresa College",
+     "location": "Bauan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Bacoor",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Batangas",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Sta. Cruz",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Lipa",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Trace College",
+     "location": "Los Baños, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Southwoods",
+     "location": "Carmona, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Biñan",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De San Pedro",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Biñan",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna Science and Technology College",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mt. St. Aloysius College Seminary",
+     "location": "Gumaca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cainta Catholic College",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Cainta",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Maryhill College",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System- GMA Campus",
+     "location": "General Mariano Alvarez"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Missionary Institute",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lemery Colleges",
+     "location": "Lemery, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Sta.Cruz",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio San Agustin-Biñan",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-East Rizal",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Oblates of Saint Joseph College of Philosophy",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Inter-Global College Foundation",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System Dalta-Calamba",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Alphonsus School of Theology",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "IETI College of Science and Technology",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Adventist International Institute of Advanced Studies",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Binangonan Catholic College",
+     "location": "Binangonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Dasmariñas",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Batangas City",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Montessori Professional Colleges of Asia",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Emilio Aguinaldo Educational Corporation-Emilio Aguinaldo College",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Alitagtag College",
+     "location": "Alitagtag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Lipa City",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National College of Science and Technology",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rogationist College",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint John Colleges",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Calamba Campus",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cavite West Point College",
+     "location": "Ternate, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Assumption College of Laguna",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Philippines Institute of Science and Technology",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Matthew College",
+     "location": "San Mateo, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "World Citi Colleges-Antipolo City",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International Business College- Cainta",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "First Asia Institute of Technology and Humanities",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Child Jesus College",
+     "location": "Gumaca"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the Philippines-Laguna",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Jude College-Dasmariñas",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Francis Institute of Computer Studies",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the Philippines University- St. Cabrini School of Health Sciences",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baptist Bible Seminary and Institute",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baptist Voice Bible College",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Calamba Doctors' College",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "LNC Corinthian Center",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Rosario",
+     "location": "Rosario, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Unida Christian Colleges",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Casa Del Niño College",
+     "location": "San Pedro, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mabini College of Batangas",
+     "location": "Mabini, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Balayan",
+     "location": "Balayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Sta. Rosa",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Tanauan",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "DMMC Institute of Health Sciences",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Francis of Assisi College-Cavite",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Olivarez College-Tagaytay",
+     "location": "Tagaytay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Dominic College of Asia",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Power School of Technology",
+     "location": "Tanza, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Women's University-Career Development and Continuing Education Center-Calamba City",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of the Most Holy Rosary Seminary",
+     "location": "Lucban"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas Eastern Colleges",
+     "location": "San Juan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ebenezer International Colleges",
+     "location": "General Trias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southdale International School of Science Arts and Technology",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ISHRM School System",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Dasmariñas",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quezon Center for Research and Studies-Institute of Management",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Francis de Sales Theological Seminary",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Informatics International College- Cainta",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PNTC Colleges",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International Peace Leadership College",
+     "location": "Tanay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Tanauan",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Women's University-Career Development and Continuing Education Center-Sta. Cruz",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel S. Enverga Institute Foundation-San Antonio",
+     "location": "San Antonio, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "All Nations College",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International Christian College of Manila",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine International College",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Montessori Professional Colleges of Asia-Imus",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Teodoro M. Luansing College of Rosario",
+     "location": "Rosario, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Assumption College- Cabuyao",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Skill Power Institute",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Oxfordian Colleges",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CVE Colleges",
+     "location": "Pagbilao, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Sebastian College Recoletos- Canlubang",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Westmead International School",
+     "location": "Batangas City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Agoncillo College",
+     "location": "Agoncillo, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Amore",
+     "location": "Trece Martires"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Far Eastern Polytechnic College",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immanuel Theological Seminary",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Batangas College of Arts and Sciences",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Malayan Colleges of Laguna",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NYK-TDG Maritime Academy",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Brookfield College in Cavite",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sumulong College of Arts and Sciences",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Vincent College of Cabuyao",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Fatima University- Antipolo",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Tanay",
+     "location": "Tanay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the Philippines-Cavite Campus",
+     "location": "General Trias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Technology and Education-Tiaong Campus",
+     "location": "Tiaong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Best Training Systems Colleges",
+     "location": "Binangonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Joseph's College of Rodriguez",
+     "location": "Rodriguez, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of San Benildo-Rizal",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Porta Vaga",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Tagaytay",
+     "location": "Tagaytay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Santo Cristo de Burgos",
+     "location": "Sariaya"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Far Eastern College - Silang",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "East Systems College of Rizal",
+     "location": "Morong, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Alpha Centauri Educational System",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian School of Hospitality Arts",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna Northwestern College-SLRMC",
+     "location": "Siniloan, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Trimex Colleges",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Granby Colleges of Science & Technology",
+     "location": "Naic"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kurios Christian Colleges Foundation",
+     "location": "Magallanes, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International Business College- Quezon Province",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Acts Computer College-Infanta",
+     "location": "Infanta, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia-Pacific Christian College and Seminary",
+     "location": "Rodriguez, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia Technological School of Science and Arts",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CSTC College of Sciences Technology and Communications",
+     "location": "Sariaya"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Evangelical Theological College of the Philippines-Luzon",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guinayangan College Foundation",
+     "location": "Guinayangan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICCT Colleges Foundation-Antipolo",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICCT Colleges Foundation-San Mateo",
+     "location": "San Mateo, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jesus Reigns Christian College Foundation-Amadeo",
+     "location": "Amadeo, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Laguna Maritime Arts and Business Colleges",
+     "location": "Pangil"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary Help of Christian College Salesian Sisters",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PIMSAT Colleges",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "South Forbes City College",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Bearer of Light and Wisdom Colleges",
+     "location": "Bacoor"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Batangas-Lipa",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "West Point College-Magallanes",
+     "location": "Magallanes, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Young Ji College",
+     "location": "General Trias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Taytay",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Arts and Sciences of Asia and the Pacific",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New Sinai School and Colleges-Sta. Rosa",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Mary Magdalene Colleges of Laguna",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "BWEST College",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Center for Biblical Studies Institute & Seminary",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Grain of Wheat College",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICT-ED Institute of Science and Technology",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICCT Colleges Foundation- Binangonan",
+     "location": "Binangonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICCT Colleges Foundation-Taytay",
+     "location": "Taytay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mater Redemptoris Collegium",
+     "location": "Calauan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mind and Integrity College",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Saint John Paul II Arts And Sciences",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Augustine School of Nursing-Lipa",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Paul College of Leadership",
+     "location": "Cainta"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of San Pablo",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Citi Global College-Biñan",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Far East Asia Pacific Institute of Tourism Science and Technology",
+     "location": "Tanza, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guardian Bona Fide for Hope Foundation",
+     "location": "Biñan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Augustine School of Nursing - Lucena",
+     "location": "Lucena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NTC Education-Batangas",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Daehan College of Business and Technology",
+     "location": "TayTay, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Citi Global College-Cabuyao",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New Era University - Lipa Campus",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Joseph College of Rosario Batangas",
+     "location": "Rosario, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CARD-MRI Development Institute",
+     "location": "Bay, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Sto. Domingo de Silos",
+     "location": "Calatagan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of La Sallete College Seminary",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marasigan Institute of Science and Technology",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Renaissance School of Science and Technology",
+     "location": "Morong, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "GRABSUM School",
+     "location": "Candelaria, Quezon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Royal British College",
+     "location": "Lipa, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sapphire International Aviation Academy",
+     "location": "Tanauan, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southbay Montessori School and Colleges",
+     "location": "Sta. Cruz, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Ignatius Technical Institute of Business and Arts",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Westbridge Institute of Technology",
+     "location": "Cabuyao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AISAT College-Dasmariñas",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum de San Pablo",
+     "location": "San Pablo, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "MOL Magsaysay Maritime Academy",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon College of Business Maritime Science and Technology",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Informatics College Cavite",
+     "location": "Imus"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International Electronics and Technical Institute (Calamba)",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New Era University-Baras Campus",
+     "location": "Baras, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NU Sports Academy",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Olinsterg College",
+     "location": "Tiaong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Fatima University-Sta. Rosa",
+     "location": "Sta. Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Red Link Institute of Science & Technology",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Peter's School (Calauag)",
+     "location": "Calauag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CSTC College of Sciences Technology and Communications- Atinomnan",
+     "location": "Atimonan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle-College of Saint Benilde- Antipolo",
+     "location": "Antipolo"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Benilde International School- Calamba",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Ignatius Technical Institute of Business and Arts-Cabuyao",
+     "location": "Cabuyao, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Therese College of Arts and Sciences",
+     "location": "Pila, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Victory Elijah Christian College",
+     "location": "Antipolo City , Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FCD Central Institute",
+     "location": "Dasmariñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Magna Anima Teachers College",
+     "location": "Santa Rosa, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. John Bosco College of Tayabas",
+     "location": "Tayabas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "First Industrial Science and Technology College",
+     "location": "Sto. Tomas, Batangas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Southern Luzon",
+     "location": "Balayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NU Dasmariñas",
+     "location": "Dasmariñas, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Technological Institute of Science Arts and Trade-Central",
+     "location": "General Mariano Alvarez"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Samuel Christian College of General Trias",
+     "location": "General Trias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Peregrine Institute",
+     "location": "Bacoor, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CITI Global College-Calamba",
+     "location": "Calamba, Laguna"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel S. Enverga University Foundation-Calauag",
+     "location": "Calauag"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eastern Star Academy",
+     "location": "San Mateo, Rizal"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Seminary of Christian Ministries",
+     "location": "Silang, Cavite"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of Naga",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Caramoan Community College",
+     "location": "Caramoan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cataingan Municipal College",
+     "location": "Cataingan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ligao Community College",
+     "location": "Ligao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polangui Community College",
+     "location": "Polangui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Jose Community College",
+     "location": "Malilipot, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tiwi Community College",
+     "location": "Tiwi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rapu-Rapu Community College",
+     "location": "Rapu-Rapu, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Oas Community College",
+     "location": "Oas, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Libon Community College",
+     "location": "Libon, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baao Community College",
+     "location": "Baao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Calabanga Community College",
+     "location": "Calabanga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Daraga Community College",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Balud Municipal College",
+     "location": "Balud, Masbate"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Community College of Manito",
+     "location": "Manito, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aroroy Municipal College",
+     "location": "Aroroy"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Donsol Community College",
+     "location": "Donsol"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Pascual Polytechnic College",
+     "location": "San Pascual, Masbate"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Governor Mariano E. Villafuerte Community College-Garchitorena",
+     "location": "Garchitorena"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Governor Mariano E. Villafuerte Community College-Libmanan",
+     "location": "Libmanan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Governor Mariano E. Villafuerte Community College-Siruma",
+     "location": "Siruma"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Governor Mariano E. Villafuerte Community College-Tinambac",
+     "location": "Tinambac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guinobatan Community College",
+     "location": "Guinobatan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bacacay Community College",
+     "location": "Bacacay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pilar Community College",
+     "location": "Pilar, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol State College of Applied Sciences and Technology",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University-Main",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Main",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic State University of Bicol",
+     "location": "Nabua, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Bicol State University of Agriculture- Main",
+     "location": "Pili, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Catanduanes State University-Main",
+     "location": "Virac, Catanduanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology",
+     "location": "Mandaon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Main",
+     "location": "Goa, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sorsogon State University- Main",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Bicol State University of Agriculture- Sipocot",
+     "location": "Sipocot"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University-Daraga Campus",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University-College of Agriculture and Forestry",
+     "location": "Guinobatan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University-Tabaco Campus",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Catanduanes State University-Panganiban",
+     "location": "Panganiban, Catanduanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University-Polangui Campus",
+     "location": "Polangui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Labo Campus",
+     "location": "Labo, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Mercedes Campus",
+     "location": "Mercedes, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Panganiban Campus",
+     "location": "Jose Panganiban, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Bicol State University of Agriculture- Calabanga",
+     "location": "Calabanga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Sagñay Campus",
+     "location": "Sagnay, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University-San Jose Campus",
+     "location": "San Jose, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sorsogon State University- Bulan Campus",
+     "location": "Bulan, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sorsogon State University- Magallanes Campus",
+     "location": "Magallanes, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sorsogon State University- Castilla Campus",
+     "location": "Castilla, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Tinambac Campus",
+     "location": "Tinambac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Salogon Campus",
+     "location": "San Jose, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Caramoan Campus",
+     "location": "Caramoan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido State University- Lagonoy Campus",
+     "location": "Lagonoy"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Entienza Campus",
+     "location": "Sta. Elena, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol University Gubat Campus",
+     "location": "Gubat"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Bicol State University of Agriculture- Pasacao",
+     "location": "Pasacao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte State College-Abaño Campus",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Ragay",
+     "location": "Ragay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aemilianum College",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ago Medical and Educational Center",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol Christian College of Medicine",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De Vera Institute of Technology",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Annunciation College of Bacon Sorsogon Unit",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Santo Tomas-Legazpi",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ateneo de Naga University",
+     "location": "Ateneo Avenue, Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol College",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol Merchant Marine College",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte College",
+     "location": "Labo, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Catanduanes Colleges",
+     "location": "Virac, Catanduanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ceguera Technological Colleges",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Louise De Marillac College of Sorsogon",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Universidad de Sta. Isabel",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Arts and Technological College",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Communication Development Institute-Naga",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Daniel B. Peña Memorial College Foundation",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Legazpi",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Felix O. Alfelor Sr. Foundation College",
+     "location": "Sipocot"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Alfelor Sr. Memorial College",
+     "location": "Del Gallego, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Fatima School of Science and Technology",
+     "location": "Goa, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Rosary Major Seminary",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Trinity College of Camarines Sur",
+     "location": "Bato, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Conception College- Albay",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Iriga City",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Daet",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Liceo de Masbate",
+     "location": "Masbate City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Liceo de San Jacinto Foundation",
+     "location": "San Jacinto, Masbate"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mabini Colleges",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariners' Polytechnic Colleges Foundation of Canaman",
+     "location": "Canaman"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariners' Polytechnic Colleges Foundation of Naga City",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mariners' Polytechnic Colleges Foundation of Legazpi City",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Masbate Colleges",
+     "location": "Masbate City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mater Salutis College Seminary",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Naga College Foundation",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Osmeña Colleges",
+     "location": "Masbate City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Lourdes College Foundation",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Peñafrancia Seminary",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Partido College",
+     "location": "Goa, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Perpetual Help Paramedical School",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pili Capital College",
+     "location": "Pili, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic Institute of Tabaco",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Naga View Adventist College",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "R.G. de Castro Colleges",
+     "location": "Bulan, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Republic Colleges of Guinobatan",
+     "location": "Guinobatan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Bicol Colleges",
+     "location": "Masbate City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon Institute",
+     "location": "Bulan, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Masbate Roosevelt College",
+     "location": "Placer, Masbate"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tabaco College",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Tanchuling College",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Northeastern Philippines",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Nueva Caceres",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Saint Anthony",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Veritas College of Irosin",
+     "location": "Irosin, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Worldtech Resources Foundation-Naga City",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Worldtech Resources Foundation-Iriga City",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Legazpi",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lower Isarog Foundation Exponent",
+     "location": "Tigaon, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Speed Computer College",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Zamora Memorial College",
+     "location": "Bacacay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De Sta. Monica of Polangui",
+     "location": "Polangui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Communication Development Institute-Legazpi City",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sorsogon College of Criminology",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Peter Baptist College Foundation",
+     "location": "Lupi, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Legazpi City",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Carlos S. Lanting College-Dr. Ruby Lanting Casaul Educational Foundation",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PLT College of Guinobatan",
+     "location": "Guinobatan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Trinity College Seminary",
+     "location": "Labo, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Naga City",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte School of Law Arts and Sciences",
+     "location": "Talisay, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Solis Institute of Technology",
+     "location": "Bulan, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Lewis College",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "West Coast College",
+     "location": "Pio Duran"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sta. Elena (Camarines Norte) College",
+     "location": "Sta. Elena, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Brentwood College of Asia International School",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Capalonga College",
+     "location": "Capalonga, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon Technological College Foundation-Legazpi",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Salvation College",
+     "location": "Tiwi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Aeronautical Academy of the Philippines",
+     "location": "Canaman"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Communication Development Institute-Sorsogon",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Amando Cope College",
+     "location": "Tabaco"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Luis H. Dilanco Sr. Foundation College",
+     "location": "Libmanan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Regina Mondi College",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Siena College-Tigaon",
+     "location": "Tigaon, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Estenias Science Foundation School",
+     "location": "Casiguran, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of the Most Holy Trinity College Seminary",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Christian Polytechnic Institute of Catanduanes",
+     "location": "Virac, Catanduanes"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Forbes College",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Shepherdville College",
+     "location": "Tigaon, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Daet",
+     "location": "Daet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Sorsogon",
+     "location": "Sorsogon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Naga City",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Infotech Development Systems Colleges",
+     "location": "Ligao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon Technological College Foundation-Pilar",
+     "location": "Pilar, Sorsogon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southern Luzon Technological College Foundation-Pioduran",
+     "location": "Pio Duran"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Computer Foundation College-Pili",
+     "location": "Pili, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Belen B. Francisco Foundation- Albay",
+     "location": "Daraga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Camarines Norte College of Arts and Business",
+     "location": "Labo, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Iriga City",
+     "location": "Iriga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Arts and Technological College-Polangui Campus",
+     "location": "Polangui"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Arts and Technological College-Ligao City",
+     "location": "Ligao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mountview College",
+     "location": "Naga, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Computer Systems Institute",
+     "location": "Legazpi, Albay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "SPJ International Technology Institute",
+     "location": "Tinambac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cataingan Polytechnic Institute",
+     "location": "Cataingan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Masbate Polytechnic and Development College",
+     "location": "Baleno, Masbate"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Masbate Central Technical Institute",
+     "location": "Masbate City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bicol Training and Technological College",
+     "location": "Bacacay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Francis Carraciolo Culinary Academy",
+     "location": "Vinzons"
+    },
+    {
+     "Region": "Luzon",
+     "name": "BST Grace College",
+     "location": "San Fernando, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sta. Elena Institute of Science and Technology",
+     "location": "Sta. Elena, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of St. Dominic",
+     "location": "Sta. Elena, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Northills College of Asia (NCA)",
+     "location": "Labo, Camarines Norte"
+    },
+    {
+     "Region": "Luzon",
+     "name": "King Thomas Learning Academy",
+     "location": "Sipocot"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Buhi St. Joseph Academy",
+     "location": "Buhi, Camarines Sur"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Caloocan City",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City of Malabon University",
+     "location": "Malabon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Lungsod ng Muntinlupa",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Navotas Polytechnic College",
+     "location": "Navotas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Lungsod ng Maynila",
+     "location": "Intramuros, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City University of Pasay",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Makati",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Universidad de Manila",
+     "location": "Ermita, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Filemon C. Aguilar Memorial College of Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Lungsod ng Pasig",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Lungsod ng Valenzuela",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Quezon City University",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pamantasan ng Lungsod ng Marikina",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Valenzuela City Polytechnic College",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pateros Technological College",
+     "location": "Pateros"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Taguig City University",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Muntinlupa",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Parañaque City College",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National Defense College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Public Safety College",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Development Academy of the Philippines",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Jose Fabella Memorial Hospital School of Midwifery",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eulogio \"Amang\" Rodriguez Institute of Science and Technology",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marikina Polytechnic College",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Normal University-Main",
+     "location": "Ermita, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine State College of Aeronautics-Main",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rizal Technological University",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Technological University of the Philippines-Manila",
+     "location": "Ermita, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines Diliman",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of The Philippines-Open University",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-San Juan Campus",
+     "location": "San Juan City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Parañaque Campus",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Taguig",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Technological University of the Philippines-Taguig",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines Manila",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Quezon City Campus",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rizal Technological University-Pasig",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Adamson University",
+     "location": "900 San Marcelino Street, Ermita, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Air Link International Aviation College",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Alliance Graduate School",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Makati",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer University",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Arellano University-Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Arellano University-Malabon",
+     "location": "Malabon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Arellano University-Pasay",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Arellano University-Pasig",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia Pacific College",
+     "location": "Magallanes, Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute for Distance Education",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Journalism and Communication",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Management",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Maritime Studies",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Social Institute",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Theological Seminary",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Assumption College",
+     "location": "San Lorenzo Drive, San Lorenzo Village, Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ateneo de Manila University- Quezon City",
+     "location": "Loyola Heights, Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ateneo De Manila University School of Medicine and Public Health",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ateneo de Manila University Graduate School of Business",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bernardo College",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Biblical Seminary of the Philippines",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CAP College Foundation",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Asia and the Pacific",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Central Colleges of the Philippines",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Centro Escolar University- Manila",
+     "location": "No. 9 Mendiola St., San Miguel, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Chiang Kai Shek College",
+     "location": "Tondo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Chinese General Hospital Colleges",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Anthony Mary Claret College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de San Juan de Letran",
+     "location": "Intramuros, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de San Lorenzo",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Concordia College",
+     "location": "Paco, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle University-Manila",
+     "location": "2401 Taft Avenue, Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De Ocampo Memorial College",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word Mission Seminary",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle-College of Saint Benilde",
+     "location": "Taft Avenue, Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dominican College",
+     "location": "San Juan City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Bosco Technical College",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Dr. Carlos S. Lanting College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Emilio Aguinaldo College",
+     "location": "Paco, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Far Eastern University",
+     "location": "Nicanor Reyes Sr. St., Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEATI University",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Febias College of Bible",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEU Diliman",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEU-Dr. Nicanor Reyes Medical Foundation",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Governor Andres Pascual College",
+     "location": "Navotas City, Third District"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Greenville College",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "De La Salle-Araneta University",
+     "location": "Malabon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guzman College of Science and Technology",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Rosary College Foundation",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Institute of Community and Family Health",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Institute of Formation and Religious Studies",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Interface Computer College- Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International Baptist College",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International Graduate School of Leadership",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jose Rizal University",
+     "location": "80 Shaw Blvd., Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Manila",
+     "location": "San Miguel, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College- Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lacson College",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Centro Escolar Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Regis Marie College",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of the Philippines University",
+     "location": "Muralla St., Intramuros, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Central University",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Tytana Colleges",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Law College",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Adventist College",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Theological College",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manuel L. Quezon University",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mapua University-Manila",
+     "location": "Muralla St., Intramuros, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mapua University-Makati",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Martinez Memorial College",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary Chiles College",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CICM Maryhill School of Theology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metro Business College-Pasay",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metro Manila College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metropolitan Medical Center College of Arts Science and Technology",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Miriam College",
+     "location": "Katipunan Road, Loyola Heights, Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mother of Life Center",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NAMEI Polytechnic Institute",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National College of Business and Arts-Cubao",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National College of Business and Arts-Fairview",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The National Teachers College",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National University",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New Era University",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Olivarez College",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Fatima University- Valenzuela",
+     "location": "120 Mc Arthur Highway, Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Lourdes College",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of the Angels Seminary",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PACE Graduate School of Christian Education",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pasig Catholic College",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PATTS College of Aeronautics",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Perpetual Help College of Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Perpetual Help System Dalta",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Dominican Center of Institutional Studies",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Christian University",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine College of Criminology",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine College of Health Sciences",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Louis College-Valenzuela",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Law School",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Merchant Marine School-Manila",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Merchant Marine School-Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine School of Business Administration-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine School of Business Administration-Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Philippine Women's University-Manila",
+     "location": "Taft Ave., Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PHILSIN College Foundation",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PMI Colleges-Manila",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "PMI Colleges-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "World Citi Colleges-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Makati Medical Center College",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Republican College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Roosevelt College-Marikina",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Camillus College Seminary",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Francis Divine College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Francis of Assisi College",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Joseph's College of Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Jude College",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Paul University-Manila",
+     "location": "680 Pedro Gil St., Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Paul University-Quezon City",
+     "location": "Gilmore, Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Rita College-Manila",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Scholastica's College",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Samson College of Science and Technology-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Beda University",
+     "location": "Mendiola, San Miguel, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Carlos Seminary",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Juan de Dios Educational Foundation",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Sebastian College- Recoletos",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sta. Catalina College",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Santa Isabel College of Manila",
+     "location": "Ermita, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Siena College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southeastern College",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Luke's College of Medicine- William H. Quasha Memorial",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Stella Maris College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Systems Plus Computer College-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Technological Institute of the Philippines-Manila",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Technological Institute of the Philippines-Quezon City",
+     "location": "Aurora Blvd, Cubao, Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Trinity University of Asia",
+     "location": "275 E. Rodriguez Sr. Blvd., Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Unciano Colleges and General Hospital",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southeast Asian College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the East-Ramon Magsaysay Memorial Medical Center",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The University of Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Santo Tomas",
+     "location": "España, Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the East-Manila",
+     "location": "Claro M. Recto Avenue, Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the East- Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Angelicum College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian College of Science and Technology-Cubao",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Bosco Center of Studies",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "IETI College-Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Perpetual Succor College",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Beda College-Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Dominic Savio College",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. John Technological College of the Philippines",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Cubao",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Shaw",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Global City",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Muñoz EDSA",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Novaliches",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Fairview",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College Pasay-EDSA",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Rehabilitation Institute Foundation",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculada Concepcion College",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "West Bay College",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "System Plus Computer College-Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Bernadette College of Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Children of Mary Immaculate College",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Informatics College-Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Fisher Valley College",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College- Novaliches",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Fairview",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College- Parañaque",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Sta. Mesa",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Mercy College Foundation",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Interface Computer College- Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Fatima University- Quezon City",
+     "location": "Lagro, Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Lourdes Technological College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Clare College of Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia Graduate School of Theology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Pasig City",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Wesleyan College of Manila",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Loral Douglas Woosley Bethany Colleges",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Marikina",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "IETI College of Science and Technology-Marikina",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Manila Business College Foundation",
+     "location": "Sta. Cruz, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Access Computer and Technical Colleges-Manila",
+     "location": "Quiapo, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kalayaan College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Criminal Justice College",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Entrepreneurs School of Asia",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Computer Studies",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Mary's College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International College of Business and Accountancy- Cubao",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International College of Business and Economics-Las Piñas",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National Christian Life College",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Global City Innovative College",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southville International School and Colleges",
+     "location": "BF Homes International, Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Information and Communications Technology Academy",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Our Lady of Guadalupe Colleges",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The Manila Times College",
+     "location": "Intramuros, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Access Computer and Technical Colleges-Cubao",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Immaculate Heart of Mary College-Parañaque",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lyceum of Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Rogationist Seminary College of Philosophy",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College-Pasig",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Gardner College Diliman",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ABE International Business College-Caloocan City",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "WCC Aeronautical & Technological College-North Manila",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Informatics College-Northgate",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marie-Bernarde College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mary the Queen College of Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Bernadette of Lourdes College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Flight School International",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Capitol Medical Center Colleges",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "New England College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Universal Colleges of Parañaque",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "South Mansfield College",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. John of Beverly School",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Jesus Reigns Christian College Foundation",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Villagers Montessori College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA School of Medicine",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Enderun Colleges",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Messiah College Foundation",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "National Polytechnic College of Science and Technology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Lady of Lourdes Hospital & Colleges of Caybiga",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of St. Catherine",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Grace Christian College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Centro Escolar University- Makati",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Cultural College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Diliman College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de Sta. Teresa de Avila Foundation",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "The One Nation Entrepreneur School",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bestlink College of the Philippines",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Global Reciprocal Colleges",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Golden Link College Foundation",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pacific InterContinental College",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Taguig",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Computer Studies-Quezon City",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Far Eastern University-Makati",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Infotech College of Arts and Sciences Philippines",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Dominic Institute",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Treston International College",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Access Computer and Technical Colleges-Lagro",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "UBIX Institute of Technologies",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Divine Wisdom",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Meridian International College of Business and Arts",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Consolacion College- Valenzuela",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "South SEED LPDH College",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Bethel Bible College of the Assemblies of God",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Christ the King College of Science and Technology",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio de San Gabriel Archangel of Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Vincent de Ferrer College of Camarin",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Datamex College of Saint Adeline-Fairview",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Computer Studies-Bicutan",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Access Computer and Technical Colleges-Camarin",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Datamex College of Saint Adeline-Valenzuela",
+     "location": "Valenzuela City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "School of Fashion and the Arts",
+     "location": "Makati"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ICI Global University",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southville International School",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Therese of the Child Jesus Institute of Arts and Sciences",
+     "location": "Pasay"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Arellano University- Mandaluyong",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "La Verdad Christian College- Caloocan",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Arts and Sciences of Asia and the Pacific",
+     "location": "Pasig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eclaro Academy",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romarinda International College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asia Harvesters College and Seminary",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Don Carlo Cavina School",
+     "location": "Las Piñas"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Integrated Innovation and Hospitality Colleges",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Recoletos School of Theology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CIIT College of Arts and Technology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southeast Asia Christian College",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Datamex College of Saint Adeline-Parañaque",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Guang Ming College",
+     "location": "Malate, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Asian Institute of Science and Technology",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEU Institute of Technology",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Makati Science Technological Institute of the Philippines",
+     "location": "Sta. Mesa, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Electron College of Technical Education",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marianum College",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Metropolitan Institute of Arts and Sciences",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Sapphire International Aviation Academy",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Marikina",
+     "location": "Marikina"
+    },
+    {
+     "Region": "Luzon",
+     "name": "FEU Alabang",
+     "location": "Muntinlupa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "GK College of Business Arts and Technology",
+     "location": "Mandaluyong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NBS College",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Chamuel College",
+     "location": "Taguig"
+    },
+    {
+     "Region": "Luzon",
+     "name": "College of Saint Amatiel",
+     "location": "Malabon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "South CompEdge College",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "United Christian Academy College of Asia",
+     "location": "Parañaque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Commonwealth",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Manila",
+     "location": "Sampaloc, Manila"
+    },
+    {
+     "Region": "Luzon",
+     "name": "NU Fairview",
+     "location": "Quezon City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Francis Technical Institute",
+     "location": "Caloocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Military Academy",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Abra State Institute of Science and Technology-Main",
+     "location": "Lagangilang"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Apayao State College-Main",
+     "location": "Conner, Apayao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Benguet State University-Main",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University - Main",
+     "location": "Lamut"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kalinga State University-Main",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mountain Province State University- Main",
+     "location": "Bontoc, Mt. Province"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Abra State Institute of Science and Technology- Bangued",
+     "location": "Bangued"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Benguet State University-Bokod Campus",
+     "location": "Bokod, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Benguet State University-Open University",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Benguet State University-Buguias Campus",
+     "location": "Buguias"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University - Lagawe Campus",
+     "location": "Lagawe"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University - Potia",
+     "location": "Alfonso Lista"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mountain Province State University- Tadian",
+     "location": "Tadian"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Philippines Baguio",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kalinga State University-Dagupan",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Apayao State College-Luna",
+     "location": "Luna, Apayao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University - Tinoc",
+     "location": "Tinoc"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kalinga State University-Rizal",
+     "location": "Rizal, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University-Hapao",
+     "location": "Hungduan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ifugao State University-Aguinaldo",
+     "location": "Aguinaldo, Ifugao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Abra Valley Colleges",
+     "location": "Bangued"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baguio Central University",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of the Cordilleras",
+     "location": "Governor Park Rd., Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cordillera Career Development College",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Bangued",
+     "location": "Bangued"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Nazarene College",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pines City Colleges",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Louis College of Bulanao",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Louis University",
+     "location": "A. Bonifacio Street, Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Pablo Major Seminary",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Casiciaco Recoletos Seminary",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "University of Baguio",
+     "location": "Gen. Luna Road, Baguio City"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Easter College",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Keystone College",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Baguio",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baguio College of Technology",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "BVS College",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Cordillera A+ Computer Technology College",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "AMA Computer College-Baguio",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Data Center College of the Philippines of Bangued-Abra",
+     "location": "Bangued"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Kalinga Colleges of Science and Technology",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Data Center College of the Philippines of Baguio City",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "King's College of the Philippines- Benguet",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Tonis College",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "BSBT College",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Xijen College of Mt. Province",
+     "location": "Bontoc, Mt. Province"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Remnant International College",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "International School of Asia and the Pacific",
+     "location": "Tabuk, Kalinga"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine College of Ministry",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Theological Foundation for Asia (Asia Pacific Theological Seminary)",
+     "location": "Baguio"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Star College",
+     "location": "La Trinidad, Benguet"
+    },
+    {
+     "Region": "Luzon",
+     "name": "City College of Calapan",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Baco Community College",
+     "location": "Baco, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pola Community College",
+     "location": "Pola, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marinduque State University-Main Campus",
+     "location": "Boac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mindoro State University- Main Campus",
+     "location": "Victoria, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College",
+     "location": "San Jose, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University",
+     "location": "Aborlan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Main",
+     "location": "Odiongan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marinduque State University-Torrijos Campus",
+     "location": "Torrijos, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-El Nido",
+     "location": "El Nido, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-Busuanga",
+     "location": "Busuanga, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-Culion",
+     "location": "Culion"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-Quezon",
+     "location": "Quezon, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-Rio Tuba",
+     "location": "Bataraza"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Narra",
+     "location": "Narra, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Dumaran",
+     "location": "Dumaran"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Balabac",
+     "location": "Balabac, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Bataraza",
+     "location": "Bataraza"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Sofronio Española",
+     "location": "Sofronio Española"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- San Andres Campus",
+     "location": "San Andres, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College-Labangan Campus",
+     "location": "San Jose, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- San Fernando Campus",
+     "location": "San Fernando, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mindoro State University- Calapan City Campus",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mindoro State University- Bongabong Campus",
+     "location": "Bongabong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College-Murtha Campus",
+     "location": "San Jose, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College-Mamburao",
+     "location": "Mamburao"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College-Sablayan Campus",
+     "location": "Sablayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marinduque State University-Gasan Campus",
+     "location": "Gasan, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marinduque State University-Sta. Cruz Campus",
+     "location": "Sta. Cruz, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Araceli",
+     "location": "Araceli, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Brooke's Point",
+     "location": "Brooke's Point"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Coron",
+     "location": "Coron, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Cuyo",
+     "location": "Cuyo, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Quezon",
+     "location": "Quezon, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Roxas",
+     "location": "Roxas, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Taytay",
+     "location": "Taytay, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Calatrava Campus",
+     "location": "Calatrava, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- San Agustin Campus",
+     "location": "San Agustin, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Cajidiocan Campus",
+     "location": "Cajidiocan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Sta. Fe Campus",
+     "location": "Sta. Fe, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Sta. Maria Campus",
+     "location": "Sta. Maria, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- Romblon Campus",
+     "location": "Romblon, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Western Philippines University-Puerto Princesa",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- New Ibajay El Nido",
+     "location": "El Nido, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Rizal",
+     "location": "Rizal, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Bansud Campus",
+     "location": "Bansud"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Polytechnic University of the Philippines-Sablayan Campus",
+     "location": "Sablayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- Linapacan",
+     "location": "Linapacan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- San Rafael Puerto Princesa City",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Romblon State University- San Jose Campus",
+     "location": "San Jose, Romblon"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan State University- San Vicente",
+     "location": "San Vicente, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Occidental Mindoro State College-Lubang Campus",
+     "location": "Lubang, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Abada College",
+     "location": "Pinamalayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Colegio De San Sebastian- Sablayan",
+     "location": "Sablayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of Calapan",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Divine Word College of San Jose",
+     "location": "San Jose, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Eastern Mindoro College",
+     "location": "Bongabong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "EMA EMITS College Philippines",
+     "location": "Pinamalayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Grace Mission College",
+     "location": "Socorro, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Holy Trinity University",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Mary's College of Marinduque",
+     "location": "Boac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Luna Goco Colleges-Calapan",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan Polytechnic College",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Saint Augustine Seminary",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Francisco Javier College",
+     "location": "Narra, Palawan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Santa Cruz Institute-Marinduque",
+     "location": "Sta. Cruz, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Seminario De San Jose",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Educational Systems Technological Institute",
+     "location": "Boac"
+    },
+    {
+     "Region": "Luzon",
+     "name": "CLCC Institute of Computer Arts & Technology",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Fullbright College",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Marinduque Midwest College",
+     "location": "Gasan, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Prince of Peace College",
+     "location": "Puerto Galera"
+    },
+    {
+     "Region": "Luzon",
+     "name": "John Paul College",
+     "location": "Roxas, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Lorenzo Ruiz Seminary",
+     "location": "Odiongan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Clarendon College",
+     "location": "Roxas, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Mina de Oro Institute of Science and Technology",
+     "location": "Victoria, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Ark of the Covenant Montessori Chamber of Learning College",
+     "location": "Victoria, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Palawan Technological College",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Innovative College of Science and Technology",
+     "location": "Bongabong"
+    },
+    {
+     "Region": "Luzon",
+     "name": "St. Anthony College-Calapan City",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southwestern Institute of Business and Technology",
+     "location": "Pinamalayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Paradigm Colleges of Science and Technology",
+     "location": "Roxas, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Erhard Systems Technological Institute",
+     "location": "Odiongan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Institute of Business Science and Medical Arts",
+     "location": "Pinamalayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Philippine Central Islands College Foundation",
+     "location": "San Jose, Occidental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "ACLC College of Calapan",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Pinamalayan Maritime Foundation and Technological College",
+     "location": "Pinamalayan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "STI College-Puerto Princesa",
+     "location": "Puerto Princesa"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Erhard Science and Technological Institute-Oriental Mindoro",
+     "location": "Gloria, Oriental Mindoro"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Malindig Institute Foundation",
+     "location": "Sta. Cruz, Marinduque"
+    },
+    {
+     "Region": "Luzon",
+     "name": "Southwestern College of Maritime Business and Technology",
+     "location": "Calapan"
+    },
+    {
+     "Region": "Luzon",
+     "name": "San Brendan College",
+     "location": "Taytay, Palawan"
+    }
+]
+   

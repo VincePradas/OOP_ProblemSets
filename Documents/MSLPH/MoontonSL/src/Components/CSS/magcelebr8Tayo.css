@@ -1,0 +1,335 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+/* For Chrome, Safari, Edge, and Opera */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* For Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+
+.mainContainer.magcelebr8Tayo{
+    height: auto;
+    width: 100%;
+    background: black;
+}
+.mainContainer.magcelebr8Tayo form{
+    display: none;
+}
+section.mc8tPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 15vw;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(#000 -5%, transparent),
+        linear-gradient(transparent, #c4179b 300%), 
+        url('../assets/imgs/MagCelebr8TayoBG1.png') no-repeat top center;
+    background-size: cover;
+    overflow: hidden;
+}
+section.mc8tPageContainer.top img#mc8tpcAkai{
+    height: 75vw;
+    position: absolute;
+    bottom: -25vw;
+    left: -40%;
+    z-index: 2;
+}
+section.mc8tPageContainer.top img#mc8tpcAkaiFrog{
+    height: 20vw;
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    z-index: 2;
+}
+.mc8tPageContent.top{
+    height: auto;
+    width: 100%;
+}
+.mc8tpctHeader{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    text-align: center;
+}
+.mc8tpctHeader img#mc8tpcthLogo{
+    height: 15vw;
+    display: flex;
+    margin: 0 auto;
+}
+.mc8tpctForm{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    margin: 2% 0;
+}
+.mc8tpctfContents{
+    /* background: rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 20px black;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px); */
+    background: url('../assets/imgs/MagCelebr8TayoBG2.png') no-repeat center;
+    background-size: cover;
+    box-shadow: 0 0 20px black;
+    padding: 10% 15%;
+    padding-bottom: 8%;
+    border-radius: 1vw;
+}
+.mc8tpctfContents h6{
+    font-size: 1.2vw;
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+}
+.mc8tpctfContents p{
+    text-align: center;
+    color: gray;
+}
+.mc8tpctfc{
+    height: auto;
+    width: 100%;
+    padding: 0 10%;
+    margin-top: 3%;
+}
+.mc8tpctfc div{
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+.mc8tpctfc div ul{
+    height: 15vw;
+    width: 100%;
+    background: white;
+    position: absolute;
+    top: 3.5vw;
+    left: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    border-radius: 1vw;
+    padding: 2%;
+    z-index: 3;
+}
+.mc8tpctfc div ul li{
+    height: 2vw;
+    margin: 1% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 0.5vw;
+    transition: 400ms ease;
+}
+.mc8tpctfc div ul li:nth-child(odd) {
+    background: rgba(160, 160, 160, 0.5);
+}
+.mc8tpctfc div ul li:nth-child(even) {
+    background: rgba(150, 150, 150, 0.3);
+}
+.mc8tpctfc div ul li p{
+    color: rgb(255, 0, 43);
+    font-size: 0.7vw;
+}
+.mc8tpctfc input{
+    width: 100%;
+    font-size: 0.9vw;
+    padding: 5px 15px;
+    border: solid 2px white;
+    background: none;
+    outline: none;
+    color: white;
+    border-radius: 10px;
+    margin: 2% 0;
+    text-align: center;
+}
+.mc8tpctfc button{
+    padding: 10px 10%;
+    font-size: 0.7vw;
+    display: flex;
+    margin: 5% auto;
+    background: none;
+    color: white;
+    border: solid 2px white;
+    border-radius: 50px;
+    cursor: not-allowed;
+    opacity: 50%;
+    transition: 400ms ease;
+}
+.mc8tpctfc button.active{
+    opacity: 100%;
+    transition: 400ms ease;
+    cursor: pointer;
+}
+.mc8tpctfc button.active:hover{
+    opacity: 100%;
+    background: white;
+    color: black;
+    box-shadow: 0 0 10px white;
+    transition: 400ms ease;
+}
+.mc8tpctfc p#formResponse{
+    text-align: center;
+    height: 2vw;
+    color: gray;
+    font-style: italic;
+}
+.mc8tpctfContents img{
+    height: 20vw;
+    display: flex;
+    margin: 0 auto;
+}
+.mc8tpctActivation{
+    height: auto;
+    width: 100%;
+    padding: 0 20%;
+    margin: 2% 0;
+}
+.mc8tpctActivation img{
+    width: 100%;
+    border-radius: 1vw;
+    box-shadow: 0 0 20px black;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.magcelebr8Tayo{
+        padding-top: 13vh;
+    }
+    section.mc8tPageContainer.top{
+        padding-bottom: 20vw;
+    }
+    .btptpddfContent{
+        background: rgba(0, 0, 0, 0.4);
+        box-shadow: 0 0 10px black;
+    }
+    .mc8tpctHeader{
+        padding: 0;
+    }
+    .mc8tpctHeader img#mc8tpcthLogo{
+        height: 30vw;
+        display: flex;
+        margin: 0 auto;
+    }
+    .mc8tpctHeader p{
+        font-size: 2.5vw;
+    }
+    .mc8tpctForm{
+        padding: 0;
+        margin: 10% 0;
+    }
+    .mc8tpctfContents{
+        padding: 10%;
+        border-radius: 2vw;
+    }
+    .mc8tpctfContents img{
+        height: 50vw;
+    }
+    .mc8tpctfContents h6{
+        font-size: 3.5vw;
+    }
+    .mc8tpctfContents p{
+        font-size: 2.5vw;
+    }
+    .mc8tpctfc{
+        padding: 0;
+    }
+    .mc8tpctfc p#formResponse{
+        height: 3vw;
+        font-size: 2.5vw;
+    }
+    .mc8tpctfc input{
+        font-size: 3vw;
+    }
+    .mc8tpctfc button{
+        font-size: 2.5vw;
+    }
+    .mc8tpctfc div ul{
+        height: 20vw;
+        width: 100%;
+        background: white;
+        position: absolute;
+        top: 10vw;
+        left: 0;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        border-radius: 1vw;
+        padding: 2%;
+        z-index: 3;
+    }
+    .mc8tpctfc div ul li{
+        height: 7vw;
+    }
+    .mc8tpctfc div ul li p{
+        font-size: 2.5vw;
+    }
+    .mc8tpctActivation{
+        height: auto;
+        width: 100%;
+        padding: 0;
+        margin: 2% 0;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+

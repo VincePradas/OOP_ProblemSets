@@ -1,0 +1,359 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.newsPage{
+    height: auto;
+    width: 100%;
+    background: black;
+    padding-bottom: 10vw;
+}
+
+
+
+section.newspPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 5vw 10%;
+    padding-bottom: 1vw;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/LandingBG01.png') no-repeat top center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+.nwsppcContentTop.left{
+    height: auto;
+    width: 60%;
+}
+.nwsppcContentTop.left div{
+    height: 30vw;
+    width: 100%;
+    border: solid 2px gray;
+    border-radius: 1vw;
+    background: black;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.nwsppcContentTop.left div img#nwsppchpiBack{
+    width: 100%;
+    position: absolute;
+    opacity: 50%;
+    filter: blur(10px);
+}
+.nwsppcContentTop.left div img#nwsppchpiFront{
+    height: 100%;
+    position: relative;
+}
+.nwsppcContentTop.left h4{
+    margin: 2% 0;
+    line-height: 2.5vw;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.nwsppcContentTop.right{
+    height: auto;
+    width: 35%;
+}
+.nwsppcContentTop.right h5{
+    margin: 2% 0;
+    font-family: 'Poppins', sans-serif;
+}
+.nwsppcctRight{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin-bottom: 2%;
+    text-decoration: none;
+}
+.nwsppcctRightImg{
+    height: 10vw;
+    width: 50%;
+    border-radius: 1vw;
+    border: solid 2px gray;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.nwsppcctRightImg img#nwsppcctrBack{
+    width: 100%;
+    position: absolute;
+    opacity: 50%;
+}
+.nwsppcctRightImg img#nwsppcctrFront{
+    height: 100%;
+    position: relative;
+}
+.nwsppcctRightTitle{
+    height: auto;
+    width: 47%;
+    position: relative;
+    padding: 2% 0;
+}
+.nwsppcctRightTitle h6{
+    font-family: 'Poppins', sans-serif;
+}
+.nwsppcctRightTitle span{
+    position: absolute;
+    bottom: 0;
+}
+.nwsppcctRightTitle span p{
+    font-size: 0.7vw;
+    color: gray;
+}
+.nwsppcctrMore{
+    height: auto;
+    width: 100%;
+    text-align: right;
+}
+.nwsppcctrMore a{
+    text-decoration: none;
+    color: white;
+    font-size: 0.9vw;
+    border: solid 2px white;
+    padding: 2% 5%;
+    border-radius: 50px;
+}
+.nwsppcctrMore a:hover{
+    background: white;
+    color: black;
+    transition: 400ms ease;
+}
+
+
+
+
+
+
+
+section.newspPageContainer.mid{
+    height: auto;
+    width: 100%;
+    padding: 1% 10%;
+    position: relative;
+}
+.nwsppcContentMid{
+    height: auto;
+    width: 60%;
+}
+.nwsppcContentMid h6{
+    color: gray;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 7%;
+}
+.nwsppcContentMid p{
+    font-size: 0.7vw;
+    white-space: pre-line;
+}
+.nwsppcContentMidOthers{
+    height: auto;
+    width: 100%;
+    margin-top: 5%;
+    display: none;
+}
+.nwsppcContentMidOthers h5{
+    margin: 2% 0;
+    font-family: 'Poppins', sans-serif;
+}
+.nwsppccmOthers{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 0 auto;
+    padding: 1% 0;
+    z-index: 3;
+    overflow-x: scroll;
+}
+.nwsppccmOthers::-webkit-scrollbar {
+    height: 10px;
+}
+.nwsppccmOthers::-webkit-scrollbar-track {
+    background: rgba(40, 40, 40, 0.5);
+    border-radius: 50px;
+}
+.nwsppccmOthers::-webkit-scrollbar-thumb {
+    background: rgba(40, 40, 40, 0.5);
+    border-radius: 50px;
+}
+.nwsppccmoNews{
+    height: 20vw;
+    background: rgba(40, 40, 40, 0.5);
+    border-radius: 1vw;
+    box-shadow: 0 0 20px black;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    margin: 0 1%;
+    position: relative;
+}
+.nwsppccmoNews img{
+    height: 100%;
+    border-radius: 1vw;
+}
+.nwsppccmoNews span{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5%;
+}
+.nwsppccmoNews span h6{
+    font-weight: 400;
+    font-size: 2vw;
+    margin-bottom: 2%;
+    text-shadow: 0 0 10px black;
+}
+.nwsppccmoNews span p{
+    font-size: 0.7vw;
+    text-shadow: 0 0 10px black;
+}
+.nwsppccmoNews div{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(transparent, #000 90%);
+    background-size: cover;
+    border-radius: 1vw;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.newsPage{
+        padding-top: 13vh;
+        padding-bottom: 30vw;
+    }
+    section.newspPageContainer.top{
+        padding: 5vw 5%;
+        padding-bottom: 0;
+        background: none;
+        display: block;
+    }
+    .nwsppcContentTop.left{
+        width: 100%;
+    }
+    .nwsppcContentTop.left div{
+        height: 60vw;
+        border-radius: 2vw;
+    }
+    .nwsppcContentTop.left h4{
+        font-size: 5vw;
+        line-height: 6vw;
+    }
+    .nwsppcContentTop.left p{
+        font-size: 2.5vw;
+    }
+    .nwsppcContentTop.right{
+        display: none;
+    }
+    section.newspPageContainer.mid{
+        padding: 5%;
+    }
+    .nwsppcContentMid{
+        width: 100%;
+    }
+    .nwsppcContentMid h6{
+        font-size: 3.5vw;
+    }
+    .nwsppcContentMid p{
+        font-size: 2.5vw;
+    }
+
+
+
+    .nwsppcContentMidOthers{
+        display: block;
+        margin-top: 10%;
+    }
+    .nwsppcContentMidOthers h5{
+        font-size: 5vw;
+        line-height: 6vw;
+    }
+    .nwsppccmOthers{
+        height: auto;
+        width: 100%;
+        bottom: 5%;
+        position: relative;
+        overflow-y: hidden;
+    }
+    .nwsppccmOthers::-webkit-scrollbar {
+        height: 5px;
+    }
+    .nwsppccmoNews{
+        height: 40vw;
+        border-radius: 2vw;
+        margin: 0 2%;
+        position: relative;
+    }
+    .nwsppccmoNews img{
+        border-radius: 2vw;
+    }
+    .nwsppccmoNews span h6{
+        font-size: 5vw;
+        margin-bottom: 5%;
+    }
+    .nwsppccmoNews span p{
+        font-size: 2.5vw;
+    }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+

@@ -1,0 +1,364 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+.LogoM6WatchFest{
+    height: auto;
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.PageDetails{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+.logoM6Img{
+    height: 15vw;
+}
+.PageDetails h2{
+    font-size: 3vw;
+    color: #212121;
+    font-family: "Michroma", sans-serif !important;
+    margin-top: -2vw;
+}
+.PageDetails p{
+    font-size: 0.9vw;
+    color: #212121;
+    padding: 0 5%;
+}
+
+.mainContainer.m6-locations{
+    height: auto !important;
+    width: 100% !important;
+    background: url('../assets/imgs/watchFest/M6_BG_LOC.png') no-repeat top center !important;
+    background-size: cover !important;
+    position: relative !important;
+    padding-bottom: 20vh !important;
+}
+
+section.PageDetails{
+    height: auto;
+    width: 100%;
+    padding: 6vw 7%;
+    padding-bottom: 2%;
+    position: relative;
+}
+
+section.PageDetailsTable{
+    height: auto;
+    width: 100%;
+    padding: 0 7%;
+    position: relative;
+}
+.PageDetailsTableFilterNav{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1% 0;
+}
+.PageDetailsTableFilterNavContents{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.PageDetailsTableFilterNavContents h6{
+    font-size: 2vw; 
+    font-weight: 800;
+    color: #212121;
+    margin-right: 1%;
+}
+.PageDetailsTableFilterNavContents input{
+    padding: 5px 10px !important;
+    width: 20%;
+    border-radius: 7px;
+    border: solid 1px #21212153;
+    outline: none;
+    font-size: .9vw;
+}
+.PageDetailsTableFilterNavContents .PageDetailsTableFilterNavContentsInput{
+    color: #212121 !important;
+}
+.PageDetailsTableFilterNavContents select{
+    padding: 5px;
+    margin-right: 1%;
+    width: 20%;
+    border-radius: 7px;
+    border: solid 1px #21212153;
+    outline: none;
+    font-size: 0.9vw;
+    color: #212121 !important;
+}
+.pageTable{
+    height: auto;
+    width: 100%;
+}
+.pageTable table{
+    height: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+.pageTable table th{
+    border: solid 2px rgba(255, 255, 255, 0.382) !important;
+    background-color: #212121 ;
+    padding: 0.5%;
+}
+.pageTable table tr{
+    border: solid .1px black !important;
+    padding: 0.5%;
+}
+.pageTable table tr th p{
+    font-size: 0.9vw;
+    font-weight: 400;
+}
+.pageTable table tr td{
+    text-align: start !important;
+    padding: 0.3%;
+}
+.pageTable table tr td p{
+    font-size: 0.7vw;
+}
+.M6WFLocationsTableContents{
+    height: 40vw;
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.M6WFLocationsTableContents table#tableData{
+    height: auto;
+    width: 100%;
+    margin-top: 0.1%;
+    border-collapse: collapse;
+}
+.M6WFLocationsTableContents table#tableData tr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.M6WFLocationsTableContents table#tableData tr td{
+    padding: 0.5%;
+}
+.M6WFLocationsTableContents table#tableData tbody tr:nth-child(odd){
+    background: rgba(80, 80, 80, 0.5);
+}
+.M6WFLocationsTableContents table#tableData tbody tr:nth-child(even){
+    background: rgba(80, 80, 80, 0.3);
+}
+.M6WFLocationsTableContents table#tableData tbody tr td p a{
+    width: 100%;
+    color: black !important;
+    background: white;
+    border-radius: 5px;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+.M6WFLocationsTableContents table#tableData tbody tr td p{
+    font-size: 0.8vw;
+}
+.M6WFLocationsTableContents table#tableData tbody tr td#venueName p{
+    text-align: start !important;
+    text-transform: capitalize;
+    color: #212121 !important;
+} 
+.M6WFLocationsTableContents table#tableData tbody tr td#eventsDates p{
+    
+    text-align: center !important;
+    color: #212121 !important;
+    border-left: solid 2px #212121;
+    margin-left: -10px !important;
+}
+.M6WFLocationsTableContents table#tableData tbody tr td#eventsRegion p{
+    
+    text-align: center !important;
+    color: #212121 !important;
+    border-left: solid 2px #212121;
+    margin-left: -10px !important;
+}
+.M6WFLocationsTableContents table#tableData tbody tr td#eventsCity p{
+    
+    text-align: center !important;
+    color: #212121 !important;
+    border-left: solid 2px #212121;
+}
+.M6WFLocationsTableContents table#tableData tbody tr td#eventsAddress p{
+    padding-left: 10px;
+    text-align: center !important;
+    color: #212121 !important;
+    border-left: solid 2px #212121;
+}
+.pagination {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.pagination button {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.pagination button:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+}
+
+.pagination button.active {
+    background-color: #21212190;
+    color: white;
+    border-color: #212121;
+}
+
+.pagination button:hover:not(:disabled) {
+    background-color: #f0f0f0;
+}
+
+.pagination button.active:hover {
+    background-color: #212121;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.m6-locations{
+        padding-top: 13vh;
+        padding-bottom: 30vw;
+    }
+    .logoM6Img{
+        height: 30vw;
+    }
+    .PageDetails h2{
+        font-size: 5vw;
+        margin-top: -5vw;
+    }
+    .PageDetails p{
+        font-size: 2.5vw;
+        padding: 0;
+    }
+
+    section.PageDetailsTable{
+        padding: 5%;
+        padding-bottom: 0;
+        overflow: hidden;
+    }
+    .PageDetailsTableFilterNavContents h6{
+        font-size: 5vw; 
+        font-weight: 800;
+        color: #212121;
+        margin-right: 1%;
+    }
+    .PageDetailsTableFilterNavContents input{
+        padding: 5px 10px !important;
+        width: 45%;
+        border-radius: 7px;
+        border: solid 1px #21212153;
+        outline: none;
+        font-size: 3vw;
+    }
+    .PageDetailsTableFilterNavContents .PageDetailsTableFilterNavContentsInput{
+        color: #212121 !important;
+    }
+    .PageDetailsTableFilterNavContents select{
+        padding: 5px;
+        margin-right: 1%;
+        width: 45%;
+        border-radius: 7px;
+        border: solid 1px #21212153;
+        outline: none;
+        font-size: 3vw;
+        color: #212121 !important;
+    }
+
+
+    .pageTable{
+        overflow-x: scroll;
+    }
+    .pageTable table{
+        height: auto;
+        width: 300%;
+        overflow: scroll;
+    }
+    .pageTable table tr th p{
+        font-size: 3vw;
+        font-weight: 400;
+    }
+    .M6WFLocationsTableContents{
+        height: 100vw;
+        width: 300%;
+        overflow-x: scroll;
+    }
+    .M6WFLocationsTableContents table#tableData tbody tr td p{
+        font-size: 2.5vw;
+    } 
+
+
+    .pagination {
+        display: flex;
+        justify-content: center;
+        gap: 5px;
+        margin-top: 20px;
+        padding: 10px 0;
+        overflow-y: hidden;
+        overflow-x: scroll;
+    }
+    .pagination button#paginationPrevNext{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+}

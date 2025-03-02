@@ -1,0 +1,1056 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.profile{
+    height: auto;
+    width: 100%;
+    background: black;
+    padding-bottom: 5vw;
+}
+.mainContainer.mslProfile{
+    height: auto;
+    width: 100%;
+    background: black;
+    padding-bottom: 5vw;
+}
+
+
+
+
+
+.mcpModalContainer{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 997;
+    padding-top: 4vw;
+}
+.mcpmcContent.editProfile{
+    height: auto;
+    width: 60%;
+    border-radius: 1vw;
+    box-shadow: 0 0 10px gray;
+    background: url('../assets//imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+    position: relative;
+    padding: 2% 3%;
+    animation:  fade-in-down 600ms ease;
+}
+.mcpmcContent.editProfile button.closeEditProfile{
+    display: flex;
+    position: absolute;
+    right: 2vw;
+    top: 2vw;
+    justify-content: right;
+    align-items: center;
+    background: none;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: 1.3vw;
+    cursor: pointer;
+}
+.mcpmcContent.editProfile h5{
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+}
+.mcpmcContent.editProfile h6.mcpmccepeVerified{
+    margin: 0.5% 0;
+    width: 100%;
+    color: gray;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-family: "Mulish", sans-serif;
+    font-weight: 400;
+    font-size: 0.7vw;
+    font-style: italic;
+}
+.mcpmcContent.editProfile h6 .faIcons{
+    margin-right: 0.5%;
+}
+.mcpmccepEditables{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin: 2% 0;
+    overflow: hidden;
+}
+.mcpmccepe.left{
+    height: auto;
+    width: 35%;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    padding: 3% 5%;
+    border-radius: 1vw;
+}
+.mcpmccepelImage{
+    height: 13vw;
+    width: 13vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background: black;
+    box-shadow: 0 0 10px gray;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 7%;
+    position: relative;
+}
+.mcpmccepelImage img{
+    height: 100%;
+}
+.mcpmccepelImage div{
+    position: absolute;
+    bottom: 0;
+    height: 3vw;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.mcpmccepelImage div input{
+    height: 100%;
+    opacity: 0;
+    position: relative;
+    z-index: 3;
+    cursor: pointer;
+}
+.mcpmccepelImage div h5{
+    position: absolute;
+    font-size: 2vw;
+    line-height: 1.5vw;
+    z-index: 2;
+}
+.mcpmccepel{
+    height: auto;
+    width: 100%;
+}
+.mcpmccepel span{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mcpmccepel label p{
+    font-size: 0.7vw;
+    color: gray;
+    margin-top: 6%;
+}
+.mcpmccepel input{
+    font-size: 1vw;
+    font-weight: 600;
+    color: white;
+    width: 85%;
+    background: none;
+    border: none;
+    outline: none;
+    font-family: "Michroma", sans-serif;
+}
+.mcpmccepel h6{
+    font-size: 0.9vw;
+    font-family: "Michroma", sans-serif;
+}
+.mcpmccepel h5{
+    line-height: 0.9vw;
+    color: gray;
+    cursor: pointer;
+}
+.mcpmccepe.right{
+    height: auto;
+    width: 60%;
+    padding: 1% 0;
+}
+.mcpmcceperDetails{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: start;
+}
+.mcpmcceperDetails div{
+    height: auto;
+    padding: 1% 0;
+}
+.mcpmcceperDetails div p{
+    font-size: 0.7vw;
+    color: gray;
+}
+.mcpmcceperDetails div h6{
+    font-size: 0.9vw;
+    font-family: "Michroma", sans-serif;
+}
+.mcpmcceperDetails div select,
+.mcpmcceperDetails div input{
+    width: 100%;
+    font-size: 0.9vw;
+    line-height: 0.7vw;
+    font-family: "Michroma", sans-serif;
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 600;
+}
+.mcpmcceperDetails div select option{
+    font-size: 1vw;
+    padding: 10%;
+    color: black;
+}
+.mcpmcceperDetails div.mcpmcceperdName,
+.mcpmcceperDetails div.mcpmcceperdSchool{
+    width: 100%;
+}
+.mcpmcceperDetails div.mcpmcceperdDept,
+.mcpmcceperDetails div.mcpmcceperdStuID,
+.mcpmcceperDetails div.mcpmcceperdYrLvl{
+    width: 32%;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses{
+    position: relative;
+    width: 100%;
+    margin-bottom: 5%;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses ul{
+    position: absolute;
+    border-radius: 0.5vw;
+    margin-top: 12.5vw;
+    background: white;
+    height: 10vw;
+    width: 40vw;
+    padding: 1%;
+    list-style: none;
+    overflow: scroll;
+    z-index: 3;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses ul li{
+    padding: 2%;
+    cursor: pointer;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses ul li:nth-child(even) {
+    background: #f0f0f0;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses ul li:nth-child(odd) {
+    background: white;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses ul li p{
+    color: black;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mcpmcceperDetails div.mcpmcceperdCourses span h5{
+    color: gray;
+    cursor: pointer;
+}
+.mcpmcceperDetails div.mcpmcceperdSquad1{
+    width: 35%;
+    margin-right: 5%;
+}
+.mcpmcceperDetails div.mcpmcceperdSquad1 span,
+.mcpmcceperDetails div.mcpmcceperdSquad2 span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mcpmcceperDetails div.mcpmcceperdSquad1 span h5,
+.mcpmcceperDetails div.mcpmcceperdSquad2 span h5{
+    color: gray;
+    cursor: pointer;
+}
+.mcpmcceperDetails div.mcpmcceperdSquad2{
+    width: 15%;
+}
+.mcpmcceperDetails div.mcpmcceperdRole{
+    width: 40%;
+}
+.mcpmcceperDetails div.mcpmcceperdRank{
+    width: 40%;
+}
+.mcpmcceperDetails div.mcpmcceperdUpdate{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-top: 5%;
+}
+.mcpmcceperDetails div.mcpmcceperdUpdate button{
+    background: none;
+    outline: none;
+    color: white;
+    border: solid 2px white;
+    padding: 1% 10%;
+    border-radius: 50px;
+    opacity: 50%;
+    cursor: pointer;
+}
+.mcpmcceperDetails div.mcpmcceperdUpdate button:hover{
+    opacity: 100%;
+    background: white;
+    color: black;
+    transition: 400ms ease;
+}
+
+
+section.profilePageContainer.top1{
+    height: auto;
+    width: 100%;
+    padding: 7vw 7%;
+    padding-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    background: 
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/LandingBG01.png') no-repeat top center;
+    background-size: cover;
+}
+.profilePageContent.top1{
+    height: auto;
+    width: 100%;
+    margin-bottom: 3%;
+}
+.ppct1HeaderContent{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ppct1hc.left{
+    height: 15vw;
+    width: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 0 10px white;
+    background: black;
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+}
+.ppct1hc.left img{
+    height: 100%;
+    width: auto;
+}
+.ppct1hc.left img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.ppct1hc.left img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.ppct1hc.left img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.ppct1hc.center{
+    height: auto;
+    width: 45%;
+}
+.ppct1hc.center h1#ppct1hccIGN{
+    display: none;
+    opacity: 0;
+}
+.ppct1hc.center h2{
+    font-family: "Michroma", sans-serif;
+    font-weight: 900;
+    font-size: 3.5vw;
+    line-height: 5vw;
+}
+.ppct1hc.center h2 sup{
+    font-size: 2.5vw;
+    margin-left: 2%;
+}
+.ppct1hc.center h2 sup .faIcons.Dev{
+    color: silver;
+}
+.ppct1hc.center h2 sup .faIcons.Gold{
+    color: gold;
+}
+.ppct1hc.center h2 sup .faIcons.Blue{
+    color: royalblue;
+}
+.ppct1hc.center h3{
+    font-family: "Michroma", sans-serif;
+    font-size: 1vw;
+    margin: 1% 0;
+    padding-left: 5px;
+    color: rgb(80, 80, 80);
+}
+.ppct1hcc{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 2% 0;
+}
+.ppct1hcc div{
+    height: auto;
+    width: 45%;
+}
+.ppct1hcc div p{
+    color: gray;
+    font-size: 0.7vw;
+}
+.ppct1hcc div p span{
+    color: whitesmoke;
+    font-size: 0.9vw;
+    text-transform: capitalize;
+}
+.ppct1hccOthers{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+}
+.ppct1hccOthers img{
+    height: 2.5vw;
+    margin-right: 2%;
+}
+
+
+.ppct1hccOthers img#mlbbPlayerRole[mlrole='Exp Laner']{
+    content: url('../assets/imgs/Role/Exp.webp');
+}
+.ppct1hccOthers img#mlbbPlayerRole[mlrole='Gold Laner']{
+    content: url('../assets/imgs/Role/Gold.webp');
+}
+.ppct1hccOthers img#mlbbPlayerRole[mlrole='Jungler']{
+    content: url('../assets/imgs/Role/Jungle.webp');
+}
+.ppct1hccOthers img#mlbbPlayerRole[mlrole='Mid Laner']{
+    content: url('../assets/imgs/Role/Mid.webp');
+}
+.ppct1hccOthers img#mlbbPlayerRole[mlrole='Roamer']{
+    content: url('../assets/imgs/Role/Roam.webp');
+}
+
+.ppct1hccOthers img#mlbbPlayerGender{
+    margin-right: 3%;
+}
+.ppct1hccOthers img#mlbbPlayerGender[gender='Male']{
+    content: url('../assets/imgs/Gender/Male.webp');
+}
+.ppct1hccOthers img#mlbbPlayerGender[gender='Female']{
+    content: url('../assets/imgs/Gender/Female.webp');
+}
+.ppct1hccOthers img#mlbbPlayerGender[gender='Empty']{
+    content: url('../assets/imgs/Gender/LGBTQA+.webp');
+}
+.ppct1hccOthers img#mlbbPlayerGender[gender='LGBTQA+']{
+    content: url('../assets/imgs/Gender/LGBTQA+.webp');
+}
+.ppct1hccOthers img#mlbbPlayerHero{
+    border-radius: 0.5vw;
+}
+.ppct1hccOthers a{
+    font-size: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1%;
+    color: white;
+}
+.ppct1hccOthers button.ppct1hccoAdd{
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5vw;
+    margin-right: 2%;
+    opacity: 30%;
+    cursor: pointer;
+}
+.ppct1hccOthers button.ppct1hccoEdit{
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.3vw;
+    margin-right: 2%;
+    cursor: pointer;
+}
+.ppct1hccOthers div#ppct1hccoSquadmates{
+    height: 2.5vw;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px white;
+    padding: 0 2%;
+    border-radius: 1vw;
+    margin-right: 2%;
+    position: relative;
+}
+.ppct1hccOthers div#ppct1hccoSquadmates button{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: none;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 0.8vw;
+    line-height: 1vw;
+    font-family: "Mulish", sans-serif;
+    cursor: pointer;
+}
+.ppct1hccOthers div#ppct1hccoSquadmates button .faIcons{
+    font-size: 1.5vw;
+}
+.ppct1hccOthers div#ppct1hccoSquadmates span{
+    height: auto;
+    width: 15vw;
+    padding: 10%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2.8vw;
+    background: white;
+    border-radius: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fade-in-down2 1s ease;
+}
+.ppct1hccOthers div#ppct1hccoSquadmates span p{
+    color: black;
+}
+
+
+
+.ppct1hc.right{
+    height: auto;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ppct1hcRank{
+    height: 15vw;
+    width: 40%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.ppct1hcRank img#mlbbRank{
+    height: 100%;
+    width: auto;
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Warrior']{
+    content: url('../assets/imgs/Rankings/Warrior.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Elite']{
+    content: url('../assets/imgs/Rankings/Elite.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Master']{
+    content: url('../assets/imgs/Rankings/Master.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Grand Master']{
+    content: url('../assets/imgs/Rankings/GrandMaster.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Epic']{
+    content: url('../assets/imgs/Rankings/Epic.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Legend']{
+    content: url('../assets/imgs/Rankings/Legend.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Mythic']{
+    content: url('../assets/imgs/Rankings/Mythic.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Mythical Honor']{
+    content: url('../assets/imgs/Rankings/MythicalHonor.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Mythical Glory']{
+    content: url('../assets/imgs/Rankings/MythicalGlory.webp');
+}
+.ppct1hcRank img#mlbbPLayerRank[mlbbrank='Mythical Immortal']{
+    content: url('../assets/imgs/Rankings/MythicalImmortal.webp');
+}
+.ppct1hcWinrate{
+    height: 15vw;
+    width: 50%;
+    padding: 3%;
+}
+.ppct1hcWinrate div{
+    height: auto;
+    width: 100%;
+    margin: 7% 0;
+}
+.ppct1hcWinrate div h5{
+    font-size: 2.2vw;
+    font-weight: 700;
+    font-family: "Michroma", sans-serif;
+}
+.ppct1hcWinrate div h6{
+    font-size: 0.8vw;
+    font-family: "Michroma", sans-serif;
+}
+.ppct1hcWinrate div p{
+    font-size: 0.7vw;
+    font-family: "Michroma", sans-serif;
+}
+
+
+
+.profilePageContent.mid1{
+    height: auto;
+    width: 100%;
+}
+.ppcm1BodyContent{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+.ppcm1bc.left{
+    height: 20vw;
+    width: 65%;
+}
+.ppcm1bclNav{
+    height: 3vw;
+    width: 100%;
+    padding: 0 2%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.ppcm1bclNav button{
+    height: 100%;
+    padding: 1% 2%;
+    background: none;
+    outline: none;
+    border: none;
+    opacity: 30%;
+    margin-right: 1%;
+    transition: 400ms ease;
+    cursor: pointer;
+}
+.ppcm1bclNav button:hover{
+    opacity: 100%;
+    transition: 400ms ease;
+}
+.ppcm1bclNav button.active{
+    opacity: 100%;
+}
+.ppcm1bclContents{
+    height: 17vw;
+    width: 100%;
+    border-radius: 1vw;
+    background: url('../assets/imgs/PLainBG.png') no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ppcm1bclContents h6{
+    font-size: 1vw;
+    font-family: "Michroma", sans-serif;
+    opacity: 50%;
+}
+
+
+.ppcm1bc.right{
+    height: 20vw;
+    width: 33%;
+}
+.ppcm1bcrTData{
+    height: 3vw;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.ppcm1bcrHero{
+    height: 7vw;
+    width: 100%;
+    overflow: hidden;
+    background: url('../assets/imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+    border-radius: 1vw;
+    position: relative;
+}
+.ppcm1bcrHero img{
+    position: absolute;
+    top: -15%;
+    width: 100%;
+    filter: grayscale(100%);
+}
+.ppcm1bcrHero span{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    text-align: right;
+}
+.ppcm1bcrHero h5{
+    font-family: "Michroma", sans-serif;
+    font-size: 2vw;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 500px){
+    .mainContainer.profile{
+        padding-top: 13vh;
+        padding-bottom: 30vw;
+    }
+    .mainContainer.mslProfile{
+        padding-top: 13vh;
+        padding-bottom: 30vw;
+    }
+
+    .mcpModalContainer{
+        padding-top: 13vh;
+    }
+    .mcpmcContent.editProfile{
+        width: 90%;
+        border-radius: 3vw;
+        padding: 5% 3%;
+    }
+    .mcpmcContent.editProfile button.closeEditProfile{
+        right: 3vw;
+        top: 3vw;
+        font-size: 5vw;
+    }
+    .mcpmcContent.editProfile h5{
+        font-size: 4vw;
+    }
+    .mcpmcContent.editProfile h6.mcpmccepeVerified{
+        margin-top: 5%;
+        width: 100%;
+        justify-content: center;
+        font-size: 2.5vw;
+    }
+    .mcpmcContent.editProfile h6 .faIcons{
+        margin-right: 2%;
+    }
+    .mcpmccepEditables{
+        height: 100vw;
+        display: block;
+        justify-content: center;
+        margin: 3% 0;
+        overflow: scroll;
+    }
+    .mcpmccepe.left{
+        height: auto;
+        width: 100%;
+        padding: 5%;
+        border-radius: 3vw;
+    }
+    .mcpmccepelImage{
+        height: 45vw;
+        width: 45vw;
+    }
+    .mcpmccepelImage div{
+        height: 10vw;
+    }
+    .mcpmccepelImage div h5{
+        font-size: 10vw;
+        line-height: 400;
+    }
+    .mcpmccepel label p{
+        font-size: 2.3vw;
+    }
+    .mcpmccepel input{
+        font-size: 3vw;
+    }
+    .mcpmccepel h6{
+        font-size: 3vw;
+    }
+    .mcpmccepe.right{
+        width: 100%;
+        padding: 3% 5%;
+    }
+    .mcpmcceperDetails div{
+        margin-bottom: 2%;
+    }
+    .mcpmcceperDetails div p{
+        font-size: 2.3vw;
+        color: gray;
+    }
+    .mcpmcceperDetails div h6{
+        font-size: 3vw;
+    }
+    .mcpmcceperDetails div select,
+    .mcpmcceperDetails div input{
+        font-size: 3vw;
+    }
+    .mcpmcceperDetails div select option{
+        font-size: 3vw;
+    }
+    .mcpmcceperDetails div.mcpmcceperdCourses ul{
+        border-radius: 1vw;
+        margin-top: 28vw;
+        height: 20vw;
+        width: 100%;
+    }
+    .mcpmcceperDetails div.mcpmcceperdSquad2{
+        width: 20%;
+    }
+    .mcpmcceperDetails div.mcpmcceperdSquad1{
+        width: 75%;
+        margin-right: 0;
+    }
+    .mcpmcceperDetails div.mcpmcceperdRole{
+        width: 40%;
+    }
+    .mcpmcceperDetails div.mcpmcceperdRank{
+        width: 55%;
+    }
+    .mcpmcceperDetails div.mcpmcceperdUpdate{
+        justify-content: center;
+    }
+    .mcpmcceperDetails div.mcpmcceperdUpdate button{
+        opacity: 100%;
+        padding: 2% 15%;
+    }
+
+
+
+
+
+    section.profilePageContainer.top{
+        padding: 5vw 5%;
+    }
+    .ppct1HeaderContent{
+        flex-wrap: wrap;
+    }
+    .ppct1hc.left{
+        height: 30vw;
+        width: 30vw;
+    }
+    .ppct1hc.center{
+        width: 60%;
+    }
+    .ppct1hc.center h2{
+        font-size: 4.5vw;
+        line-height: 9vw;
+    }
+    .ppct1hc.center h2 sup{
+        font-size: 4vw;
+        margin-left: 2%;
+    }
+    .ppct1hc.center h3{
+        font-family: "Michroma", sans-serif;
+        font-size: 2.5vw;
+        margin: 1% 0;
+        padding-left: 0;
+    }
+    .ppct1hcc{
+        margin: 3% 0;
+    }
+    .ppct1hcc div{
+        width: 100%;
+    }
+    .ppct1hcc div.ppct1hccName{
+        display: none;
+    }
+    .ppct1hcc div p{
+        font-size: 2.3vw;
+    }
+    .ppct1hcc div p span{
+        font-size: 2.5vw;
+    }
+    .ppct1hccOthers img{
+        height: 6vw;
+        margin-right: 2%;
+    }
+    .ppct1hccOthers a{
+        font-size: 7vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 1%;
+        color: white;
+    }
+    .ppct1hccOthers button.ppct1hccoAdd{
+        display: none;
+    }
+    .ppct1hccOthers img.ppct1hccoHero{
+        display: none;
+    }
+    .ppct1hccOthers button.ppct1hccoEdit{
+        display: none;
+    }
+    .ppct1hccOthers div#ppct1hccoSquadmates{
+        height: 6vw;
+        width: 50%;
+        padding: 0 4%;
+        border-radius: 2vw;
+    }
+    .ppct1hccOthers div#ppct1hccoSquadmates button{
+        height: auto;
+        width: 100%;
+        font-size: 2.5vw;
+    }
+    .ppct1hccOthers div#ppct1hccoSquadmates button .faIcons{
+        font-size: 2.5vw;
+    }
+    .ppct1hccOthers div#ppct1hccoSquadmates span{
+        width: 30vw;
+        margin-top: 7vw;
+    }
+    .ppct1hccOthers div#ppct1hccoSquadmates span p{
+        font-size: 2.5vw;
+        text-align: center;
+    }
+    .ppct1hc.right{
+        height: auto;
+        width: 100%;
+        margin: 5% 0;
+    }
+    .ppct1hcRank{
+        height: 20vw;
+        width: 20vw;
+    }
+    .ppct1hcWinrate{
+        height: 20vw;
+        width: 72%;
+        padding: 0;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+    }
+    .ppct1hcWinrate div h5{
+        font-size: 7vw;
+        font-weight: 700;
+    }
+    .ppct1hcWinrate div h6{
+        font-size: 2.2vw;
+        width: 70%;
+    }
+    .ppct1hcWinrate div p{
+        font-size: 2.2vw;
+        color: gray;
+    }
+
+
+    .ppcm1BodyContent{
+        height: auto;
+        width: 100%;
+        display: block;
+    }
+    .ppcm1bc.left{
+        height: 70vw;
+        width: 100%;
+    }
+    .ppcm1bclNav{
+        height: 10vw;
+        width: 100%;
+        padding: 0;
+        justify-content: center;
+    }
+    .ppcm1bclNav button{
+        width: 25%;
+        margin: 0;
+    }
+    .ppcm1bclNav button p{
+        font-size: 2.5vw;
+    }
+    .ppcm1bclContents{
+        height: 60vw;
+        border-radius: 2vw;
+        box-shadow: 0 0 5px gray;
+    }
+    .ppcm1bclContents h6{
+        font-size: 2.5vw;
+    }
+
+
+    .ppcm1bc.right{
+        margin-top: 5%;
+        height: 70vw;
+        width: 100%;
+    }
+    .ppcm1bc.right p{
+        font-size: 2.5vw;
+    }
+    .ppcm1bcrTData{
+        height: 10vw;
+    }
+    .ppcm1bcrHero{
+        height: 20vw;
+        width: 100%;
+        border-radius: 2vw;
+        box-shadow: 0 0 5px gray;
+    }
+    .ppcm1bcrHero h5{
+        font-family: "Michroma", sans-serif;
+        font-size: 5vw;
+    }
+
+
+
+
+
+
+
+
+}
+
+

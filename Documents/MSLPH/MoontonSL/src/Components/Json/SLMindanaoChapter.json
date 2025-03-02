@@ -1,0 +1,2892 @@
+[
+    {
+        "Region": "Mindanao",
+        "name": "University of Southern Mindanao - Kabacan Main Campus",
+        "location": "Kabacan, North Cotabato"
+    },
+    {
+        "Region": "Mindanao",
+        "name": "University of Mindanao Matina Campus",
+        "location": "Davao City, Davao Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Zamboanga del Sur Provincial Government College",
+     "location": "Aurora, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio de La Ciudad de Zamboanga",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Zamboanga del Sur Provincial Government College - Pagadian",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pagadian City International College",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Basilan State College",
+     "location": "Isabela, Basilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Zamboanga Peninsula Polytechnic State University",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Zamboanga State College of Marine Sciences and Technology",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Josefina H. Cerilles State College",
+     "location": "San Miguel, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University - Main",
+     "location": "Dapitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University-Katipunan Campus",
+     "location": "Dapitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Alicia",
+     "location": "Alicia, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Aurora",
+     "location": "Aurora, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Diplahan",
+     "location": "Diplahan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Imelda",
+     "location": "Imelda, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Ipil",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Mabuhay",
+     "location": "Mabuhay, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Malangas",
+     "location": "Malangas"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Molave",
+     "location": "Molave, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Olutanga",
+     "location": "Olutanga, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Pagadian",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Siay",
+     "location": "Siay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Tungawan",
+     "location": "Tungawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Naga",
+     "location": "Naga, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao State University-Curuan",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Josefina H. Cerilles State College - Dumingag",
+     "location": "Dumingag, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Josefina H. Cerilles State College-Canuto M.S. Enerio College of Arts and Trades",
+     "location": "Lakewood, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University-Dipolog",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University-Siocon",
+     "location": "Siocon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University- Buug College",
+     "location": "Buug"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University-Sibuco",
+     "location": "Sibuco"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Rizal Memorial State University-Tampilisan",
+     "location": "Dapitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Andres Bonifacio College",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ateneo de Zamboanga University",
+     "location": "La Purisima St., Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Brent Hospital and Colleges",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Claret College of Isabela",
+     "location": "Isabela, Basilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "DMC College Foundation",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dr. Aurelio Mendoza Memorial Colleges",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Immaculate Conception Archdiocesan School",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Juan S. Alano Memorial School",
+     "location": "Isabela, Basilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marian College",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Blancia College Foundation",
+     "location": "Molave, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Advent College",
+     "location": "Sindangan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pilar College of Zamboanga City",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Rizal Memorial Institute of Dapitan City",
+     "location": "Dapitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Columban College",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. John College of Buug Foundation",
+     "location": "Buug"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Joseph College of Sindangan",
+     "location": "Sindangan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Vincent's College",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Estanislao Kostka College",
+     "location": "Manukan, Zamboanga del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Mindanao College- Agro Tech",
+     "location": "Dumalinao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern City Colleges",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Mindanao Colleges",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Universidad de Zamboanga",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Zamboanga",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Medina College-Pagadian",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Zamboanga Del Sur Maritime Institute of Technology",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pagadian Capitol College",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Aurora Pioneers Memorial College",
+     "location": "Aurora, Zamboanga del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dipolog City Institute of Technology",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ebenezer Bible College and Seminary",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Mary's College of Labason",
+     "location": "Labason"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "AMA Computer College- Zamboanga City",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio de San Francisco Javier of Rizal Zamboanga del Norte",
+     "location": "Rizal, Zamboanga del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Computer Technologies Institute of Zamboanga City",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Computer Technologies Institute of Basilan",
+     "location": "Isabela, Basilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "HMIJ Foundation Philippine Islamic College",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Eastern Mindanao College of Technology",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Universidad de Zamboanga-Ipil",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Medina College-Ipil",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Technological and Marine Sciences-Zamboanga del Sur",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Western Mindanao Foundation College",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Peninsula College",
+     "location": "Labason"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lucan Central Colleges",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sibugay Technical Institute",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Universidad de Zamboanga - Pagadian",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Aim High College",
+     "location": "Ipil, Zamboanga Sibugay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ave Maria College",
+     "location": "Liloy"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Hyrons College Philippines",
+     "location": "Tukuran"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Nuevo Zamboanga College",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Advent College- Salug",
+     "location": "Salug"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Yllana Bay View College",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Alhadeetha Mindanao College",
+     "location": "Labangan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College - Dipolog",
+     "location": "Dipolog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern City Colleges-West Campus",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ZAMSULA Everlasting College",
+     "location": "Salug"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Our Lady of Triumph Institute of Technology",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "West Prime Horizon Institute",
+     "location": "Pagadian"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ferndale College - -",
+     "location": "Zamboanga City, Zamboanga Peninsula"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Metro Zampen College",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Emmauss College of Theology Foundation",
+     "location": "Zamboanga City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Advent College - Leon B. Postigo Campus",
+     "location": "Sindangan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gov. Alfonso D. Tan College",
+     "location": "Tangub"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tagoloan Community College",
+     "location": "Tagoloan, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Initao College",
+     "location": "Initao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Opol Community College",
+     "location": "Opol"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Don Carlos Polytechnic College",
+     "location": "Don Carlos, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pangantucan Bukidnon Community College",
+     "location": "Pangantucan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "City College of El Salvador",
+     "location": "El Salvador, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Community College of Gingoog City",
+     "location": "Gingoog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Magsaysay College",
+     "location": "Magsaysay, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Salay Community College",
+     "location": "Salay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tubod College",
+     "location": "Tubod, Lanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University",
+     "location": "Malaybalay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Camiguin Polytechnic State College",
+     "location": "Mambajao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Central Mindanao University",
+     "location": "Maramag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology of Southern Philippines",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northwestern Mindanao State College of Science and Technology",
+     "location": "Tangub"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northern Bukidnon State College",
+     "location": "Manolo Fortich"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Alubijid ESC",
+     "location": "Alubijid"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Libona",
+     "location": "Libona"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Baungon BSU",
+     "location": "Baungon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Kalilangan BSU",
+     "location": "Kalilangan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Medina ESC",
+     "location": "Medina, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Sugbongcogon ESC",
+     "location": "Sugbongcogon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Talakag BSU",
+     "location": "Talakag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Talisayan ESC",
+     "location": "Talisayan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Malitbog",
+     "location": "Malitbog , Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Kadingilan",
+     "location": "Kadingilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology of Southern Philippines - Jasaan",
+     "location": "Jasaan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology of Southern Philippines - Oroquieta",
+     "location": "Oroquieta"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology of Southern Philippines - Panaon",
+     "location": "Panaon, Misamis Occidental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology of Southern Philippines - Claveria",
+     "location": "Claveria, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University- Naawan",
+     "location": "Naawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Cabanglasan ESC",
+     "location": "Cabanglasan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Damulog Satellite ESC",
+     "location": "Damulog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Kitaotao Satellite ESC",
+     "location": "Kitaotao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Quezon Satellite ESC",
+     "location": "Quezon, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- San Fernando Satellite ESC",
+     "location": "San Fernando, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bukidnon State University- Impasugong",
+     "location": "Impasugong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University- Lanao Del Norte Agricultural College",
+     "location": "Sultan Naga Dimaporo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University- Maigo School of Arts and Trades",
+     "location": "Maigo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University - Iligan Institute of Technology",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology in Southern Philippines-Alubijid",
+     "location": "Alubijid"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology in Southern Philippines-Balubal",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Science and Technology in Southern Philippines-Villanueva",
+     "location": "Villanueva, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Blessed Mother College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Capitol University",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cagayan De Oro College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Christ the King College",
+     "location": "Gingoog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio De Santo Niño De Jasaan",
+     "location": "Jasaan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Fatima College of Camiguin",
+     "location": "Mambajao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gingoog City College",
+     "location": "Gingoog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gingoog Christian College",
+     "location": "Gingoog"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "La Salle University",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Liceo De Cagayan University",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lourdes College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Medina College",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Medina Foundation College",
+     "location": "Sapang Dalaga"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Arts and Technological Institute",
+     "location": "Malaybalay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Misamis Institute of Technology",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Misamis University",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Misamis University-Oroquieta City",
+     "location": "Oroquieta"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mountain View College",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Golden Heritage Polytechnic College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northwestern Mindanao Christian Colleges",
+     "location": "Tudela, Misamis Occidental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine College Foundation",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pilgrim Christian College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Quezon Institute of Technology",
+     "location": "Quezon, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sacred Heart College of Calamba",
+     "location": "Calamba, Misamis Occidental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. John Vianney Theological Seminary",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Peter's College of Misamis Oriental",
+     "location": "Balingasag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Rita's College of Balingasag",
+     "location": "Balingasag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "San Agustin Institute of Technology",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "San Isidro College",
+     "location": "Malaybalay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Bukidnon Foundation Academy",
+     "location": "Don Carlos, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Capital Colleges",
+     "location": "Oroquieta"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern De Oro Philippines College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Stella Maris College",
+     "location": "Oroquieta"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Valencia Colleges-Bukidnon",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Xavier University (Ateneo de Cagayan)",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Cagayan De Oro",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Countryville College",
+     "location": "Maramag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Roman C. Villalon Memorial Colleges Foundation",
+     "location": "Kibawe"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Oro Bible College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dr. Solomon U. Molina College",
+     "location": "Oroquieta"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Adventist Technological Institute",
+     "location": "Jimenez, Misamis Occidental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Maramag Colleges",
+     "location": "Maramag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ACLC College of Bukidnon",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "IBA College of Mindanao",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Misamis Oriental Institute of Science and Technology",
+     "location": "Balingasag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "The New El Salvador Colleges",
+     "location": "El Salvador, Misamis Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Our Lady of Triumph Institute of Technology",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Vineyard International Polytechnic College",
+     "location": "Cagayan de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northwestern Mindanao Institute of Technology",
+     "location": "Ozamiz"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Iligan",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Malaybalay",
+     "location": "Malaybalay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Valencia",
+     "location": "Valencia, Bukidnon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Central Mindanao College",
+     "location": "Lala, Lanao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Iligan Capitol College",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Iligan Medical Center College",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Adventist Medical Center College",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Michael's College",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Peter's College",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Santa Monica Institute of Technology",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lyceum of Iligan Foundation",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Christ The King College De Maranding",
+     "location": "Lala, Lanao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lanao School of Science and Technology",
+     "location": "Lala, Lanao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Masters Technological Institute of Mindanao",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Picardal Institute of Science and Technology",
+     "location": "Iligan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Kapalong College of Agriculture Sciences and Technology",
+     "location": "Kapalong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Governor Generoso College of Arts Sciences and Technology",
+     "location": "Governor Generoso"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Monkayo College of Arts Sciences and Technology",
+     "location": "Monkayo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Kolehiyo ng Pantukan",
+     "location": "Pantukan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sto. Tomas College of Agriculture Sciences and Technology",
+     "location": "Sto. Tomas, Davao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Samal Island City College",
+     "location": "Samal, Davao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Maco de Oro College",
+     "location": "Maco"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao del Norte State College",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Oriental State University",
+     "location": "Mati, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Philippines Agriculture Business Marine and Aquatic School of Technology",
+     "location": "Malita"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southeastern Philippines-Main",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao del Sur State College-Main",
+     "location": "Digos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao De Oro State College",
+     "location": "Compostela, Davao de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Oriental State University-Cateel Extension Campus",
+     "location": "Cateel"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Oriental State University-San Isidro Campus",
+     "location": "San Isidro, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Oriental State University-Banaybanay Campus",
+     "location": "Banaybanay"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southeastern Philippines-College of",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Agriculture-Tagum Mabini"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southeastern Philippines-Mintal",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of the Philippines Mindanao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao De Oro State College-Maragusan Branch",
+     "location": "Maragusan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao De Oro State College-Montevista Branch",
+     "location": "Montevista"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao De Oro State College-New Bataan Branch",
+     "location": "New Bataan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Agro-Industrial Foundation College of the Philippines-Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "AMA Computer College-Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Arriesgado College Foundation",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Assumption College of Nabunturan",
+     "location": "Nabunturan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ateneo de Davao University",
+     "location": "E. Jacinto St., Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Brokenshire College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cor Jesu College",
+     "location": "Digos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Central College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Doctors College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Medical School Foundation",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "DMMA College of Southern Philippines",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Evelyn E. Fabie College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "General Baptist Bible College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Cross College of Calinan",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Mary'S College of Bansalan",
+     "location": "Bansalan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Cross of Davao College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Liceo De Davao",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mati Polytechnic College",
+     "location": "Mati, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "MATS College of Technology",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Medical Foundation College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Davao College-Tagum Foundation",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Davao Colleges-Panabo",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Women's College of Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Polytechnic College of Davao del Sur",
+     "location": "Digos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Queen of Apostles College Seminary",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "The Rizal Memorial Colleges",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Francis Xavier College Seminary",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Mary's College of Tagum",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Peter's College of Toril",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "San Pedro College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Serapion C. Basalo Memorial Colleges",
+     "location": "Kiblawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southeastern College of Padada",
+     "location": "Padada"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "South Philippine Adventist College",
+     "location": "Matanao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tecarro College Foundation",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao Bansalan College",
+     "location": "Bansalan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao Digos College",
+     "location": "Digos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao Panabo College",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao Tagum College",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao",
+     "location": "Bolton Street, Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of the Immaculate Conception",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Joji Ilagan Career Center Foundation",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Francis Xavier Regional Major Seminary of Mindanao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Assumption College of Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Interface Computer College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Mindanao Peñaplata College",
+     "location": "Samal, Davao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Aces Tagum College",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. John Paul II College of Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine College of Technology",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Kokusai Daigaku",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Child College of Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mati Doctors College",
+     "location": "Mati, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Philippines Baptist Theological Seminary",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jose Maria College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Christian Colleges of Southeast Asia",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Winchester Colleges",
+     "location": "Sto. Tomas, Davao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Legacy College of Compostela",
+     "location": "Compostela, Davao de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Mary's College Baganga",
+     "location": "Baganga, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Cross College of Sasa",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Laak Institute Foundation",
+     "location": "Laak, Davao de Oro"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tagum Doctors College",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gabriel Taborin College of Davao Foundation",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ACES Polytechnic College",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Davao Vision Colleges",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Thomas More School of Law and Business",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ACQ College of Ministries",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Koinonia Theological Seminary Foundation",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Evangelical Mission College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Samson Polytechnic College of Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mt. Apo Science Foundation College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northlink Technological College",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tagum City College of Science and Technology Foundation",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Institute of International Culinary and Hospitality Entrepreneurship Inc.",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Asian International School of Aeronautics and Technology",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Joji Ilagan International Management School",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Malayan Colleges Mindanao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Card-MRI Development Institute",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lyceum of the Philippines-Davao",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Maryknoll College of Panabo",
+     "location": "Panabo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Tagum",
+     "location": "Tagum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine College of Technology- Calinan Campus",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio de Caraga",
+     "location": "Caraga, Davao Oriental"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "AMYA Polytechnic College",
+     "location": "Davao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Makilala Institute of Science and Technology",
+     "location": "Makilala"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Glan Institute of Technology",
+     "location": "Glan, Sarangani"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "South Cotabato State College",
+     "location": "Surallah"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Foundation College of Science and Technology",
+     "location": "Arakan, Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southern Mindanao-Main",
+     "location": "Kabacan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University- General Santos",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Foundation College of Science and Technology-Antipas Campus",
+     "location": "Antipas, Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Foundation College of Science and Technology-Katipunan Campus",
+     "location": "Sto. Nino, South Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Foundation College of Science and Technology-Pikit Campus",
+     "location": "Pikit"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southern Mindanao-Kidapawan City Campus",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Isulan",
+     "location": "Isulan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Lutayan",
+     "location": "Lutayan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Kalamansig",
+     "location": "Kalamansig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Bagumbayan",
+     "location": "Bagumbayan, Sultan Kudarat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Palimbang",
+     "location": "Palimbang"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat State University-Tacurong",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Alexius College",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Edenton Mission College",
+     "location": "Maitum"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gensantos Foundation College",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Trinity College of General Santos City",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "King's College of Marbel",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Polytechnic College",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Dadiangas University",
+     "location": "Maris St., General Santos City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Marbel University",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Schola de San Jose",
+     "location": "Polomolok"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ramon Magsaysay Memorial Colleges",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Santa Cruz Mission School",
+     "location": "Lake Sebu, South Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Gen. Santos",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Green Valley College Foundation",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marbel School of Science and Technology",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "AMA Computer College-General Santos City",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Central Mindanao Colleges",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Regency Polytechnic College",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Medical Foundation College",
+     "location": "Midsayap"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dr. Domingo B. Tamondong Memorial Hospital and College Foundation",
+     "location": "Esperanza, Sultan Kudarat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "King's College of Isulan",
+     "location": "Isulan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lebak Family Doctors' School of Midwifery",
+     "location": "Lebak"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio de Kidapawan",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Kidapawan College",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Midsayap College",
+     "location": "Midsayap"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Salaman College",
+     "location": "Lebak"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Tacurong College",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Quezon Colleges of Southern Philippines",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Luke's Institute",
+     "location": "Kabacan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Senator Ninoy Aquino College Foundation",
+     "location": "Sen. Ninoy Aquino, Sultan Kudarat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Baptist College",
+     "location": "M'lang"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Christian College",
+     "location": "Midsayap"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Mindanao Institute of Technology",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Philippines Methodist College",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat Educational Institution",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Valley College Foundation",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Central Mindanao Computer School",
+     "location": "M'lang"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Adventist College of Technology",
+     "location": "Tupi, South Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goldenstate College",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "General Santos Doctors' Medical School Foundation",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame-Siena College of Polomolok",
+     "location": "Polomolok"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Brokenshire College SOCSKSARGEN",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Child College of Information Technology",
+     "location": "Surallah"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "South East Asian Institute of Technology",
+     "location": "Tupi, South Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "VMC Asian College Foundation",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Asian Colleges and Technological Institute",
+     "location": "Kabacan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Stratford International School",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ACLC College of Marbel",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Korbel Foundation College",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College of Koronadal City",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "i-Link College of Science and Technology",
+     "location": "Midsayap"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goldenstate College of Koronadal City",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marvelous College of Technology",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College - Koronadal City - Tacurong City Branch",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "B.E.S.T. College of Polomolok",
+     "location": "Polomolok"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Ramon Magsaysay Memorial College - Marbel",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "General Santos Academy",
+     "location": "Polomolok"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marbel Institute of Technical College",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Joji Ilagan International School of Hotel & Tourism Management",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Point College of Arts and Technology",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "MMG College of General Santos City",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Villamor College of Business and Arts",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cronasia Foundation College",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Green Valley College Foundation - Isulan Campus",
+     "location": "Isulan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Kidapawan Doctors College",
+     "location": "Kidapawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Kulaman Academy",
+     "location": "Sen. Ninoy Aquino, Sultan Kudarat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gensan College of Technology",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Primasia Foundation College",
+     "location": "Alabel"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southpoint College of Arts and Technology",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "West Celebes College of Technology",
+     "location": "Lebak"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Albert Polytechnic College",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Filipino Canadian Community College Foundation",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "New Era University-General Santos City",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Philippine Technical College of Koronadal",
+     "location": "Koronadal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Salaman Intitute",
+     "location": "Lebak"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goldenstate College of Kiamba",
+     "location": "Kiamba, Sarangani"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goldenstate College of Maasim",
+     "location": "Maasim"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goldenstate College of Malungon",
+     "location": "Malungon"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "New Brighton School of the Philippines",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pacific Southbay College",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Goodwill Colleges of North Eastern Philippines",
+     "location": "Tacurong"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "King Solomon Institute",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Santo Niño College Foundation",
+     "location": "Banga, South Cotabato"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "VMC Asian College of President Quirino",
+     "location": "President Quirino, Sultan Kudarat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Envirogreen School of Technology",
+     "location": "General Santos"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "New Hope School of Agriculture and Fishery",
+     "location": "Polomolok"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Hadji Butu School of Arts and Trades",
+     "location": "Jolo, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lanao Agricultural College",
+     "location": "Lumbatan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lapak Agricultural School",
+     "location": "Siasi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Unda Memorial National Agricultural School",
+     "location": "Masiu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Upi Agricultural School- Provincial Technical Institute of Agriculture",
+     "location": "Upi, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Balabagan Trade School",
+     "location": "Balabagan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Regional Madrasah Graduate Academy",
+     "location": "Buluan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato State University",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University-Main Campus Marawi City",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sulu State College",
+     "location": "Jolo, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi Regional Agricultural College",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Adiong Memorial State College",
+     "location": "Ditsaan- Ramain"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Basilan State College- Lamitan",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Basilan State College- Maluso",
+     "location": "Maluso"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Basilan State College- Sta. Clara",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Basilan State College- Tipo-Tipo",
+     "location": "Tipo-Tipo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cotabato Foundation College of Science and Technology-Datu Montawal Campus",
+     "location": "Datu Montawal"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University-Lanao",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "National College of Arts and Trades",
+     "location": "Lanao Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University-Maguindanao",
+     "location": "Datu Odin Sinsuat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University-Sulu Development Technical College",
+     "location": "Jolo, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao State University-Tawi-Tawi College of Technology and Oceanography",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi Regional Agricultural College - Tarawakan",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi Regional Agricultural College - Languyan",
+     "location": "Languyan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi Regional Agricultural College- Simunul",
+     "location": "Simunul"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi Regional Agricultural College - Sibutu",
+     "location": "Sibutu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southern Mindanao - Buluan",
+     "location": "Buluan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "De La Vida College",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dr. P. Ocampo Colleges",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Headstart College of Cotabato",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jamiatu Marawi Al-Islamia Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jamiatu Muslim Mindanao",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jamiatul Philippine Al-Islamia",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mapandi Memorial College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marawi Capitol College Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Capitol College",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame Center For Catechesis",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame Hospital and School of Midwifery",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame University",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Pacasum College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Benedict College of Cotabato",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Shariff Kabunsuan College",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Islamic Computer College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Cotabato",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Datu Mala Muslim Mindanao Islamic College Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Antonio R. Pacheco College",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "AMA Computer College- Cotabato City",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bubong Marzok Memorial Foundation College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Senator Ninoy Aquino College Foundation-Marawi",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Kutawato Darrusalam College",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame RVM College of Cotabato",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Coland Systems Technology",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Academia de Tecnologia in Mindanao",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jamiat Cotabato and Institute of Technology",
+     "location": "Cotabato City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Gani L. Abpi College",
+     "location": "Datu Piang, Maguindanao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Central Sulu College",
+     "location": "Siasi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Notre Dame of Jolo College",
+     "location": "Jolo, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Parang Foundation College",
+     "location": "Parang, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Shariff Kabunsuan College (Annex)",
+     "location": "Parang, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sultan Kudarat Islamic Academy Foundation College",
+     "location": "Sultan Kudarat, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Del Sur Good Shepherd College",
+     "location": "Wao, Lanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southwestern Mindanao Islamic Institute",
+     "location": "Jolo, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tawi-Tawi School of Midwifery",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Abubakar Computer Learning Center Foundation",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lanao Educational Institute",
+     "location": "Malabang"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mahardika Institute of Technology",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Dansalan Polytechnic College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Muslim Teachers' College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "SAL Foundation College",
+     "location": "Parang, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Autonomous College Foundation",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "SPA College",
+     "location": "Datu Piang, Maguindanao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Datu Ibrahim Paglas Memorial College",
+     "location": "Datu Paglas"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Cali Paramedical College Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Masiricampo Abantas Memorial Educational Center",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Marawi Islamic College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saffrullah M. Dipatuan Foundation Academy",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "South Upi College",
+     "location": "South Upi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Benedict College of Maguindanao",
+     "location": "Parang, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mariam School of Nursing",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lanao Islamic Paramedical College Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lake Lanao College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Wisdom International School for Higher Education Studies",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Datu Blo Umpar Adiong Agricultural School Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bai Malgen Mama College",
+     "location": "Datu Odin Sinsuat"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Eastern Kutawato College",
+     "location": "Buluan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "RC-Al Khwarizmi International College Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Institute of Healthcare Professionals",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Hardam Furigay Colleges Foundation",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Engineering and Agro-Industrial College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Illana Bay Integrated Computer College",
+     "location": "Parang, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Khadijah Mohammad Islamic Academy",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Iranun Foundation College",
+     "location": "Kapatagan, Lanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lanao Central College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Sulu College of Technology",
+     "location": "Indanan, Sulu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Enthusiastic College",
+     "location": "Buldon, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Hadji Datu Saidona Pendatun Foundation College",
+     "location": "General Salipada K. Pendatun, Maguindanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "General Diamongun K. Mangondato College of Agriculture and Fisheries",
+     "location": "Masiu"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Al Bangsamoro Shari'ah and Professional Education College",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "As-Salihein Integrated School Foundation",
+     "location": "Tamparan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanao Autonomous College Foundation-Maluso",
+     "location": "Maluso"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Jamiatu Dansalan Al-Islamia Foundation",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Muslim Mindanao Integrated College Academy",
+     "location": "Marawi"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Maranao Islamic Institute - Ma'Had Maranao Al-Islamie",
+     "location": "Tamparan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Binnor Pangandaman Integrated College",
+     "location": "Wao, Lanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Colegio de Upi",
+     "location": "Upi, Maguindanao del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Lamitan Technical Institute",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mindanaoan Integrated Academy",
+     "location": "Wao, Lanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Universal College Foundation of Southeast Asia and the Pacific",
+     "location": "Lamitan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Tamparan Populace Islamic College",
+     "location": "Tamparan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Last Frontier College",
+     "location": "Bongao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Iqra Development Academy",
+     "location": "Tamparan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Asma Khadijah Islamic Academy",
+     "location": "Picong, Lanao del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Hinatuan Southern College",
+     "location": "Hinatuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Agusan del Sur State University",
+     "location": "Bunawan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Caraga State University- Main Campus",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao del Norte State University-Main",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-Main",
+     "location": "Tandag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Caraga State University- Cabadbaran Campus",
+     "location": "Cabadbaran"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Normal University-Mindanao Campus",
+     "location": "Prosperidad"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao del Norte State University-Del Carmen",
+     "location": "Del Carmen, Surigao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-Cagwait",
+     "location": "Cagwait"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-Lianga",
+     "location": "Lianga"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-Tagbina",
+     "location": "Tagbina"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-San Miguel",
+     "location": "San Miguel, Surigao Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "North Eastern Mindanao State University-Cantilan",
+     "location": "Cantilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "University of Southeastern Philippines- Bislig Campus",
+     "location": "Bislig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao del Norte State University-Malimono",
+     "location": "Malimono"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao del Norte State University-Mainit",
+     "location": "Mainit"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Agusan Colleges",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Agusan del Sur College",
+     "location": "Bayugan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Asian College Foundation",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Butuan City Colleges",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Butuan Doctors' College",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Don Jose Ecleo Memorial Foundation College of Science and Technology",
+     "location": "San Jose, Dinagat Islands"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Elisa R. Ochoa Memorial Northern Mindanao School of Midwifery",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northern Mindanao Colleges",
+     "location": "Cabadbaran"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northwestern Agusan Colleges",
+     "location": "Nasipit"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Francis Xavier College",
+     "location": "San Francisco, Agusan Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Joseph Institute of Technology",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Jude Thaddeus Institute of Technology",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "San Francisco Colleges",
+     "location": "San Francisco, Agusan Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "St. Paul University Surigao",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao Education Center",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Father Saturnino Urios University",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Northeastern Mindanao Colleges",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Andres Soriano Colleges of Bislig",
+     "location": "Bislig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Michael College-Cantilan",
+     "location": "Cantilan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Theresa College of Tandag",
+     "location": "Tandag"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Vincent de Paul Diocesan College",
+     "location": "Bislig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southern Technological Institute of the Philippines",
+     "location": "Bislig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao Sur Colleges",
+     "location": "Barobo"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Siargao Island Institute of Technology",
+     "location": "Dapa, Surigao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Caraga Institute of Technology",
+     "location": "Kitcharao"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "De La Salle John Bosco College",
+     "location": "Bislig"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Mt. Carmel College of San Francisco",
+     "location": "San Francisco, Agusan Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Michael College of Caraga",
+     "location": "Nasipit"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Southway College of Technology",
+     "location": "San Francisco, Agusan Del Sur"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Holy Child Colleges of Butuan City",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "STI College-Surigao",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Balite Institute of Technology- Butuan",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Saint Peter College Seminary",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Bucas Grande Foundation College",
+     "location": "Socorro, Surigao Del Norte"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "ACLC College of Butuan City",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Philippine Electronics and Communication Institute of Technology",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Candelaria Institute of Technology of Cabadbaran",
+     "location": "Cabadbaran"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Surigao Doctors' College",
+     "location": "Surigao City"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Merchant Marine Academy of Caraga",
+     "location": "Butuan"
+    },
+    {
+     "Region": "Mindanao",
+     "name": "Caraga School of Business",
+     "location": "Bayugan"
+    }
+   ]
+   

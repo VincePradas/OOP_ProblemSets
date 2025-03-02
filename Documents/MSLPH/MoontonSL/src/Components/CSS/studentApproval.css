@@ -1,0 +1,925 @@
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 0.9vw;
+}
+h1{
+    font-size: 10vw;
+}
+h2{
+    font-size: 5vw;
+}
+h3{
+    font-size: 4vw;
+}
+h4{
+    font-size: 2vw;
+}
+h5{
+    font-size: 1.5vw;
+}
+h6{
+    font-size: 1vw;
+}
+
+
+.mainContainer.studentApproval{
+    height: auto;
+    width: 100%;
+    background: 
+        linear-gradient(transparent, #000 90%), 
+        url('../assets/imgs/LandingBG01.png') no-repeat top center;
+    background-size: cover;
+    position: relative;
+    padding-bottom: 10vh;
+}
+
+
+
+
+
+.slPanelContainerModal{
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 995;
+    padding-top: 4vw;
+}
+.slPanelContentModal{
+    height: auto;
+    width: 60%;
+    padding: 3%;
+    box-shadow: 0 0 10px gray;
+    border-radius: 1vw;
+    position: relative;
+    overflow: hidden;
+    animation:  fade-in-down 600ms ease;
+    background: url('../assets/imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+.slPanelContentModal button.slpcButtonClose{
+    position: absolute;
+    top: 1.5vw;
+    right: 1.5vw;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 1.5vw;
+    line-height: 1vw;
+    color: white;
+    cursor: pointer;
+    z-index: 10;
+}
+.slpcmContents.left{
+    height: auto;
+    width: 35%;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    padding: 3%;
+    border-radius: 1vw;
+    position: relative;
+}
+.slpcmclVerified,
+.slpcmclNewUser,
+.slpcmclBlockedUser{
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    cursor: pointer;
+}
+.slpcmclVerifiedBy{
+    position: absolute;
+    width: 50%;
+    top: 1.1vw;
+    left: 3.5vw;
+    background: black;
+    padding: 2% 5%;
+    box-shadow: 0 0 5px white;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    transition: 400ms ease;
+    animation: fade-in-left 400ms ease;
+}
+.slpcmclVerifiedBy p{
+    font-size: 0.7vw;
+}
+.slpcmclVerified h4{
+    color: royalblue;
+}
+.slpcmclBlockedUser h4{
+    color: red;
+}
+.slpcmContents.left h1{
+    display: none;
+}
+.slpcmclBlockStatement{
+    height: 11vw;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-radius: 1vw;
+    background: black;
+    padding: 5% 10%;
+    overflow: hidden;
+}
+.slpcmclBlockStatement h6{
+    color: white;
+    font-size: 0.9vw;
+    font-family: "Michroma", sans-serif;
+    margin-bottom: 3%;
+}
+.slpcmclBlockStatement p{
+    font-size: 0.8vw;
+}
+.slpcmclBlockStatement p#slpcmclbsAuthor{
+    position: absolute;
+    bottom: 1vw;
+    color: gray;
+}
+
+
+
+
+.slpcmclImage{
+    height: 15vw;
+    width: 15vw;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    overflow: hidden;
+    background: black;
+    border: solid 2px white;
+}
+.slpcmclImage img{
+    height: 100%;
+}
+.slpcmclImage img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.slpcmclImage img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.slpcmclImage img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.slpcmclBasics{
+    height: auto;
+    width: 100%;
+    margin-top: 10%;
+}
+.slpcmclBasics span{
+    height: auto;
+    width: 100%;
+}
+.slpcmclBasics p{
+    color: gray;
+    font-size: 0.7vw;
+}
+.slpcmclBasics h6{
+    color: white;
+    font-size: 0.8vw;
+    font-family: "Michroma", sans-serif;
+    margin-bottom: 3%;
+}
+.slpcmContents.right{
+    height: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    position: relative;
+}
+.slpcmContents.right div p{
+    font-size: 0.7vw;
+    color: gray;
+}
+.slpcmContents.right div h6{
+    width: 100%;
+    color: white;
+    font-size: 0.8vw;
+    font-family: "Michroma", sans-serif;
+    margin-bottom: 15px;
+}
+.slpcmcrDetails{
+    height: 20vw;
+    width: 100%;
+    padding-top: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: start;
+}
+.slpcmcrFullname{
+    width: 100%;
+}
+.slpcmcrGender,
+.slpcmcrAge{
+    width: 17%;
+}
+.slpcmcrBirthday,
+.slpcmcrContact{
+    height: auto;
+    width: 30%;
+}
+.slpcmcrEmail,
+.slpcmcrFacebook{
+    width: 47%;
+}
+.slpcmcrSchool{
+    width: 65%;
+}
+.slpcmcrSchoolYear{
+    width: 30%;
+}
+.slpcmcrCourse{
+    width: 100%;
+}
+.slpcmcrArea{
+    width: 20%;
+}
+.slpcmcrRegion,
+.slpcmcrStudentID{
+    width: 35%;
+}
+.slpcmcrCertificate{
+    width: 40%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.slpcmcrCertificate div{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.slpcmcrCertificate button{
+    padding: 10px 20px;
+    margin: 5px 0;
+    margin-right: 5px;
+    border-radius: 5px;
+    font-size: 0.7vw;
+    cursor: pointer;
+    border: none;
+}
+.slpcmcrCommand{
+    width: 50%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.slpcmcrCommand button{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 3px;
+    border-radius: 5px;
+    font-size: 0.7vw;
+    cursor: pointer;
+    border: none;
+}
+.slpcmcrCommand button#slpcmcrcVerify{
+    background: lightgreen;
+}
+.slpcmcrCommand button#slpcmcrcUnverify{
+    background: lightblue;
+}
+.slpcmcrCommand button#slpcmcrcBlock{
+    background: orange;
+}
+.slpcmcrCommand button#slpcmcrcDelete{
+    background: red;
+    color: white;
+}
+.slpcmcrShow{
+    height: auto;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    animation:  fade-in-down 400ms ease;
+    background: url('../assets/imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+    box-shadow: 0 0 5px gray;
+    padding: 2%;
+    overflow: hidden;
+    border-radius: 1vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slpcmcrShow img{
+    height: 27vw;
+    display: flex;
+    margin: 0 auto;
+    transition: transform 0.2s ease-in-out;
+    will-change: transform;
+    border-radius: 1vw;
+}
+.slpcmcrShow iframe{
+    height: 27vw;
+    width: 100%;
+    border-radius: 1vw;
+}
+.slpcmcrShow div{
+    width: 100%;
+    position: absolute;
+    z-index: 3;
+    bottom: 1vw;
+    right: 1vw;
+    display: flex;
+    justify-content: right;
+}
+.slpcmcrShow button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 0.8vw;
+    cursor: pointer;
+    border: solid 2px black;
+    margin-left: 1%;
+}
+.slpcmcrShow button.zoomInCOE{
+    padding: 2% 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slpcmcrShow button.zoomInCOE .faIcons{
+    font-size: 1vw;
+    font-weight: 800;
+}
+
+
+
+
+.slPanelVContainerModal{
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 996;
+    padding-top: 4vw;
+}
+.slPanelVerifyModal{
+    height: auto;
+    width: 30%;
+    padding: 3%;
+    box-shadow: 0 0 10px gray;
+    border-radius: 1vw;
+    position: relative;
+    overflow: hidden;
+    animation:  fade-in-down 600ms ease;
+    background: url('../assets/imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+}
+.slPanelVerifyModal button.slpvButtonClose{
+    position: absolute;
+    top: 1.5vw;
+    right: 1.5vw;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 1.5vw;
+    line-height: 1vw;
+    color: white;
+    cursor: pointer;
+    z-index: 10;
+}
+.slPanelVerifyModal h3{
+    text-align: center;
+}
+.slPanelVerifyModal h6{
+    width: 100%;
+    text-align: center;
+    margin: 2% 0;
+    font-size: 0.8vw;
+    line-height: 1.5vw;
+    font-family: "Michroma", sans-serif;
+}
+.slPanelVerifyModal div{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.slPanelVerifyModal div button{
+    padding: 10px 25px;
+    margin: 0 1vw;
+    border-radius: 5px;
+    font-size: 0.8vw;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+
+.slPanelBContainerModal{
+    height: 100vh;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.36);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14.3px);
+    -webkit-backdrop-filter: blur(14.3px);
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 996;
+    padding-top: 4vw;
+}
+.slPanelBlockModal{
+    height: auto;
+    width: 30%;
+    padding: 3%;
+    box-shadow: 0 0 10px gray;
+    border-radius: 1vw;
+    position: relative;
+    overflow: hidden;
+    animation:  fade-in-down 600ms ease;
+    background: url('../assets/imgs/LandingBG01.png') no-repeat center;
+    background-size: cover;
+}
+.slPanelBlockModal button.slpbButtonClose{
+    position: absolute;
+    top: 1.5vw;
+    right: 1.5vw;
+    background: none;
+    border: none;
+    outline: none;
+    font-size: 1.5vw;
+    line-height: 1vw;
+    color: white;
+    cursor: pointer;
+    z-index: 10;
+}
+.slPanelBlockModal h3{
+    text-align: center;
+}
+.slPanelBlockModal h6{
+    width: 100%;
+    text-align: center;
+    margin: 2% 0;
+    font-size: 0.8vw;
+    line-height: 1.5vw;
+    font-family: "Michroma", sans-serif;
+}
+.slPanelBlockModal div{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.slPanelBlockModal textarea{
+    height: 5vw;
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+    padding: 2%;
+    border-radius: 1vw;
+    border: solid 3px white;
+    resize: none;
+}
+.slPanelBlockModal div button{
+    padding: 10px 25px;
+    margin: 0 1vw;
+    border-radius: 5px;
+    font-size: 0.8vw;
+    cursor: pointer;
+    border: none;
+}
+.slPanelBlockModal div button.disabled{
+    cursor: not-allowed;
+}
+
+
+
+
+
+
+
+
+section.sApPageContainer.top{
+    height: auto;
+    width: 100%;
+    padding: 6vw 7%;
+    padding-bottom: 2%;
+    position: relative;
+}
+.sApPageContentr.top{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sapctContent.left{
+    height: auto;
+    width: 55%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.sapctclProfile.left{
+    height: 12vw;
+    width: 12vw;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 0 0 10px gray;
+    border: solid 2px white;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sapctclProfile.left img{
+    height: 100%;
+}
+.sapctclProfile.left img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.sapctclProfile.left img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.sapctclProfile.left img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.sapctclProfile.right{
+    height: auto;
+    width: 70%;
+}
+.sapctclProfile.right h4{
+    font-size: 2vw;
+    font-weight: 600;
+    font-family: "Michroma", sans-serif;
+}
+.sapctclProfile.right div{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    align-items: center;
+    margin-top: 3%;
+}
+.sapctclProfile.right div span{
+    height: auto;
+    width: 55%;
+    margin: 1% 0;
+}
+.sapctclProfile.right div span.sapctclpr{
+    width: 45%;
+}
+.sapctclProfile.right div span p{
+    color: gray;
+    font-size: 0.7vw;
+}
+.sapctclProfile.right div span h6{
+    font-family: "Michroma", sans-serif;
+}
+.sapctContent.right{
+    height: auto;
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: start;
+}
+.sapctContent.right div{
+    height: auto;
+    padding: 3%;
+    border: solid 2px white;
+    border-radius: 1vw;
+    margin-bottom: 2%;
+}
+.sapctContent.right div p{
+    font-size: 0.7vw;
+    color: gray;
+}
+.sapctContent.right div h6{
+    font-size: 1vw;
+    font-family: "Michroma", sans-serif;
+    margin-top: 2%;
+}
+.sapctContent.right div h5{
+    font-size: 1.2vw;
+    font-family: "Michroma", sans-serif;
+    margin-top: 2%;
+}
+.sapctcrSchool{
+    width: 100%;
+}
+.sapctcrVerified{
+    width: 32%;
+}
+
+
+
+section.sApPageContainer.mid{
+    height: auto;
+    width: 100%;
+    padding: 0 7%;
+    position: relative;
+}
+
+
+.sApPageContainermNav{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1% 0;
+}
+.sapcmnLeft{
+    height: auto;
+    width: 60%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.sapcmnLeft button{
+    height: 100%;
+    padding: 1% 2%;
+    background: none;
+    outline: none;
+    border: none;
+    opacity: 30%;
+    margin-right: 1%;
+    transition: 400ms ease;
+    cursor: pointer;
+    color: white;
+    font-family: "Michroma", sans-serif;
+    font-size: 0.8vw;
+}
+.sapcmnLeft button:hover{
+    opacity: 100%;
+    transition: 400ms ease;
+}
+.sapcmnLeft button.active{
+    opacity: 100%;
+}
+.sapcmnRight{
+    height: auto;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sapcmnRight input{
+    padding: 5px 10px;
+    width: 38%;
+    border-radius: 50px;
+    border: solid 2px white;
+    outline: none;
+    font-size: 0.7vw;
+}
+.sapcmnRight div{
+    width: 27%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.sapcmnRight div select{
+    padding: 5px;
+    margin-left: 5%;
+    width: 80%;
+    border-radius: 50px;
+    border: solid 2px white;
+    outline: none;
+    font-size: 0.7vw;
+}
+
+
+
+
+
+
+
+.sApPageContent.mid{
+    height: auto;
+    width: 100%;
+}
+.sApPageContent.mid table{
+    height: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+.sApPageContent.mid table tr th{
+    border: solid 2px white;
+    padding: 0.5%;
+}
+.sApPageContent.mid table tr th p{
+    font-size: 0.7vw;
+    font-weight: 400;
+}
+.sApPageContent.mid table tr td{
+    text-align: center;
+    padding: 0.3%;
+}
+.sApPageContent.mid table tr td p{
+    font-size: 0.7vw;
+}
+.sappcmTableContents{
+    height: 20vw;
+    width: 100%;
+    overflow-y: scroll;
+}
+.sappcmTableContents table#sappcmTable{
+    height: auto;
+    width: 100%;
+    margin-top: 0.5%;
+    border-collapse: collapse;
+}
+.sappcmTableContents table#sappcmTable tr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sappcmTableContents table#sappcmTable tr td{
+    padding: 0.5%;
+}
+.sappcmTableContents table#sappcmTable tbody tr:nth-child(odd){
+    background: rgba(80, 80, 80, 0.5);
+}
+.sappcmTableContents table#sappcmTable tbody tr:nth-child(even){
+    background: rgba(80, 80, 80, 0.3);
+}
+.sappcmTableContents table#sappcmTable tbody tr td p a{
+    width: 100%;
+    color: black;
+    background: white;
+    border-radius: 5px;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtDetails{
+    padding: 0 2%;
+    width: 25%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+} 
+.sappcmtdImg{
+    height: 2vw;
+    width: 2vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background: black;
+    overflow: hidden;
+    position: relative;
+    border: solid 2px white;
+}
+.sappcmtdImg img{
+    height: 100%;
+}
+.sappcmtdImg img[gender='Male']{
+    content: url('../assets/imgs/MSLSilhoutte/maleSilhoutte.png');
+}
+.sappcmtdImg img[gender='Female']{
+    content: url('../assets/imgs/MSLSilhoutte/femaleSilhoutte.png');
+}
+.sappcmtdImg img[gender='Empty']{
+    content: url('../assets/imgs/MSLSilhoutte/lgbtqaSilhoutte.png');
+}
+.sappcmtdDet{
+    height: auto;
+    width: 70%;
+    padding: 0 4%;
+    text-align: left;
+}
+.sappcmtdDet h6{
+    font-family: "Michroma", sans-serif;
+}
+.sappcmtdFacebook{
+    height: auto;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sappcmtdFacebook a{
+    color: white;
+    font-size: 2vw;
+    line-height: 0.7vw;
+}
+.sappcmtdFacebook h4{
+    opacity: 30%;
+    font-size: 2vw;
+    line-height: 0.7vw;
+    cursor: not-allowed;
+}
+
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtFullname{
+    width: 20%;
+    padding: 0 2%;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtFullname p{
+    text-align: left;
+    text-transform: capitalize;
+} 
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtYear{
+    width: 12%;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtState{
+    width: 13%;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCOR{
+    width: 10%;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCOR button{
+    width: 100%;
+    padding: 7px 5px;
+    border-radius: 5px;
+    font-size: 0.7vw;
+    margin: 0 1%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand{
+    height: auto;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button{
+    width: 100%;
+    padding: 7px 5px;
+    border-radius: 5px;
+    font-size: 0.7vw;
+    margin: 0 1%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button#sappcmtcDelete{
+    background: red;
+    color: white;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button#sappcmtcBlock{
+    background: orange;
+    color: black;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button#sappcmtcVerify{
+    background: lightgreen;
+    color: black;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button#sappcmtcUnverify{
+    background: lightblue;
+    color: black;
+}
+.sappcmTableContents table#sappcmTable tbody tr td#sappcmtCommand button.disabled{
+    opacity: 50%;
+    cursor: not-allowed;
+}
+
+
+
+
+section.sApPageContainer.bottom{
+    height: auto;
+    width: 100%;
+    padding: 0 7%;
+    position: relative;
+}
